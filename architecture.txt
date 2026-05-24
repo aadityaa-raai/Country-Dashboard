@@ -1,0 +1,17 @@
+country_dashboard/
+│
+├── app.py
+│
+├── ingestion/
+├── processing/
+├── visualizations/
+├── analytics/
+│
+├── data/
+│   ├── raw/
+│   ├── processed/
+│   └── cache/
+│
+├── utils/
+│   ├── config.py
+│   └── helpers.py
