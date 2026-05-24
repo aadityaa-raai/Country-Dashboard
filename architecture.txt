@@ -1,17 +1,76 @@
-country_dashboard/
+Country-Dashboard/
 │
-├── app.py
+├── Artifacts/
+│   ├── raw_data/
+│   │   ├── gdp_raw.csv
+│   │   ├── population_raw.csv
+│   │   ├── inflation_raw.csv
+│   │   └── ...
+│   │
+│   └── processed_data/
+│       ├── kpi_data.csv
+│       ├── gdp_data.csv
+│       ├── population_data.csv
+│       ├── economy_data.csv
+│       ├── trade_data.csv
+│       ├── technology_data.csv
+│       ├── environment_data.csv
+│       └── military_data.csv
 │
-├── ingestion/
-├── processing/
-├── visualizations/
-├── analytics/
+├── Config/
+│   ├── __init__.py
+│   └── config.yaml
 │
-├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── cache/
+├── Entity/
+│   ├── __init__.py
+│   ├── config_entity.py
+│   └── artifact_entity.py
+│
+├── Ingestion/
+│   ├── __init__.py
+│   ├── sources.py
+│   └── data_ingestion.py
+│
+├── Processing/
+│   ├── __init__.py
+│   │
+│   ├── data_cleaning.py
+│   ├── preprocessing_utils.py
+│   │
+│   ├── kpi_processor.py
+│   ├── gdp_processor.py
+│   ├── population_processor.py
+│   ├── economy_processor.py
+│   ├── trade_processor.py
+│   ├── technology_processor.py
+│   ├── environment_processor.py
+│   └── military_processor.py
+│
+├── Dashboard/
+│   ├── __init__.py
+│   ├── app.py
+│   │
+│   ├── components/
+│   │   ├── sidebar.py
+│   │   ├── filters.py
+│   │   └── cards.py
+│   │
+│   └── sections/
+│       ├── kpi_section.py
+│       ├── gdp_section.py
+│       ├── population_section.py
+│       ├── economy_section.py
+│       ├── trade_section.py
+│       ├── technology_section.py
+│       ├── environment_section.py
+│       └── military_section.py
 │
 ├── utils/
-│   ├── config.py
-│   └── helpers.py
+│   ├── __init__.py
+│   ├── logger.py
+│   ├── exception.py
+│   └── common.py
+│
+├── requirements.txt
+├── README.md
+└── main.py
