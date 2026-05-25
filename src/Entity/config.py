@@ -1,14 +1,15 @@
 import os
 from datetime import datetime
 
+from src.Entity.artifacts import DataProcessingArtifact
 
 class TrainingPipelineConfig:
     def __init__(self, timestamp=datetime.now()):
 
-        timestamp = timestamp.strftime("%m_%d_%Y_%H_%M_%S")
+        # timestamp = timestamp.strftime("%m_%d_%Y_%H_%M_%S")
 
         self.pipeline_name = "country_dashboard"
-        self.artifact_dir = os.path.join("artifacts", timestamp)
+        self.artifact_dir = os.path.join("artifacts")
         self.timestamp = timestamp
 
 
@@ -57,3 +58,13 @@ class DataProcessingConfig:
         self.processed_data_dir=os.path.join(self.data_processing_dir,"processed_data")
 
         self.meta_data_dir=os.path.join(self.data_processing_dir,"metadata")
+
+        self.processed_data_info=os.path.join(self.data_processing_dir,"processed data info")
+    
+    def artifact(self)->DataProcessingArtifact:
+        data_processing_artifact=DataProcessingArtifact(processed_data_dir=self.processed_data_dir,
+                                                        meta_data_dir=self.meta_data_dir,
+                                                        processed_data_info=self.processed_data_info)
+
+        return data_processing_artifact
+# class Data

@@ -1,0 +1,6 @@
+{
+    "data_path": "artifacts\\data_processing\\processed_data\\mobile_subscriptions_data.csv",
+    "metadata_path": "artifacts\\data_processing\\metadata\\mobile_subscriptions_metadata.json",
+    "value_column": "Mobile_Subscriptions",
+    "section": "technology"
+}

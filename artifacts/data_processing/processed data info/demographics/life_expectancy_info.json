@@ -1,0 +1,6 @@
+{
+    "data_path": "artifacts\\data_processing\\processed_data\\life_expectancy_data.csv",
+    "metadata_path": "artifacts\\data_processing\\metadata\\life_expectancy_metadata.json",
+    "value_column": "Life_Expectancy",
+    "section": "demographics"
+}

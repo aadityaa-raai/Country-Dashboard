@@ -1,0 +1,6 @@
+{
+    "data_path": "artifacts\\data_processing\\processed_data\\armed_forces_personnel_data.csv",
+    "metadata_path": "artifacts\\data_processing\\metadata\\armed_forces_personnel_metadata.json",
+    "value_column": "Armed_Forces_Personnel",
+    "section": "military"
+}

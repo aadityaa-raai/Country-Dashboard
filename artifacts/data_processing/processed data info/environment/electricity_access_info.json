@@ -1,0 +1,6 @@
+{
+    "data_path": "artifacts\\data_processing\\processed_data\\electricity_access_data.csv",
+    "metadata_path": "artifacts\\data_processing\\metadata\\electricity_access_metadata.json",
+    "value_column": "Electricity_Access",
+    "section": "environment"
+}

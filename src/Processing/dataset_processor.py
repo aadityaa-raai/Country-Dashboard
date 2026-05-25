@@ -1,5 +1,6 @@
 import os
 import sys
+import json
 
 from src.Processing.processed_data_registry import PROCESSED_DATA_REGISTRY
 
@@ -81,12 +82,26 @@ class DatasetProcessor:
                 f"{self.dataset_name}_metadata.json"
             )
 
-            PROCESSED_DATA_REGISTRY[self.dataset_name] = {
+            section_file_path=os.path.join(self.data_processing_config.processed_data_info,self.dataset_config.get("section"))
+            os.makedirs(section_file_path,exist_ok=True)
+
+            file_path=os.path.join(section_file_path,f"{self.dataset_name}_info.json")
+            # os.makedirs(file_path,exist_ok=True)
+
+            PROCESSED_DATA_REGISTRY = {
                                     "data_path": processed_file_path,
                                     "metadata_path": metadata_file_path,
                                     "value_column": self.dataset_config["value_column"],
                                     "section": self.dataset_config.get("section")
                                     }
+            
+            with open(file_path, "w") as file:
+
+                json.dump(
+                    PROCESSED_DATA_REGISTRY,
+                    file,
+                    indent=4
+                )
 
             return process_dataset(
 

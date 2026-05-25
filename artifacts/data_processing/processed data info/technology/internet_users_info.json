@@ -1,0 +1,6 @@
+{
+    "data_path": "artifacts\\data_processing\\processed_data\\internet_users_data.csv",
+    "metadata_path": "artifacts\\data_processing\\metadata\\internet_users_metadata.json",
+    "value_column": "Internet_Users",
+    "section": "technology"
+}

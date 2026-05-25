@@ -1,0 +1,6 @@
+{
+    "data_path": "artifacts\\data_processing\\processed_data\\trade_percent_gdp_data.csv",
+    "metadata_path": "artifacts\\data_processing\\metadata\\trade_percent_gdp_metadata.json",
+    "value_column": "Trade_Percent_GDP",
+    "section": "trade"
+}

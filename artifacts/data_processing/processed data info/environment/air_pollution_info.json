@@ -1,0 +1,6 @@
+{
+    "data_path": "artifacts\\data_processing\\processed_data\\air_pollution_data.csv",
+    "metadata_path": "artifacts\\data_processing\\metadata\\air_pollution_metadata.json",
+    "value_column": "Air_Pollution",
+    "section": "environment"
+}
