@@ -1,9 +1,9 @@
 {
-    "economy": "../artifacts/section_processing/section_data/economy_data.csv",
-    "demographics": "../artifacts/section_processing/section_data/demographics_data.csv",
-    "trade": "../artifacts/section_processing/section_data/trade_data.csv",
-    "technology": "../artifacts/section_processing/section_data/technology_data.csv",
-    "environment": "../artifacts/section_processing/section_data/environment_data.csv",
-    "industry": "../artifacts/section_processing/section_data/industry_data.csv",
-    "military": "../artifacts/section_processing/section_data/military_data.csv"
+    "economy": "artifacts/section_processing/section_data/economy_data.csv",
+    "demographics": "artifacts/section_processing/section_data/demographics_data.csv",
+    "trade": "artifacts/section_processing/section_data/trade_data.csv",
+    "technology": "artifacts/section_processing/section_data/technology_data.csv",
+    "environment": "artifacts/section_processing/section_data/environment_data.csv",
+    "industry": "artifacts/section_processing/section_data/industry_data.csv",
+    "military": "artifacts/section_processing/section_data/military_data.csv"
 }

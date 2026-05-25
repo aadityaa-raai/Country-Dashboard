@@ -84,7 +84,7 @@ def filter_year_range(df, start_year, end_year):
 # LOAD REGISTRY
 # ============================================
 
-DATA_REGISTRY_PATH = "../artifacts/data/data_registry.json"
+DATA_REGISTRY_PATH = "artifacts/data/data_registry.json"
 
 data_registry = load_data_registry(DATA_REGISTRY_PATH)
 
