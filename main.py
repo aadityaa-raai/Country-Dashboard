@@ -8,8 +8,9 @@ from src.Utils.logger import logging
 from src.Processing.dataset_registry import DATASET_REGISTRY
 from src.Processing.dataset_processor import DatasetProcessor
 from src.Ingestion.data_ingestion import DataIngestion
-from src.Entity.artifacts import DataIngestionArtifact,DataProcessingArtifact
-from src.Entity.config import TrainingPipelineConfig,DataIngestionConfig,DataProcessingConfig
+from src.Entity.artifacts import DataIngestionArtifact,DataProcessingArtifact,SectionProcessingArtifact
+from src.Entity.config import TrainingPipelineConfig,DataIngestionConfig,DataProcessingConfig,SectionProcessingConfig
+from src.Section_Processing.section_processor import process_section
 
 if __name__=="__main__":
     try:
@@ -40,8 +41,28 @@ if __name__=="__main__":
         
         data_processing_artifact=data_processing_config.artifact()
 
+        section_processing_config=SectionProcessingConfig(training_pipeline_config=training_pipeline_config)
         
+        logging.info(
+            "Economy Section Processing Started"
+        )
 
+        SECTIONS = [ "economy", "demographics", "trade", "technology", "environment", "industry", "military" ]
+
+        for section in SECTIONS: 
+            logging.info( f"{section} section processing started" )
+            process_section(section_name=section, 
+                            data_processing_artifact=( data_processing_artifact ),
+                             section_processing_config=( section_processing_config ) )
+            logging.info( f"{section} section processing completed" )
+
+        logging.info(
+            "Economy Section Processing Completed"
+        )
+
+        section_processing_artifact:SectionProcessingArtifact=section_processing_config.artifact()
+
+        print(section_processing_artifact.section_registry)
 
 
 

@@ -1,0 +1,773 @@
+[ 2026-05-25 23:39:16,190 ] 21 root - INFO - Data Ingestion Started
+[ 2026-05-25 23:39:16,191 ] 41 root - INFO - Fetching gdp
+[ 2026-05-25 23:39:16,353 ] 110 root - INFO - Saved gdp_raw.csv
+[ 2026-05-25 23:39:16,353 ] 41 root - INFO - Fetching gdp_per_capita
+[ 2026-05-25 23:39:16,435 ] 110 root - INFO - Saved gdp_per_capita_raw.csv
+[ 2026-05-25 23:39:16,435 ] 41 root - INFO - Fetching population
+[ 2026-05-25 23:39:16,511 ] 110 root - INFO - Saved population_raw.csv
+[ 2026-05-25 23:39:16,512 ] 41 root - INFO - Fetching inflation
+[ 2026-05-25 23:39:16,604 ] 110 root - INFO - Saved inflation_raw.csv
+[ 2026-05-25 23:39:16,604 ] 41 root - INFO - Fetching unemployment
+[ 2026-05-25 23:39:16,695 ] 110 root - INFO - Saved unemployment_raw.csv
+[ 2026-05-25 23:39:16,695 ] 41 root - INFO - Fetching life_expectancy
+[ 2026-05-25 23:39:16,768 ] 110 root - INFO - Saved life_expectancy_raw.csv
+[ 2026-05-25 23:39:16,769 ] 41 root - INFO - Fetching exports
+[ 2026-05-25 23:39:16,855 ] 110 root - INFO - Saved exports_raw.csv
+[ 2026-05-25 23:39:16,855 ] 41 root - INFO - Fetching imports
+[ 2026-05-25 23:39:16,933 ] 110 root - INFO - Saved imports_raw.csv
+[ 2026-05-25 23:39:16,933 ] 41 root - INFO - Fetching forex_reserves
+[ 2026-05-25 23:39:17,028 ] 110 root - INFO - Saved forex_reserves_raw.csv
+[ 2026-05-25 23:39:17,028 ] 41 root - INFO - Fetching agriculture
+[ 2026-05-25 23:39:17,130 ] 110 root - INFO - Saved agriculture_raw.csv
+[ 2026-05-25 23:39:17,130 ] 41 root - INFO - Fetching industry
+[ 2026-05-25 23:39:17,271 ] 110 root - INFO - Saved industry_raw.csv
+[ 2026-05-25 23:39:17,272 ] 41 root - INFO - Fetching services
+[ 2026-05-25 23:39:17,354 ] 110 root - INFO - Saved services_raw.csv
+[ 2026-05-25 23:39:17,354 ] 41 root - INFO - Fetching trade_percent_gdp
+[ 2026-05-25 23:39:17,465 ] 110 root - INFO - Saved trade_percent_gdp_raw.csv
+[ 2026-05-25 23:39:17,465 ] 41 root - INFO - Fetching fdi
+[ 2026-05-25 23:39:17,546 ] 110 root - INFO - Saved fdi_raw.csv
+[ 2026-05-25 23:39:17,546 ] 41 root - INFO - Fetching interest_rate
+[ 2026-05-25 23:39:17,642 ] 110 root - INFO - Saved interest_rate_raw.csv
+[ 2026-05-25 23:39:17,642 ] 41 root - INFO - Fetching current_account_balance
+[ 2026-05-25 23:39:17,740 ] 110 root - INFO - Saved current_account_balance_raw.csv
+[ 2026-05-25 23:39:17,741 ] 41 root - INFO - Fetching population_growth
+[ 2026-05-25 23:39:17,856 ] 110 root - INFO - Saved population_growth_raw.csv
+[ 2026-05-25 23:39:17,856 ] 41 root - INFO - Fetching urbanization
+[ 2026-05-25 23:39:17,937 ] 110 root - INFO - Saved urbanization_raw.csv
+[ 2026-05-25 23:39:17,937 ] 41 root - INFO - Fetching birth_rate
+[ 2026-05-25 23:39:18,022 ] 110 root - INFO - Saved birth_rate_raw.csv
+[ 2026-05-25 23:39:18,022 ] 41 root - INFO - Fetching death_rate
+[ 2026-05-25 23:39:18,127 ] 110 root - INFO - Saved death_rate_raw.csv
+[ 2026-05-25 23:39:18,127 ] 41 root - INFO - Fetching population_density
+[ 2026-05-25 23:39:18,226 ] 110 root - INFO - Saved population_density_raw.csv
+[ 2026-05-25 23:39:18,226 ] 41 root - INFO - Fetching literacy_rate
+[ 2026-05-25 23:39:18,336 ] 110 root - INFO - Saved literacy_rate_raw.csv
+[ 2026-05-25 23:39:18,336 ] 41 root - INFO - Fetching internet_users
+[ 2026-05-25 23:39:18,397 ] 110 root - INFO - Saved internet_users_raw.csv
+[ 2026-05-25 23:39:18,397 ] 41 root - INFO - Fetching mobile_subscriptions
+[ 2026-05-25 23:39:18,498 ] 110 root - INFO - Saved mobile_subscriptions_raw.csv
+[ 2026-05-25 23:39:18,498 ] 41 root - INFO - Fetching broadband_subscriptions
+[ 2026-05-25 23:39:18,612 ] 110 root - INFO - Saved broadband_subscriptions_raw.csv
+[ 2026-05-25 23:39:18,612 ] 41 root - INFO - Fetching secure_servers
+[ 2026-05-25 23:39:18,713 ] 110 root - INFO - Saved secure_servers_raw.csv
+[ 2026-05-25 23:39:18,713 ] 41 root - INFO - Fetching high_tech_exports
+[ 2026-05-25 23:39:18,797 ] 110 root - INFO - Saved high_tech_exports_raw.csv
+[ 2026-05-25 23:39:18,797 ] 41 root - INFO - Fetching rnd_expenditure
+[ 2026-05-25 23:39:18,893 ] 110 root - INFO - Saved rnd_expenditure_raw.csv
+[ 2026-05-25 23:39:18,894 ] 41 root - INFO - Fetching renewable_energy
+[ 2026-05-25 23:39:18,964 ] 110 root - INFO - Saved renewable_energy_raw.csv
+[ 2026-05-25 23:39:18,964 ] 41 root - INFO - Fetching forest_area
+[ 2026-05-25 23:39:19,047 ] 110 root - INFO - Saved forest_area_raw.csv
+[ 2026-05-25 23:39:19,047 ] 41 root - INFO - Fetching air_pollution
+[ 2026-05-25 23:39:19,116 ] 110 root - INFO - Saved air_pollution_raw.csv
+[ 2026-05-25 23:39:19,116 ] 41 root - INFO - Fetching electricity_access
+[ 2026-05-25 23:39:19,198 ] 110 root - INFO - Saved electricity_access_raw.csv
+[ 2026-05-25 23:39:19,198 ] 41 root - INFO - Fetching military_expenditure
+[ 2026-05-25 23:39:19,266 ] 110 root - INFO - Saved military_expenditure_raw.csv
+[ 2026-05-25 23:39:19,267 ] 41 root - INFO - Fetching military_percent_gdp
+[ 2026-05-25 23:39:19,368 ] 110 root - INFO - Saved military_percent_gdp_raw.csv
+[ 2026-05-25 23:39:19,369 ] 41 root - INFO - Fetching armed_forces_personnel
+[ 2026-05-25 23:39:19,471 ] 110 root - INFO - Saved armed_forces_personnel_raw.csv
+[ 2026-05-25 23:39:19,473 ] 23 root - INFO - Data Ingestion Completed
+[ 2026-05-25 23:39:19,474 ] 22 root - INFO - Loading data from artifacts\data_ingestion\raw_data\gdp_raw.csv
+[ 2026-05-25 23:39:19,493 ] 26 root - INFO - Data loaded successfully
+[ 2026-05-25 23:39:19,493 ] 396 root - INFO - Starting preprocessing pipeline
+[ 2026-05-25 23:39:19,493 ] 53 root - INFO - Schema validation successful
+[ 2026-05-25 23:39:19,493 ] 65 root - INFO - Standardizing columns
+[ 2026-05-25 23:39:19,507 ] 94 root - INFO - Column standardization completed
+[ 2026-05-25 23:39:19,507 ] 108 root - INFO - Converting datatypes
+[ 2026-05-25 23:39:19,508 ] 125 root - INFO - Datatype conversion completed
+[ 2026-05-25 23:39:19,508 ] 139 root - INFO - Handling missing values
+[ 2026-05-25 23:39:19,514 ] 156 root - INFO - Missing value handling completed from (66, 5) to (65, 5)
+[ 2026-05-25 23:39:19,514 ] 174 root - INFO - Removing duplicates
+[ 2026-05-25 23:39:19,523 ] 188 root - INFO - Duplicates removed from (65, 5) to (65, 5)
+[ 2026-05-25 23:39:19,523 ] 208 root - INFO - Filtering valid years
+[ 2026-05-25 23:39:19,524 ] 217 root - INFO - Year filtering completed
+[ 2026-05-25 23:39:19,524 ] 231 root - INFO - Sorting dataframe
+[ 2026-05-25 23:39:19,532 ] 242 root - INFO - Sorting completed
+[ 2026-05-25 23:39:19,533 ] 432 root - INFO - Preprocessing pipeline completed
+[ 2026-05-25 23:39:19,535 ] 382 root - INFO - Processed dataframe saved at artifacts\data_processing\processed_data\gdp_data.csv
+[ 2026-05-25 23:39:19,536 ] 354 root - INFO - Metadata saved at artifacts\data_processing\metadata\gdp_metadata.json
+[ 2026-05-25 23:39:19,536 ] 484 root - INFO - GDP processing completed
+[ 2026-05-25 23:39:19,537 ] 22 root - INFO - Loading data from artifacts\data_ingestion\raw_data\gdp_per_capita_raw.csv
+[ 2026-05-25 23:39:19,539 ] 26 root - INFO - Data loaded successfully
+[ 2026-05-25 23:39:19,539 ] 396 root - INFO - Starting preprocessing pipeline
+[ 2026-05-25 23:39:19,539 ] 53 root - INFO - Schema validation successful
+[ 2026-05-25 23:39:19,539 ] 65 root - INFO - Standardizing columns
+[ 2026-05-25 23:39:19,540 ] 94 root - INFO - Column standardization completed
+[ 2026-05-25 23:39:19,540 ] 108 root - INFO - Converting datatypes
+[ 2026-05-25 23:39:19,541 ] 125 root - INFO - Datatype conversion completed
+[ 2026-05-25 23:39:19,541 ] 139 root - INFO - Handling missing values
+[ 2026-05-25 23:39:19,543 ] 156 root - INFO - Missing value handling completed from (66, 5) to (65, 5)
+[ 2026-05-25 23:39:19,543 ] 174 root - INFO - Removing duplicates
+[ 2026-05-25 23:39:19,544 ] 188 root - INFO - Duplicates removed from (65, 5) to (65, 5)
+[ 2026-05-25 23:39:19,544 ] 208 root - INFO - Filtering valid years
+[ 2026-05-25 23:39:19,544 ] 217 root - INFO - Year filtering completed
+[ 2026-05-25 23:39:19,544 ] 231 root - INFO - Sorting dataframe
+[ 2026-05-25 23:39:19,546 ] 242 root - INFO - Sorting completed
+[ 2026-05-25 23:39:19,547 ] 432 root - INFO - Preprocessing pipeline completed
+[ 2026-05-25 23:39:19,549 ] 382 root - INFO - Processed dataframe saved at artifacts\data_processing\processed_data\gdp_per_capita_data.csv
+[ 2026-05-25 23:39:19,550 ] 354 root - INFO - Metadata saved at artifacts\data_processing\metadata\gdp_per_capita_metadata.json
+[ 2026-05-25 23:39:19,550 ] 484 root - INFO - GDP_Per_Capita processing completed
+[ 2026-05-25 23:39:19,552 ] 22 root - INFO - Loading data from artifacts\data_ingestion\raw_data\inflation_raw.csv
+[ 2026-05-25 23:39:19,555 ] 26 root - INFO - Data loaded successfully
+[ 2026-05-25 23:39:19,555 ] 396 root - INFO - Starting preprocessing pipeline
+[ 2026-05-25 23:39:19,555 ] 53 root - INFO - Schema validation successful
+[ 2026-05-25 23:39:19,555 ] 65 root - INFO - Standardizing columns
+[ 2026-05-25 23:39:19,556 ] 94 root - INFO - Column standardization completed
+[ 2026-05-25 23:39:19,556 ] 108 root - INFO - Converting datatypes
+[ 2026-05-25 23:39:19,557 ] 125 root - INFO - Datatype conversion completed
+[ 2026-05-25 23:39:19,557 ] 139 root - INFO - Handling missing values
+[ 2026-05-25 23:39:19,559 ] 156 root - INFO - Missing value handling completed from (66, 5) to (65, 5)
+[ 2026-05-25 23:39:19,560 ] 174 root - INFO - Removing duplicates
+[ 2026-05-25 23:39:19,561 ] 188 root - INFO - Duplicates removed from (65, 5) to (65, 5)
+[ 2026-05-25 23:39:19,561 ] 208 root - INFO - Filtering valid years
+[ 2026-05-25 23:39:19,561 ] 217 root - INFO - Year filtering completed
+[ 2026-05-25 23:39:19,561 ] 231 root - INFO - Sorting dataframe
+[ 2026-05-25 23:39:19,563 ] 242 root - INFO - Sorting completed
+[ 2026-05-25 23:39:19,564 ] 432 root - INFO - Preprocessing pipeline completed
+[ 2026-05-25 23:39:19,566 ] 382 root - INFO - Processed dataframe saved at artifacts\data_processing\processed_data\inflation_data.csv
+[ 2026-05-25 23:39:19,568 ] 354 root - INFO - Metadata saved at artifacts\data_processing\metadata\inflation_metadata.json
+[ 2026-05-25 23:39:19,568 ] 484 root - INFO - Inflation processing completed
+[ 2026-05-25 23:39:19,569 ] 22 root - INFO - Loading data from artifacts\data_ingestion\raw_data\interest_rate_raw.csv
+[ 2026-05-25 23:39:19,572 ] 26 root - INFO - Data loaded successfully
+[ 2026-05-25 23:39:19,572 ] 396 root - INFO - Starting preprocessing pipeline
+[ 2026-05-25 23:39:19,572 ] 53 root - INFO - Schema validation successful
+[ 2026-05-25 23:39:19,572 ] 65 root - INFO - Standardizing columns
+[ 2026-05-25 23:39:19,574 ] 94 root - INFO - Column standardization completed
+[ 2026-05-25 23:39:19,574 ] 108 root - INFO - Converting datatypes
+[ 2026-05-25 23:39:19,575 ] 125 root - INFO - Datatype conversion completed
+[ 2026-05-25 23:39:19,575 ] 139 root - INFO - Handling missing values
+[ 2026-05-25 23:39:19,577 ] 156 root - INFO - Missing value handling completed from (66, 5) to (45, 5)
+[ 2026-05-25 23:39:19,578 ] 174 root - INFO - Removing duplicates
+[ 2026-05-25 23:39:19,579 ] 188 root - INFO - Duplicates removed from (45, 5) to (45, 5)
+[ 2026-05-25 23:39:19,579 ] 208 root - INFO - Filtering valid years
+[ 2026-05-25 23:39:19,580 ] 217 root - INFO - Year filtering completed
+[ 2026-05-25 23:39:19,580 ] 231 root - INFO - Sorting dataframe
+[ 2026-05-25 23:39:19,581 ] 242 root - INFO - Sorting completed
+[ 2026-05-25 23:39:19,582 ] 432 root - INFO - Preprocessing pipeline completed
+[ 2026-05-25 23:39:19,585 ] 382 root - INFO - Processed dataframe saved at artifacts\data_processing\processed_data\interest_rate_data.csv
+[ 2026-05-25 23:39:19,586 ] 354 root - INFO - Metadata saved at artifacts\data_processing\metadata\interest_rate_metadata.json
+[ 2026-05-25 23:39:19,587 ] 484 root - INFO - Interest_Rate processing completed
+[ 2026-05-25 23:39:19,588 ] 22 root - INFO - Loading data from artifacts\data_ingestion\raw_data\forex_reserves_raw.csv
+[ 2026-05-25 23:39:19,591 ] 26 root - INFO - Data loaded successfully
+[ 2026-05-25 23:39:19,591 ] 396 root - INFO - Starting preprocessing pipeline
+[ 2026-05-25 23:39:19,591 ] 53 root - INFO - Schema validation successful
+[ 2026-05-25 23:39:19,591 ] 65 root - INFO - Standardizing columns
+[ 2026-05-25 23:39:19,593 ] 94 root - INFO - Column standardization completed
+[ 2026-05-25 23:39:19,593 ] 108 root - INFO - Converting datatypes
+[ 2026-05-25 23:39:19,593 ] 125 root - INFO - Datatype conversion completed
+[ 2026-05-25 23:39:19,593 ] 139 root - INFO - Handling missing values
+[ 2026-05-25 23:39:19,596 ] 156 root - INFO - Missing value handling completed from (66, 5) to (65, 5)
+[ 2026-05-25 23:39:19,597 ] 174 root - INFO - Removing duplicates
+[ 2026-05-25 23:39:19,598 ] 188 root - INFO - Duplicates removed from (65, 5) to (65, 5)
+[ 2026-05-25 23:39:19,599 ] 208 root - INFO - Filtering valid years
+[ 2026-05-25 23:39:19,600 ] 217 root - INFO - Year filtering completed
+[ 2026-05-25 23:39:19,600 ] 231 root - INFO - Sorting dataframe
+[ 2026-05-25 23:39:19,602 ] 242 root - INFO - Sorting completed
+[ 2026-05-25 23:39:19,603 ] 432 root - INFO - Preprocessing pipeline completed
+[ 2026-05-25 23:39:19,607 ] 382 root - INFO - Processed dataframe saved at artifacts\data_processing\processed_data\forex_reserves_data.csv
+[ 2026-05-25 23:39:19,608 ] 354 root - INFO - Metadata saved at artifacts\data_processing\metadata\forex_reserves_metadata.json
+[ 2026-05-25 23:39:19,608 ] 484 root - INFO - Forex_Reserves processing completed
+[ 2026-05-25 23:39:19,609 ] 22 root - INFO - Loading data from artifacts\data_ingestion\raw_data\current_account_balance_raw.csv
+[ 2026-05-25 23:39:19,613 ] 26 root - INFO - Data loaded successfully
+[ 2026-05-25 23:39:19,613 ] 396 root - INFO - Starting preprocessing pipeline
+[ 2026-05-25 23:39:19,613 ] 53 root - INFO - Schema validation successful
+[ 2026-05-25 23:39:19,613 ] 65 root - INFO - Standardizing columns
+[ 2026-05-25 23:39:19,616 ] 94 root - INFO - Column standardization completed
+[ 2026-05-25 23:39:19,616 ] 108 root - INFO - Converting datatypes
+[ 2026-05-25 23:39:19,617 ] 125 root - INFO - Datatype conversion completed
+[ 2026-05-25 23:39:19,617 ] 139 root - INFO - Handling missing values
+[ 2026-05-25 23:39:19,620 ] 156 root - INFO - Missing value handling completed from (66, 5) to (50, 5)
+[ 2026-05-25 23:39:19,620 ] 174 root - INFO - Removing duplicates
+[ 2026-05-25 23:39:19,622 ] 188 root - INFO - Duplicates removed from (50, 5) to (50, 5)
+[ 2026-05-25 23:39:19,622 ] 208 root - INFO - Filtering valid years
+[ 2026-05-25 23:39:19,622 ] 217 root - INFO - Year filtering completed
+[ 2026-05-25 23:39:19,623 ] 231 root - INFO - Sorting dataframe
+[ 2026-05-25 23:39:19,624 ] 242 root - INFO - Sorting completed
+[ 2026-05-25 23:39:19,625 ] 432 root - INFO - Preprocessing pipeline completed
+[ 2026-05-25 23:39:19,627 ] 382 root - INFO - Processed dataframe saved at artifacts\data_processing\processed_data\current_account_balance_data.csv
+[ 2026-05-25 23:39:19,628 ] 354 root - INFO - Metadata saved at artifacts\data_processing\metadata\current_account_balance_metadata.json
+[ 2026-05-25 23:39:19,629 ] 484 root - INFO - Current_Account_Balance processing completed
+[ 2026-05-25 23:39:19,630 ] 22 root - INFO - Loading data from artifacts\data_ingestion\raw_data\fdi_raw.csv
+[ 2026-05-25 23:39:19,643 ] 26 root - INFO - Data loaded successfully
+[ 2026-05-25 23:39:19,643 ] 396 root - INFO - Starting preprocessing pipeline
+[ 2026-05-25 23:39:19,643 ] 53 root - INFO - Schema validation successful
+[ 2026-05-25 23:39:19,643 ] 65 root - INFO - Standardizing columns
+[ 2026-05-25 23:39:19,645 ] 94 root - INFO - Column standardization completed
+[ 2026-05-25 23:39:19,645 ] 108 root - INFO - Converting datatypes
+[ 2026-05-25 23:39:19,646 ] 125 root - INFO - Datatype conversion completed
+[ 2026-05-25 23:39:19,646 ] 139 root - INFO - Handling missing values
+[ 2026-05-25 23:39:19,651 ] 156 root - INFO - Missing value handling completed from (66, 5) to (55, 5)
+[ 2026-05-25 23:39:19,651 ] 174 root - INFO - Removing duplicates
+[ 2026-05-25 23:39:19,652 ] 188 root - INFO - Duplicates removed from (55, 5) to (55, 5)
+[ 2026-05-25 23:39:19,653 ] 208 root - INFO - Filtering valid years
+[ 2026-05-25 23:39:19,654 ] 217 root - INFO - Year filtering completed
+[ 2026-05-25 23:39:19,654 ] 231 root - INFO - Sorting dataframe
+[ 2026-05-25 23:39:19,656 ] 242 root - INFO - Sorting completed
+[ 2026-05-25 23:39:19,657 ] 432 root - INFO - Preprocessing pipeline completed
+[ 2026-05-25 23:39:19,661 ] 382 root - INFO - Processed dataframe saved at artifacts\data_processing\processed_data\fdi_data.csv
+[ 2026-05-25 23:39:19,663 ] 354 root - INFO - Metadata saved at artifacts\data_processing\metadata\fdi_metadata.json
+[ 2026-05-25 23:39:19,663 ] 484 root - INFO - FDI processing completed
+[ 2026-05-25 23:39:19,665 ] 22 root - INFO - Loading data from artifacts\data_ingestion\raw_data\unemployment_raw.csv
+[ 2026-05-25 23:39:19,669 ] 26 root - INFO - Data loaded successfully
+[ 2026-05-25 23:39:19,669 ] 396 root - INFO - Starting preprocessing pipeline
+[ 2026-05-25 23:39:19,669 ] 53 root - INFO - Schema validation successful
+[ 2026-05-25 23:39:19,669 ] 65 root - INFO - Standardizing columns
+[ 2026-05-25 23:39:19,670 ] 94 root - INFO - Column standardization completed
+[ 2026-05-25 23:39:19,670 ] 108 root - INFO - Converting datatypes
+[ 2026-05-25 23:39:19,671 ] 125 root - INFO - Datatype conversion completed
+[ 2026-05-25 23:39:19,671 ] 139 root - INFO - Handling missing values
+[ 2026-05-25 23:39:19,674 ] 156 root - INFO - Missing value handling completed from (66, 5) to (35, 5)
+[ 2026-05-25 23:39:19,674 ] 174 root - INFO - Removing duplicates
+[ 2026-05-25 23:39:19,676 ] 188 root - INFO - Duplicates removed from (35, 5) to (35, 5)
+[ 2026-05-25 23:39:19,676 ] 208 root - INFO - Filtering valid years
+[ 2026-05-25 23:39:19,677 ] 217 root - INFO - Year filtering completed
+[ 2026-05-25 23:39:19,677 ] 231 root - INFO - Sorting dataframe
+[ 2026-05-25 23:39:19,679 ] 242 root - INFO - Sorting completed
+[ 2026-05-25 23:39:19,681 ] 432 root - INFO - Preprocessing pipeline completed
+[ 2026-05-25 23:39:19,685 ] 382 root - INFO - Processed dataframe saved at artifacts\data_processing\processed_data\unemployment_data.csv
+[ 2026-05-25 23:39:19,687 ] 354 root - INFO - Metadata saved at artifacts\data_processing\metadata\unemployment_metadata.json
+[ 2026-05-25 23:39:19,687 ] 484 root - INFO - Unemployment processing completed
+[ 2026-05-25 23:39:19,688 ] 22 root - INFO - Loading data from artifacts\data_ingestion\raw_data\population_raw.csv
+[ 2026-05-25 23:39:19,705 ] 26 root - INFO - Data loaded successfully
+[ 2026-05-25 23:39:19,705 ] 396 root - INFO - Starting preprocessing pipeline
+[ 2026-05-25 23:39:19,706 ] 53 root - INFO - Schema validation successful
+[ 2026-05-25 23:39:19,706 ] 65 root - INFO - Standardizing columns
+[ 2026-05-25 23:39:19,708 ] 94 root - INFO - Column standardization completed
+[ 2026-05-25 23:39:19,708 ] 108 root - INFO - Converting datatypes
+[ 2026-05-25 23:39:19,709 ] 125 root - INFO - Datatype conversion completed
+[ 2026-05-25 23:39:19,709 ] 139 root - INFO - Handling missing values
+[ 2026-05-25 23:39:19,714 ] 156 root - INFO - Missing value handling completed from (66, 5) to (65, 5)
+[ 2026-05-25 23:39:19,714 ] 174 root - INFO - Removing duplicates
+[ 2026-05-25 23:39:19,716 ] 188 root - INFO - Duplicates removed from (65, 5) to (65, 5)
+[ 2026-05-25 23:39:19,716 ] 208 root - INFO - Filtering valid years
+[ 2026-05-25 23:39:19,717 ] 217 root - INFO - Year filtering completed
+[ 2026-05-25 23:39:19,717 ] 231 root - INFO - Sorting dataframe
+[ 2026-05-25 23:39:19,719 ] 242 root - INFO - Sorting completed
+[ 2026-05-25 23:39:19,721 ] 432 root - INFO - Preprocessing pipeline completed
+[ 2026-05-25 23:39:19,725 ] 382 root - INFO - Processed dataframe saved at artifacts\data_processing\processed_data\population_data.csv
+[ 2026-05-25 23:39:19,726 ] 354 root - INFO - Metadata saved at artifacts\data_processing\metadata\population_metadata.json
+[ 2026-05-25 23:39:19,726 ] 484 root - INFO - Population processing completed
+[ 2026-05-25 23:39:19,728 ] 22 root - INFO - Loading data from artifacts\data_ingestion\raw_data\population_growth_raw.csv
+[ 2026-05-25 23:39:19,732 ] 26 root - INFO - Data loaded successfully
+[ 2026-05-25 23:39:19,732 ] 396 root - INFO - Starting preprocessing pipeline
+[ 2026-05-25 23:39:19,732 ] 53 root - INFO - Schema validation successful
+[ 2026-05-25 23:39:19,732 ] 65 root - INFO - Standardizing columns
+[ 2026-05-25 23:39:19,734 ] 94 root - INFO - Column standardization completed
+[ 2026-05-25 23:39:19,734 ] 108 root - INFO - Converting datatypes
+[ 2026-05-25 23:39:19,735 ] 125 root - INFO - Datatype conversion completed
+[ 2026-05-25 23:39:19,735 ] 139 root - INFO - Handling missing values
+[ 2026-05-25 23:39:19,738 ] 156 root - INFO - Missing value handling completed from (66, 5) to (64, 5)
+[ 2026-05-25 23:39:19,738 ] 174 root - INFO - Removing duplicates
+[ 2026-05-25 23:39:19,740 ] 188 root - INFO - Duplicates removed from (64, 5) to (64, 5)
+[ 2026-05-25 23:39:19,740 ] 208 root - INFO - Filtering valid years
+[ 2026-05-25 23:39:19,741 ] 217 root - INFO - Year filtering completed
+[ 2026-05-25 23:39:19,742 ] 231 root - INFO - Sorting dataframe
+[ 2026-05-25 23:39:19,744 ] 242 root - INFO - Sorting completed
+[ 2026-05-25 23:39:19,745 ] 432 root - INFO - Preprocessing pipeline completed
+[ 2026-05-25 23:39:19,749 ] 382 root - INFO - Processed dataframe saved at artifacts\data_processing\processed_data\population_growth_data.csv
+[ 2026-05-25 23:39:19,750 ] 354 root - INFO - Metadata saved at artifacts\data_processing\metadata\population_growth_metadata.json
+[ 2026-05-25 23:39:19,750 ] 484 root - INFO - Population_Growth processing completed
+[ 2026-05-25 23:39:19,752 ] 22 root - INFO - Loading data from artifacts\data_ingestion\raw_data\population_density_raw.csv
+[ 2026-05-25 23:39:19,756 ] 26 root - INFO - Data loaded successfully
+[ 2026-05-25 23:39:19,756 ] 396 root - INFO - Starting preprocessing pipeline
+[ 2026-05-25 23:39:19,756 ] 53 root - INFO - Schema validation successful
+[ 2026-05-25 23:39:19,757 ] 65 root - INFO - Standardizing columns
+[ 2026-05-25 23:39:19,759 ] 94 root - INFO - Column standardization completed
+[ 2026-05-25 23:39:19,759 ] 108 root - INFO - Converting datatypes
+[ 2026-05-25 23:39:19,760 ] 125 root - INFO - Datatype conversion completed
+[ 2026-05-25 23:39:19,760 ] 139 root - INFO - Handling missing values
+[ 2026-05-25 23:39:19,763 ] 156 root - INFO - Missing value handling completed from (66, 5) to (63, 5)
+[ 2026-05-25 23:39:19,764 ] 174 root - INFO - Removing duplicates
+[ 2026-05-25 23:39:19,765 ] 188 root - INFO - Duplicates removed from (63, 5) to (63, 5)
+[ 2026-05-25 23:39:19,765 ] 208 root - INFO - Filtering valid years
+[ 2026-05-25 23:39:19,766 ] 217 root - INFO - Year filtering completed
+[ 2026-05-25 23:39:19,766 ] 231 root - INFO - Sorting dataframe
+[ 2026-05-25 23:39:19,768 ] 242 root - INFO - Sorting completed
+[ 2026-05-25 23:39:19,769 ] 432 root - INFO - Preprocessing pipeline completed
+[ 2026-05-25 23:39:19,774 ] 382 root - INFO - Processed dataframe saved at artifacts\data_processing\processed_data\population_density_data.csv
+[ 2026-05-25 23:39:19,775 ] 354 root - INFO - Metadata saved at artifacts\data_processing\metadata\population_density_metadata.json
+[ 2026-05-25 23:39:19,775 ] 484 root - INFO - Population_Density processing completed
+[ 2026-05-25 23:39:19,777 ] 22 root - INFO - Loading data from artifacts\data_ingestion\raw_data\urbanization_raw.csv
+[ 2026-05-25 23:39:19,783 ] 26 root - INFO - Data loaded successfully
+[ 2026-05-25 23:39:19,783 ] 396 root - INFO - Starting preprocessing pipeline
+[ 2026-05-25 23:39:19,783 ] 53 root - INFO - Schema validation successful
+[ 2026-05-25 23:39:19,783 ] 65 root - INFO - Standardizing columns
+[ 2026-05-25 23:39:19,787 ] 94 root - INFO - Column standardization completed
+[ 2026-05-25 23:39:19,787 ] 108 root - INFO - Converting datatypes
+[ 2026-05-25 23:39:19,790 ] 125 root - INFO - Datatype conversion completed
+[ 2026-05-25 23:39:19,791 ] 139 root - INFO - Handling missing values
+[ 2026-05-25 23:39:19,796 ] 156 root - INFO - Missing value handling completed from (66, 5) to (65, 5)
+[ 2026-05-25 23:39:19,796 ] 174 root - INFO - Removing duplicates
+[ 2026-05-25 23:39:19,799 ] 188 root - INFO - Duplicates removed from (65, 5) to (65, 5)
+[ 2026-05-25 23:39:19,799 ] 208 root - INFO - Filtering valid years
+[ 2026-05-25 23:39:19,800 ] 217 root - INFO - Year filtering completed
+[ 2026-05-25 23:39:19,800 ] 231 root - INFO - Sorting dataframe
+[ 2026-05-25 23:39:19,804 ] 242 root - INFO - Sorting completed
+[ 2026-05-25 23:39:19,805 ] 432 root - INFO - Preprocessing pipeline completed
+[ 2026-05-25 23:39:19,810 ] 382 root - INFO - Processed dataframe saved at artifacts\data_processing\processed_data\urbanization_data.csv
+[ 2026-05-25 23:39:19,812 ] 354 root - INFO - Metadata saved at artifacts\data_processing\metadata\urbanization_metadata.json
+[ 2026-05-25 23:39:19,812 ] 484 root - INFO - Urbanization processing completed
+[ 2026-05-25 23:39:19,814 ] 22 root - INFO - Loading data from artifacts\data_ingestion\raw_data\birth_rate_raw.csv
+[ 2026-05-25 23:39:19,822 ] 26 root - INFO - Data loaded successfully
+[ 2026-05-25 23:39:19,822 ] 396 root - INFO - Starting preprocessing pipeline
+[ 2026-05-25 23:39:19,822 ] 53 root - INFO - Schema validation successful
+[ 2026-05-25 23:39:19,823 ] 65 root - INFO - Standardizing columns
+[ 2026-05-25 23:39:19,826 ] 94 root - INFO - Column standardization completed
+[ 2026-05-25 23:39:19,826 ] 108 root - INFO - Converting datatypes
+[ 2026-05-25 23:39:19,828 ] 125 root - INFO - Datatype conversion completed
+[ 2026-05-25 23:39:19,828 ] 139 root - INFO - Handling missing values
+[ 2026-05-25 23:39:19,835 ] 156 root - INFO - Missing value handling completed from (66, 5) to (65, 5)
+[ 2026-05-25 23:39:19,835 ] 174 root - INFO - Removing duplicates
+[ 2026-05-25 23:39:19,838 ] 188 root - INFO - Duplicates removed from (65, 5) to (65, 5)
+[ 2026-05-25 23:39:19,838 ] 208 root - INFO - Filtering valid years
+[ 2026-05-25 23:39:19,839 ] 217 root - INFO - Year filtering completed
+[ 2026-05-25 23:39:19,840 ] 231 root - INFO - Sorting dataframe
+[ 2026-05-25 23:39:19,843 ] 242 root - INFO - Sorting completed
+[ 2026-05-25 23:39:19,847 ] 432 root - INFO - Preprocessing pipeline completed
+[ 2026-05-25 23:39:19,855 ] 382 root - INFO - Processed dataframe saved at artifacts\data_processing\processed_data\birth_rate_data.csv
+[ 2026-05-25 23:39:19,857 ] 354 root - INFO - Metadata saved at artifacts\data_processing\metadata\birth_rate_metadata.json
+[ 2026-05-25 23:39:19,857 ] 484 root - INFO - Birth_Rate processing completed
+[ 2026-05-25 23:39:19,870 ] 22 root - INFO - Loading data from artifacts\data_ingestion\raw_data\death_rate_raw.csv
+[ 2026-05-25 23:39:19,878 ] 26 root - INFO - Data loaded successfully
+[ 2026-05-25 23:39:19,879 ] 396 root - INFO - Starting preprocessing pipeline
+[ 2026-05-25 23:39:19,880 ] 53 root - INFO - Schema validation successful
+[ 2026-05-25 23:39:19,880 ] 65 root - INFO - Standardizing columns
+[ 2026-05-25 23:39:19,885 ] 94 root - INFO - Column standardization completed
+[ 2026-05-25 23:39:19,885 ] 108 root - INFO - Converting datatypes
+[ 2026-05-25 23:39:19,886 ] 125 root - INFO - Datatype conversion completed
+[ 2026-05-25 23:39:19,886 ] 139 root - INFO - Handling missing values
+[ 2026-05-25 23:39:19,895 ] 156 root - INFO - Missing value handling completed from (66, 5) to (65, 5)
+[ 2026-05-25 23:39:19,895 ] 174 root - INFO - Removing duplicates
+[ 2026-05-25 23:39:19,898 ] 188 root - INFO - Duplicates removed from (65, 5) to (65, 5)
+[ 2026-05-25 23:39:19,899 ] 208 root - INFO - Filtering valid years
+[ 2026-05-25 23:39:19,900 ] 217 root - INFO - Year filtering completed
+[ 2026-05-25 23:39:19,901 ] 231 root - INFO - Sorting dataframe
+[ 2026-05-25 23:39:19,905 ] 242 root - INFO - Sorting completed
+[ 2026-05-25 23:39:19,909 ] 432 root - INFO - Preprocessing pipeline completed
+[ 2026-05-25 23:39:19,925 ] 382 root - INFO - Processed dataframe saved at artifacts\data_processing\processed_data\death_rate_data.csv
+[ 2026-05-25 23:39:19,929 ] 354 root - INFO - Metadata saved at artifacts\data_processing\metadata\death_rate_metadata.json
+[ 2026-05-25 23:39:19,930 ] 484 root - INFO - Death_Rate processing completed
+[ 2026-05-25 23:39:19,933 ] 22 root - INFO - Loading data from artifacts\data_ingestion\raw_data\life_expectancy_raw.csv
+[ 2026-05-25 23:39:19,946 ] 26 root - INFO - Data loaded successfully
+[ 2026-05-25 23:39:19,948 ] 396 root - INFO - Starting preprocessing pipeline
+[ 2026-05-25 23:39:19,949 ] 53 root - INFO - Schema validation successful
+[ 2026-05-25 23:39:19,950 ] 65 root - INFO - Standardizing columns
+[ 2026-05-25 23:39:19,959 ] 94 root - INFO - Column standardization completed
+[ 2026-05-25 23:39:19,960 ] 108 root - INFO - Converting datatypes
+[ 2026-05-25 23:39:20,071 ] 125 root - INFO - Datatype conversion completed
+[ 2026-05-25 23:39:20,072 ] 139 root - INFO - Handling missing values
+[ 2026-05-25 23:39:20,097 ] 156 root - INFO - Missing value handling completed from (66, 5) to (65, 5)
+[ 2026-05-25 23:39:20,098 ] 174 root - INFO - Removing duplicates
+[ 2026-05-25 23:39:20,101 ] 188 root - INFO - Duplicates removed from (65, 5) to (65, 5)
+[ 2026-05-25 23:39:20,101 ] 208 root - INFO - Filtering valid years
+[ 2026-05-25 23:39:20,105 ] 217 root - INFO - Year filtering completed
+[ 2026-05-25 23:39:20,105 ] 231 root - INFO - Sorting dataframe
+[ 2026-05-25 23:39:20,109 ] 242 root - INFO - Sorting completed
+[ 2026-05-25 23:39:20,114 ] 432 root - INFO - Preprocessing pipeline completed
+[ 2026-05-25 23:39:20,160 ] 382 root - INFO - Processed dataframe saved at artifacts\data_processing\processed_data\life_expectancy_data.csv
+[ 2026-05-25 23:39:20,163 ] 354 root - INFO - Metadata saved at artifacts\data_processing\metadata\life_expectancy_metadata.json
+[ 2026-05-25 23:39:20,163 ] 484 root - INFO - Life_Expectancy processing completed
+[ 2026-05-25 23:39:20,166 ] 22 root - INFO - Loading data from artifacts\data_ingestion\raw_data\literacy_rate_raw.csv
+[ 2026-05-25 23:39:20,172 ] 26 root - INFO - Data loaded successfully
+[ 2026-05-25 23:39:20,172 ] 396 root - INFO - Starting preprocessing pipeline
+[ 2026-05-25 23:39:20,174 ] 53 root - INFO - Schema validation successful
+[ 2026-05-25 23:39:20,175 ] 65 root - INFO - Standardizing columns
+[ 2026-05-25 23:39:20,181 ] 94 root - INFO - Column standardization completed
+[ 2026-05-25 23:39:20,181 ] 108 root - INFO - Converting datatypes
+[ 2026-05-25 23:39:20,183 ] 125 root - INFO - Datatype conversion completed
+[ 2026-05-25 23:39:20,183 ] 139 root - INFO - Handling missing values
+[ 2026-05-25 23:39:20,188 ] 156 root - INFO - Missing value handling completed from (66, 5) to (14, 5)
+[ 2026-05-25 23:39:20,189 ] 174 root - INFO - Removing duplicates
+[ 2026-05-25 23:39:20,191 ] 188 root - INFO - Duplicates removed from (14, 5) to (14, 5)
+[ 2026-05-25 23:39:20,191 ] 208 root - INFO - Filtering valid years
+[ 2026-05-25 23:39:20,193 ] 217 root - INFO - Year filtering completed
+[ 2026-05-25 23:39:20,193 ] 231 root - INFO - Sorting dataframe
+[ 2026-05-25 23:39:20,237 ] 242 root - INFO - Sorting completed
+[ 2026-05-25 23:39:20,259 ] 432 root - INFO - Preprocessing pipeline completed
+[ 2026-05-25 23:39:20,283 ] 382 root - INFO - Processed dataframe saved at artifacts\data_processing\processed_data\literacy_rate_data.csv
+[ 2026-05-25 23:39:20,286 ] 354 root - INFO - Metadata saved at artifacts\data_processing\metadata\literacy_rate_metadata.json
+[ 2026-05-25 23:39:20,286 ] 484 root - INFO - Literacy_Rate processing completed
+[ 2026-05-25 23:39:20,289 ] 22 root - INFO - Loading data from artifacts\data_ingestion\raw_data\exports_raw.csv
+[ 2026-05-25 23:39:20,298 ] 26 root - INFO - Data loaded successfully
+[ 2026-05-25 23:39:20,298 ] 396 root - INFO - Starting preprocessing pipeline
+[ 2026-05-25 23:39:20,298 ] 53 root - INFO - Schema validation successful
+[ 2026-05-25 23:39:20,298 ] 65 root - INFO - Standardizing columns
+[ 2026-05-25 23:39:20,305 ] 94 root - INFO - Column standardization completed
+[ 2026-05-25 23:39:20,305 ] 108 root - INFO - Converting datatypes
+[ 2026-05-25 23:39:20,306 ] 125 root - INFO - Datatype conversion completed
+[ 2026-05-25 23:39:20,307 ] 139 root - INFO - Handling missing values
+[ 2026-05-25 23:39:20,375 ] 156 root - INFO - Missing value handling completed from (66, 5) to (65, 5)
+[ 2026-05-25 23:39:20,375 ] 174 root - INFO - Removing duplicates
+[ 2026-05-25 23:39:20,433 ] 188 root - INFO - Duplicates removed from (65, 5) to (65, 5)
+[ 2026-05-25 23:39:20,434 ] 208 root - INFO - Filtering valid years
+[ 2026-05-25 23:39:20,440 ] 217 root - INFO - Year filtering completed
+[ 2026-05-25 23:39:20,440 ] 231 root - INFO - Sorting dataframe
+[ 2026-05-25 23:39:20,468 ] 242 root - INFO - Sorting completed
+[ 2026-05-25 23:39:20,472 ] 432 root - INFO - Preprocessing pipeline completed
+[ 2026-05-25 23:39:20,532 ] 382 root - INFO - Processed dataframe saved at artifacts\data_processing\processed_data\exports_data.csv
+[ 2026-05-25 23:39:20,539 ] 354 root - INFO - Metadata saved at artifacts\data_processing\metadata\exports_metadata.json
+[ 2026-05-25 23:39:20,540 ] 484 root - INFO - Exports processing completed
+[ 2026-05-25 23:39:20,545 ] 22 root - INFO - Loading data from artifacts\data_ingestion\raw_data\imports_raw.csv
+[ 2026-05-25 23:39:20,560 ] 26 root - INFO - Data loaded successfully
+[ 2026-05-25 23:39:20,560 ] 396 root - INFO - Starting preprocessing pipeline
+[ 2026-05-25 23:39:20,560 ] 53 root - INFO - Schema validation successful
+[ 2026-05-25 23:39:20,561 ] 65 root - INFO - Standardizing columns
+[ 2026-05-25 23:39:20,570 ] 94 root - INFO - Column standardization completed
+[ 2026-05-25 23:39:20,570 ] 108 root - INFO - Converting datatypes
+[ 2026-05-25 23:39:20,571 ] 125 root - INFO - Datatype conversion completed
+[ 2026-05-25 23:39:20,572 ] 139 root - INFO - Handling missing values
+[ 2026-05-25 23:39:20,580 ] 156 root - INFO - Missing value handling completed from (66, 5) to (65, 5)
+[ 2026-05-25 23:39:20,580 ] 174 root - INFO - Removing duplicates
+[ 2026-05-25 23:39:20,583 ] 188 root - INFO - Duplicates removed from (65, 5) to (65, 5)
+[ 2026-05-25 23:39:20,585 ] 208 root - INFO - Filtering valid years
+[ 2026-05-25 23:39:20,586 ] 217 root - INFO - Year filtering completed
+[ 2026-05-25 23:39:20,586 ] 231 root - INFO - Sorting dataframe
+[ 2026-05-25 23:39:20,590 ] 242 root - INFO - Sorting completed
+[ 2026-05-25 23:39:20,592 ] 432 root - INFO - Preprocessing pipeline completed
+[ 2026-05-25 23:39:20,606 ] 382 root - INFO - Processed dataframe saved at artifacts\data_processing\processed_data\imports_data.csv
+[ 2026-05-25 23:39:20,608 ] 354 root - INFO - Metadata saved at artifacts\data_processing\metadata\imports_metadata.json
+[ 2026-05-25 23:39:20,608 ] 484 root - INFO - Imports processing completed
+[ 2026-05-25 23:39:20,610 ] 22 root - INFO - Loading data from artifacts\data_ingestion\raw_data\trade_percent_gdp_raw.csv
+[ 2026-05-25 23:39:20,720 ] 26 root - INFO - Data loaded successfully
+[ 2026-05-25 23:39:20,721 ] 396 root - INFO - Starting preprocessing pipeline
+[ 2026-05-25 23:39:20,721 ] 53 root - INFO - Schema validation successful
+[ 2026-05-25 23:39:20,722 ] 65 root - INFO - Standardizing columns
+[ 2026-05-25 23:39:20,744 ] 94 root - INFO - Column standardization completed
+[ 2026-05-25 23:39:20,744 ] 108 root - INFO - Converting datatypes
+[ 2026-05-25 23:39:20,754 ] 125 root - INFO - Datatype conversion completed
+[ 2026-05-25 23:39:20,755 ] 139 root - INFO - Handling missing values
+[ 2026-05-25 23:39:20,775 ] 156 root - INFO - Missing value handling completed from (66, 5) to (65, 5)
+[ 2026-05-25 23:39:20,775 ] 174 root - INFO - Removing duplicates
+[ 2026-05-25 23:39:20,789 ] 188 root - INFO - Duplicates removed from (65, 5) to (65, 5)
+[ 2026-05-25 23:39:20,789 ] 208 root - INFO - Filtering valid years
+[ 2026-05-25 23:39:20,811 ] 217 root - INFO - Year filtering completed
+[ 2026-05-25 23:39:20,817 ] 231 root - INFO - Sorting dataframe
+[ 2026-05-25 23:39:20,834 ] 242 root - INFO - Sorting completed
+[ 2026-05-25 23:39:20,841 ] 432 root - INFO - Preprocessing pipeline completed
+[ 2026-05-25 23:39:20,908 ] 382 root - INFO - Processed dataframe saved at artifacts\data_processing\processed_data\trade_percent_gdp_data.csv
+[ 2026-05-25 23:39:20,911 ] 354 root - INFO - Metadata saved at artifacts\data_processing\metadata\trade_percent_gdp_metadata.json
+[ 2026-05-25 23:39:20,952 ] 484 root - INFO - Trade_Percent_GDP processing completed
+[ 2026-05-25 23:39:20,955 ] 22 root - INFO - Loading data from artifacts\data_ingestion\raw_data\high_tech_exports_raw.csv
+[ 2026-05-25 23:39:20,965 ] 26 root - INFO - Data loaded successfully
+[ 2026-05-25 23:39:20,965 ] 396 root - INFO - Starting preprocessing pipeline
+[ 2026-05-25 23:39:20,966 ] 53 root - INFO - Schema validation successful
+[ 2026-05-25 23:39:20,966 ] 65 root - INFO - Standardizing columns
+[ 2026-05-25 23:39:20,976 ] 94 root - INFO - Column standardization completed
+[ 2026-05-25 23:39:20,977 ] 108 root - INFO - Converting datatypes
+[ 2026-05-25 23:39:20,986 ] 125 root - INFO - Datatype conversion completed
+[ 2026-05-25 23:39:20,988 ] 139 root - INFO - Handling missing values
+[ 2026-05-25 23:39:21,000 ] 156 root - INFO - Missing value handling completed from (66, 5) to (16, 5)
+[ 2026-05-25 23:39:21,000 ] 174 root - INFO - Removing duplicates
+[ 2026-05-25 23:39:21,014 ] 188 root - INFO - Duplicates removed from (16, 5) to (16, 5)
+[ 2026-05-25 23:39:21,014 ] 208 root - INFO - Filtering valid years
+[ 2026-05-25 23:39:21,068 ] 217 root - INFO - Year filtering completed
+[ 2026-05-25 23:39:21,068 ] 231 root - INFO - Sorting dataframe
+[ 2026-05-25 23:39:21,074 ] 242 root - INFO - Sorting completed
+[ 2026-05-25 23:39:21,076 ] 432 root - INFO - Preprocessing pipeline completed
+[ 2026-05-25 23:39:21,087 ] 382 root - INFO - Processed dataframe saved at artifacts\data_processing\processed_data\high_tech_exports_data.csv
+[ 2026-05-25 23:39:21,089 ] 354 root - INFO - Metadata saved at artifacts\data_processing\metadata\high_tech_exports_metadata.json
+[ 2026-05-25 23:39:21,089 ] 484 root - INFO - High_Tech_Exports processing completed
+[ 2026-05-25 23:39:21,092 ] 22 root - INFO - Loading data from artifacts\data_ingestion\raw_data\internet_users_raw.csv
+[ 2026-05-25 23:39:21,144 ] 26 root - INFO - Data loaded successfully
+[ 2026-05-25 23:39:21,144 ] 396 root - INFO - Starting preprocessing pipeline
+[ 2026-05-25 23:39:21,145 ] 53 root - INFO - Schema validation successful
+[ 2026-05-25 23:39:21,145 ] 65 root - INFO - Standardizing columns
+[ 2026-05-25 23:39:21,153 ] 94 root - INFO - Column standardization completed
+[ 2026-05-25 23:39:21,153 ] 108 root - INFO - Converting datatypes
+[ 2026-05-25 23:39:21,165 ] 125 root - INFO - Datatype conversion completed
+[ 2026-05-25 23:39:21,166 ] 139 root - INFO - Handling missing values
+[ 2026-05-25 23:39:21,182 ] 156 root - INFO - Missing value handling completed from (66, 5) to (35, 5)
+[ 2026-05-25 23:39:21,185 ] 174 root - INFO - Removing duplicates
+[ 2026-05-25 23:39:21,189 ] 188 root - INFO - Duplicates removed from (35, 5) to (35, 5)
+[ 2026-05-25 23:39:21,189 ] 208 root - INFO - Filtering valid years
+[ 2026-05-25 23:39:21,192 ] 217 root - INFO - Year filtering completed
+[ 2026-05-25 23:39:21,193 ] 231 root - INFO - Sorting dataframe
+[ 2026-05-25 23:39:21,204 ] 242 root - INFO - Sorting completed
+[ 2026-05-25 23:39:21,210 ] 432 root - INFO - Preprocessing pipeline completed
+[ 2026-05-25 23:39:21,258 ] 382 root - INFO - Processed dataframe saved at artifacts\data_processing\processed_data\internet_users_data.csv
+[ 2026-05-25 23:39:21,260 ] 354 root - INFO - Metadata saved at artifacts\data_processing\metadata\internet_users_metadata.json
+[ 2026-05-25 23:39:21,260 ] 484 root - INFO - Internet_Users processing completed
+[ 2026-05-25 23:39:21,266 ] 22 root - INFO - Loading data from artifacts\data_ingestion\raw_data\mobile_subscriptions_raw.csv
+[ 2026-05-25 23:39:21,273 ] 26 root - INFO - Data loaded successfully
+[ 2026-05-25 23:39:21,273 ] 396 root - INFO - Starting preprocessing pipeline
+[ 2026-05-25 23:39:21,273 ] 53 root - INFO - Schema validation successful
+[ 2026-05-25 23:39:21,274 ] 65 root - INFO - Standardizing columns
+[ 2026-05-25 23:39:21,278 ] 94 root - INFO - Column standardization completed
+[ 2026-05-25 23:39:21,280 ] 108 root - INFO - Converting datatypes
+[ 2026-05-25 23:39:21,284 ] 125 root - INFO - Datatype conversion completed
+[ 2026-05-25 23:39:21,284 ] 139 root - INFO - Handling missing values
+[ 2026-05-25 23:39:21,293 ] 156 root - INFO - Missing value handling completed from (66, 5) to (53, 5)
+[ 2026-05-25 23:39:21,294 ] 174 root - INFO - Removing duplicates
+[ 2026-05-25 23:39:21,300 ] 188 root - INFO - Duplicates removed from (53, 5) to (53, 5)
+[ 2026-05-25 23:39:21,300 ] 208 root - INFO - Filtering valid years
+[ 2026-05-25 23:39:21,340 ] 217 root - INFO - Year filtering completed
+[ 2026-05-25 23:39:21,342 ] 231 root - INFO - Sorting dataframe
+[ 2026-05-25 23:39:21,353 ] 242 root - INFO - Sorting completed
+[ 2026-05-25 23:39:21,356 ] 432 root - INFO - Preprocessing pipeline completed
+[ 2026-05-25 23:39:21,364 ] 382 root - INFO - Processed dataframe saved at artifacts\data_processing\processed_data\mobile_subscriptions_data.csv
+[ 2026-05-25 23:39:21,368 ] 354 root - INFO - Metadata saved at artifacts\data_processing\metadata\mobile_subscriptions_metadata.json
+[ 2026-05-25 23:39:21,368 ] 484 root - INFO - Mobile_Subscriptions processing completed
+[ 2026-05-25 23:39:21,370 ] 22 root - INFO - Loading data from artifacts\data_ingestion\raw_data\broadband_subscriptions_raw.csv
+[ 2026-05-25 23:39:21,437 ] 26 root - INFO - Data loaded successfully
+[ 2026-05-25 23:39:21,438 ] 396 root - INFO - Starting preprocessing pipeline
+[ 2026-05-25 23:39:21,438 ] 53 root - INFO - Schema validation successful
+[ 2026-05-25 23:39:21,438 ] 65 root - INFO - Standardizing columns
+[ 2026-05-25 23:39:21,442 ] 94 root - INFO - Column standardization completed
+[ 2026-05-25 23:39:21,443 ] 108 root - INFO - Converting datatypes
+[ 2026-05-25 23:39:21,444 ] 125 root - INFO - Datatype conversion completed
+[ 2026-05-25 23:39:21,446 ] 139 root - INFO - Handling missing values
+[ 2026-05-25 23:39:21,469 ] 156 root - INFO - Missing value handling completed from (66, 5) to (24, 5)
+[ 2026-05-25 23:39:21,469 ] 174 root - INFO - Removing duplicates
+[ 2026-05-25 23:39:21,472 ] 188 root - INFO - Duplicates removed from (24, 5) to (24, 5)
+[ 2026-05-25 23:39:21,472 ] 208 root - INFO - Filtering valid years
+[ 2026-05-25 23:39:21,473 ] 217 root - INFO - Year filtering completed
+[ 2026-05-25 23:39:21,474 ] 231 root - INFO - Sorting dataframe
+[ 2026-05-25 23:39:21,478 ] 242 root - INFO - Sorting completed
+[ 2026-05-25 23:39:21,482 ] 432 root - INFO - Preprocessing pipeline completed
+[ 2026-05-25 23:39:21,491 ] 382 root - INFO - Processed dataframe saved at artifacts\data_processing\processed_data\broadband_subscriptions_data.csv
+[ 2026-05-25 23:39:21,494 ] 354 root - INFO - Metadata saved at artifacts\data_processing\metadata\broadband_subscriptions_metadata.json
+[ 2026-05-25 23:39:21,494 ] 484 root - INFO - Broadband_Subscriptions processing completed
+[ 2026-05-25 23:39:21,496 ] 22 root - INFO - Loading data from artifacts\data_ingestion\raw_data\secure_servers_raw.csv
+[ 2026-05-25 23:39:21,548 ] 26 root - INFO - Data loaded successfully
+[ 2026-05-25 23:39:21,548 ] 396 root - INFO - Starting preprocessing pipeline
+[ 2026-05-25 23:39:21,549 ] 53 root - INFO - Schema validation successful
+[ 2026-05-25 23:39:21,549 ] 65 root - INFO - Standardizing columns
+[ 2026-05-25 23:39:21,556 ] 94 root - INFO - Column standardization completed
+[ 2026-05-25 23:39:21,557 ] 108 root - INFO - Converting datatypes
+[ 2026-05-25 23:39:21,558 ] 125 root - INFO - Datatype conversion completed
+[ 2026-05-25 23:39:21,558 ] 139 root - INFO - Handling missing values
+[ 2026-05-25 23:39:21,567 ] 156 root - INFO - Missing value handling completed from (66, 5) to (15, 5)
+[ 2026-05-25 23:39:21,567 ] 174 root - INFO - Removing duplicates
+[ 2026-05-25 23:39:21,570 ] 188 root - INFO - Duplicates removed from (15, 5) to (15, 5)
+[ 2026-05-25 23:39:21,570 ] 208 root - INFO - Filtering valid years
+[ 2026-05-25 23:39:21,572 ] 217 root - INFO - Year filtering completed
+[ 2026-05-25 23:39:21,572 ] 231 root - INFO - Sorting dataframe
+[ 2026-05-25 23:39:21,575 ] 242 root - INFO - Sorting completed
+[ 2026-05-25 23:39:21,579 ] 432 root - INFO - Preprocessing pipeline completed
+[ 2026-05-25 23:39:21,585 ] 382 root - INFO - Processed dataframe saved at artifacts\data_processing\processed_data\secure_servers_data.csv
+[ 2026-05-25 23:39:21,611 ] 354 root - INFO - Metadata saved at artifacts\data_processing\metadata\secure_servers_metadata.json
+[ 2026-05-25 23:39:21,611 ] 484 root - INFO - Secure_Servers processing completed
+[ 2026-05-25 23:39:21,616 ] 22 root - INFO - Loading data from artifacts\data_ingestion\raw_data\rnd_expenditure_raw.csv
+[ 2026-05-25 23:39:21,638 ] 26 root - INFO - Data loaded successfully
+[ 2026-05-25 23:39:21,638 ] 396 root - INFO - Starting preprocessing pipeline
+[ 2026-05-25 23:39:21,639 ] 53 root - INFO - Schema validation successful
+[ 2026-05-25 23:39:21,639 ] 65 root - INFO - Standardizing columns
+[ 2026-05-25 23:39:21,643 ] 94 root - INFO - Column standardization completed
+[ 2026-05-25 23:39:21,643 ] 108 root - INFO - Converting datatypes
+[ 2026-05-25 23:39:21,644 ] 125 root - INFO - Datatype conversion completed
+[ 2026-05-25 23:39:21,644 ] 139 root - INFO - Handling missing values
+[ 2026-05-25 23:39:21,654 ] 156 root - INFO - Missing value handling completed from (66, 5) to (25, 5)
+[ 2026-05-25 23:39:21,654 ] 174 root - INFO - Removing duplicates
+[ 2026-05-25 23:39:21,657 ] 188 root - INFO - Duplicates removed from (25, 5) to (25, 5)
+[ 2026-05-25 23:39:21,658 ] 208 root - INFO - Filtering valid years
+[ 2026-05-25 23:39:21,660 ] 217 root - INFO - Year filtering completed
+[ 2026-05-25 23:39:21,661 ] 231 root - INFO - Sorting dataframe
+[ 2026-05-25 23:39:21,667 ] 242 root - INFO - Sorting completed
+[ 2026-05-25 23:39:21,675 ] 432 root - INFO - Preprocessing pipeline completed
+[ 2026-05-25 23:39:21,681 ] 382 root - INFO - Processed dataframe saved at artifacts\data_processing\processed_data\rnd_expenditure_data.csv
+[ 2026-05-25 23:39:21,684 ] 354 root - INFO - Metadata saved at artifacts\data_processing\metadata\rnd_expenditure_metadata.json
+[ 2026-05-25 23:39:21,684 ] 484 root - INFO - RND_Expenditure processing completed
+[ 2026-05-25 23:39:21,686 ] 22 root - INFO - Loading data from artifacts\data_ingestion\raw_data\air_pollution_raw.csv
+[ 2026-05-25 23:39:21,693 ] 26 root - INFO - Data loaded successfully
+[ 2026-05-25 23:39:21,693 ] 396 root - INFO - Starting preprocessing pipeline
+[ 2026-05-25 23:39:21,693 ] 53 root - INFO - Schema validation successful
+[ 2026-05-25 23:39:21,693 ] 65 root - INFO - Standardizing columns
+[ 2026-05-25 23:39:21,698 ] 94 root - INFO - Column standardization completed
+[ 2026-05-25 23:39:21,699 ] 108 root - INFO - Converting datatypes
+[ 2026-05-25 23:39:21,700 ] 125 root - INFO - Datatype conversion completed
+[ 2026-05-25 23:39:21,700 ] 139 root - INFO - Handling missing values
+[ 2026-05-25 23:39:21,706 ] 156 root - INFO - Missing value handling completed from (66, 5) to (31, 5)
+[ 2026-05-25 23:39:21,706 ] 174 root - INFO - Removing duplicates
+[ 2026-05-25 23:39:21,709 ] 188 root - INFO - Duplicates removed from (31, 5) to (31, 5)
+[ 2026-05-25 23:39:21,715 ] 208 root - INFO - Filtering valid years
+[ 2026-05-25 23:39:21,718 ] 217 root - INFO - Year filtering completed
+[ 2026-05-25 23:39:21,718 ] 231 root - INFO - Sorting dataframe
+[ 2026-05-25 23:39:21,722 ] 242 root - INFO - Sorting completed
+[ 2026-05-25 23:39:21,725 ] 432 root - INFO - Preprocessing pipeline completed
+[ 2026-05-25 23:39:21,733 ] 382 root - INFO - Processed dataframe saved at artifacts\data_processing\processed_data\air_pollution_data.csv
+[ 2026-05-25 23:39:21,735 ] 354 root - INFO - Metadata saved at artifacts\data_processing\metadata\air_pollution_metadata.json
+[ 2026-05-25 23:39:21,735 ] 484 root - INFO - Air_Pollution processing completed
+[ 2026-05-25 23:39:21,737 ] 22 root - INFO - Loading data from artifacts\data_ingestion\raw_data\forest_area_raw.csv
+[ 2026-05-25 23:39:21,748 ] 26 root - INFO - Data loaded successfully
+[ 2026-05-25 23:39:21,748 ] 396 root - INFO - Starting preprocessing pipeline
+[ 2026-05-25 23:39:21,749 ] 53 root - INFO - Schema validation successful
+[ 2026-05-25 23:39:21,749 ] 65 root - INFO - Standardizing columns
+[ 2026-05-25 23:39:21,753 ] 94 root - INFO - Column standardization completed
+[ 2026-05-25 23:39:21,753 ] 108 root - INFO - Converting datatypes
+[ 2026-05-25 23:39:21,755 ] 125 root - INFO - Datatype conversion completed
+[ 2026-05-25 23:39:21,755 ] 139 root - INFO - Handling missing values
+[ 2026-05-25 23:39:21,776 ] 156 root - INFO - Missing value handling completed from (66, 5) to (34, 5)
+[ 2026-05-25 23:39:21,776 ] 174 root - INFO - Removing duplicates
+[ 2026-05-25 23:39:21,782 ] 188 root - INFO - Duplicates removed from (34, 5) to (34, 5)
+[ 2026-05-25 23:39:21,782 ] 208 root - INFO - Filtering valid years
+[ 2026-05-25 23:39:21,784 ] 217 root - INFO - Year filtering completed
+[ 2026-05-25 23:39:21,785 ] 231 root - INFO - Sorting dataframe
+[ 2026-05-25 23:39:21,789 ] 242 root - INFO - Sorting completed
+[ 2026-05-25 23:39:21,791 ] 432 root - INFO - Preprocessing pipeline completed
+[ 2026-05-25 23:39:21,804 ] 382 root - INFO - Processed dataframe saved at artifacts\data_processing\processed_data\forest_area_data.csv
+[ 2026-05-25 23:39:21,808 ] 354 root - INFO - Metadata saved at artifacts\data_processing\metadata\forest_area_metadata.json
+[ 2026-05-25 23:39:21,808 ] 484 root - INFO - Forest_Area processing completed
+[ 2026-05-25 23:39:21,811 ] 22 root - INFO - Loading data from artifacts\data_ingestion\raw_data\renewable_energy_raw.csv
+[ 2026-05-25 23:39:21,874 ] 26 root - INFO - Data loaded successfully
+[ 2026-05-25 23:39:21,874 ] 396 root - INFO - Starting preprocessing pipeline
+[ 2026-05-25 23:39:21,874 ] 53 root - INFO - Schema validation successful
+[ 2026-05-25 23:39:21,876 ] 65 root - INFO - Standardizing columns
+[ 2026-05-25 23:39:21,884 ] 94 root - INFO - Column standardization completed
+[ 2026-05-25 23:39:21,884 ] 108 root - INFO - Converting datatypes
+[ 2026-05-25 23:39:21,886 ] 125 root - INFO - Datatype conversion completed
+[ 2026-05-25 23:39:21,886 ] 139 root - INFO - Handling missing values
+[ 2026-05-25 23:39:21,892 ] 156 root - INFO - Missing value handling completed from (66, 5) to (32, 5)
+[ 2026-05-25 23:39:21,892 ] 174 root - INFO - Removing duplicates
+[ 2026-05-25 23:39:21,895 ] 188 root - INFO - Duplicates removed from (32, 5) to (32, 5)
+[ 2026-05-25 23:39:21,897 ] 208 root - INFO - Filtering valid years
+[ 2026-05-25 23:39:21,900 ] 217 root - INFO - Year filtering completed
+[ 2026-05-25 23:39:21,900 ] 231 root - INFO - Sorting dataframe
+[ 2026-05-25 23:39:21,903 ] 242 root - INFO - Sorting completed
+[ 2026-05-25 23:39:21,904 ] 432 root - INFO - Preprocessing pipeline completed
+[ 2026-05-25 23:39:21,924 ] 382 root - INFO - Processed dataframe saved at artifacts\data_processing\processed_data\renewable_energy_data.csv
+[ 2026-05-25 23:39:21,931 ] 354 root - INFO - Metadata saved at artifacts\data_processing\metadata\renewable_energy_metadata.json
+[ 2026-05-25 23:39:21,932 ] 484 root - INFO - Renewable_Energy processing completed
+[ 2026-05-25 23:39:21,935 ] 22 root - INFO - Loading data from artifacts\data_ingestion\raw_data\electricity_access_raw.csv
+[ 2026-05-25 23:39:21,967 ] 26 root - INFO - Data loaded successfully
+[ 2026-05-25 23:39:21,967 ] 396 root - INFO - Starting preprocessing pipeline
+[ 2026-05-25 23:39:21,967 ] 53 root - INFO - Schema validation successful
+[ 2026-05-25 23:39:21,967 ] 65 root - INFO - Standardizing columns
+[ 2026-05-25 23:39:21,971 ] 94 root - INFO - Column standardization completed
+[ 2026-05-25 23:39:21,971 ] 108 root - INFO - Converting datatypes
+[ 2026-05-25 23:39:21,972 ] 125 root - INFO - Datatype conversion completed
+[ 2026-05-25 23:39:21,972 ] 139 root - INFO - Handling missing values
+[ 2026-05-25 23:39:21,981 ] 156 root - INFO - Missing value handling completed from (66, 5) to (31, 5)
+[ 2026-05-25 23:39:21,981 ] 174 root - INFO - Removing duplicates
+[ 2026-05-25 23:39:21,984 ] 188 root - INFO - Duplicates removed from (31, 5) to (31, 5)
+[ 2026-05-25 23:39:21,985 ] 208 root - INFO - Filtering valid years
+[ 2026-05-25 23:39:21,986 ] 217 root - INFO - Year filtering completed
+[ 2026-05-25 23:39:21,987 ] 231 root - INFO - Sorting dataframe
+[ 2026-05-25 23:39:21,991 ] 242 root - INFO - Sorting completed
+[ 2026-05-25 23:39:22,019 ] 432 root - INFO - Preprocessing pipeline completed
+[ 2026-05-25 23:39:22,025 ] 382 root - INFO - Processed dataframe saved at artifacts\data_processing\processed_data\electricity_access_data.csv
+[ 2026-05-25 23:39:22,028 ] 354 root - INFO - Metadata saved at artifacts\data_processing\metadata\electricity_access_metadata.json
+[ 2026-05-25 23:39:22,028 ] 484 root - INFO - Electricity_Access processing completed
+[ 2026-05-25 23:39:22,031 ] 22 root - INFO - Loading data from artifacts\data_ingestion\raw_data\agriculture_raw.csv
+[ 2026-05-25 23:39:22,037 ] 26 root - INFO - Data loaded successfully
+[ 2026-05-25 23:39:22,037 ] 396 root - INFO - Starting preprocessing pipeline
+[ 2026-05-25 23:39:22,038 ] 53 root - INFO - Schema validation successful
+[ 2026-05-25 23:39:22,038 ] 65 root - INFO - Standardizing columns
+[ 2026-05-25 23:39:22,041 ] 94 root - INFO - Column standardization completed
+[ 2026-05-25 23:39:22,042 ] 108 root - INFO - Converting datatypes
+[ 2026-05-25 23:39:22,043 ] 125 root - INFO - Datatype conversion completed
+[ 2026-05-25 23:39:22,043 ] 139 root - INFO - Handling missing values
+[ 2026-05-25 23:39:22,050 ] 156 root - INFO - Missing value handling completed from (66, 5) to (65, 5)
+[ 2026-05-25 23:39:22,050 ] 174 root - INFO - Removing duplicates
+[ 2026-05-25 23:39:22,061 ] 188 root - INFO - Duplicates removed from (65, 5) to (65, 5)
+[ 2026-05-25 23:39:22,062 ] 208 root - INFO - Filtering valid years
+[ 2026-05-25 23:39:22,064 ] 217 root - INFO - Year filtering completed
+[ 2026-05-25 23:39:22,064 ] 231 root - INFO - Sorting dataframe
+[ 2026-05-25 23:39:22,068 ] 242 root - INFO - Sorting completed
+[ 2026-05-25 23:39:22,070 ] 432 root - INFO - Preprocessing pipeline completed
+[ 2026-05-25 23:39:22,076 ] 382 root - INFO - Processed dataframe saved at artifacts\data_processing\processed_data\agriculture_data.csv
+[ 2026-05-25 23:39:22,079 ] 354 root - INFO - Metadata saved at artifacts\data_processing\metadata\agriculture_metadata.json
+[ 2026-05-25 23:39:22,079 ] 484 root - INFO - Agriculture processing completed
+[ 2026-05-25 23:39:22,081 ] 22 root - INFO - Loading data from artifacts\data_ingestion\raw_data\industry_raw.csv
+[ 2026-05-25 23:39:22,098 ] 26 root - INFO - Data loaded successfully
+[ 2026-05-25 23:39:22,098 ] 396 root - INFO - Starting preprocessing pipeline
+[ 2026-05-25 23:39:22,099 ] 53 root - INFO - Schema validation successful
+[ 2026-05-25 23:39:22,099 ] 65 root - INFO - Standardizing columns
+[ 2026-05-25 23:39:22,102 ] 94 root - INFO - Column standardization completed
+[ 2026-05-25 23:39:22,103 ] 108 root - INFO - Converting datatypes
+[ 2026-05-25 23:39:22,107 ] 125 root - INFO - Datatype conversion completed
+[ 2026-05-25 23:39:22,108 ] 139 root - INFO - Handling missing values
+[ 2026-05-25 23:39:22,114 ] 156 root - INFO - Missing value handling completed from (66, 5) to (65, 5)
+[ 2026-05-25 23:39:22,114 ] 174 root - INFO - Removing duplicates
+[ 2026-05-25 23:39:22,117 ] 188 root - INFO - Duplicates removed from (65, 5) to (65, 5)
+[ 2026-05-25 23:39:22,117 ] 208 root - INFO - Filtering valid years
+[ 2026-05-25 23:39:22,119 ] 217 root - INFO - Year filtering completed
+[ 2026-05-25 23:39:22,119 ] 231 root - INFO - Sorting dataframe
+[ 2026-05-25 23:39:22,122 ] 242 root - INFO - Sorting completed
+[ 2026-05-25 23:39:22,124 ] 432 root - INFO - Preprocessing pipeline completed
+[ 2026-05-25 23:39:22,131 ] 382 root - INFO - Processed dataframe saved at artifacts\data_processing\processed_data\industry_data.csv
+[ 2026-05-25 23:39:22,132 ] 354 root - INFO - Metadata saved at artifacts\data_processing\metadata\industry_metadata.json
+[ 2026-05-25 23:39:22,133 ] 484 root - INFO - Industry processing completed
+[ 2026-05-25 23:39:22,135 ] 22 root - INFO - Loading data from artifacts\data_ingestion\raw_data\services_raw.csv
+[ 2026-05-25 23:39:22,140 ] 26 root - INFO - Data loaded successfully
+[ 2026-05-25 23:39:22,141 ] 396 root - INFO - Starting preprocessing pipeline
+[ 2026-05-25 23:39:22,141 ] 53 root - INFO - Schema validation successful
+[ 2026-05-25 23:39:22,141 ] 65 root - INFO - Standardizing columns
+[ 2026-05-25 23:39:22,149 ] 94 root - INFO - Column standardization completed
+[ 2026-05-25 23:39:22,149 ] 108 root - INFO - Converting datatypes
+[ 2026-05-25 23:39:22,152 ] 125 root - INFO - Datatype conversion completed
+[ 2026-05-25 23:39:22,152 ] 139 root - INFO - Handling missing values
+[ 2026-05-25 23:39:22,157 ] 156 root - INFO - Missing value handling completed from (66, 5) to (65, 5)
+[ 2026-05-25 23:39:22,158 ] 174 root - INFO - Removing duplicates
+[ 2026-05-25 23:39:22,167 ] 188 root - INFO - Duplicates removed from (65, 5) to (65, 5)
+[ 2026-05-25 23:39:22,167 ] 208 root - INFO - Filtering valid years
+[ 2026-05-25 23:39:22,169 ] 217 root - INFO - Year filtering completed
+[ 2026-05-25 23:39:22,169 ] 231 root - INFO - Sorting dataframe
+[ 2026-05-25 23:39:22,172 ] 242 root - INFO - Sorting completed
+[ 2026-05-25 23:39:22,174 ] 432 root - INFO - Preprocessing pipeline completed
+[ 2026-05-25 23:39:22,182 ] 382 root - INFO - Processed dataframe saved at artifacts\data_processing\processed_data\services_data.csv
+[ 2026-05-25 23:39:22,184 ] 354 root - INFO - Metadata saved at artifacts\data_processing\metadata\services_metadata.json
+[ 2026-05-25 23:39:22,184 ] 484 root - INFO - Services processing completed
+[ 2026-05-25 23:39:22,186 ] 22 root - INFO - Loading data from artifacts\data_ingestion\raw_data\military_expenditure_raw.csv
+[ 2026-05-25 23:39:22,199 ] 26 root - INFO - Data loaded successfully
+[ 2026-05-25 23:39:22,199 ] 396 root - INFO - Starting preprocessing pipeline
+[ 2026-05-25 23:39:22,200 ] 53 root - INFO - Schema validation successful
+[ 2026-05-25 23:39:22,200 ] 65 root - INFO - Standardizing columns
+[ 2026-05-25 23:39:22,203 ] 94 root - INFO - Column standardization completed
+[ 2026-05-25 23:39:22,203 ] 108 root - INFO - Converting datatypes
+[ 2026-05-25 23:39:22,204 ] 125 root - INFO - Datatype conversion completed
+[ 2026-05-25 23:39:22,204 ] 139 root - INFO - Handling missing values
+[ 2026-05-25 23:39:22,210 ] 156 root - INFO - Missing value handling completed from (66, 5) to (65, 5)
+[ 2026-05-25 23:39:22,210 ] 174 root - INFO - Removing duplicates
+[ 2026-05-25 23:39:22,221 ] 188 root - INFO - Duplicates removed from (65, 5) to (65, 5)
+[ 2026-05-25 23:39:22,221 ] 208 root - INFO - Filtering valid years
+[ 2026-05-25 23:39:22,223 ] 217 root - INFO - Year filtering completed
+[ 2026-05-25 23:39:22,223 ] 231 root - INFO - Sorting dataframe
+[ 2026-05-25 23:39:22,231 ] 242 root - INFO - Sorting completed
+[ 2026-05-25 23:39:22,236 ] 432 root - INFO - Preprocessing pipeline completed
+[ 2026-05-25 23:39:22,243 ] 382 root - INFO - Processed dataframe saved at artifacts\data_processing\processed_data\military_expenditure_data.csv
+[ 2026-05-25 23:39:22,246 ] 354 root - INFO - Metadata saved at artifacts\data_processing\metadata\military_expenditure_metadata.json
+[ 2026-05-25 23:39:22,246 ] 484 root - INFO - Military_Expenditure processing completed
+[ 2026-05-25 23:39:22,249 ] 22 root - INFO - Loading data from artifacts\data_ingestion\raw_data\military_percent_gdp_raw.csv
+[ 2026-05-25 23:39:22,255 ] 26 root - INFO - Data loaded successfully
+[ 2026-05-25 23:39:22,256 ] 396 root - INFO - Starting preprocessing pipeline
+[ 2026-05-25 23:39:22,256 ] 53 root - INFO - Schema validation successful
+[ 2026-05-25 23:39:22,256 ] 65 root - INFO - Standardizing columns
+[ 2026-05-25 23:39:22,259 ] 94 root - INFO - Column standardization completed
+[ 2026-05-25 23:39:22,259 ] 108 root - INFO - Converting datatypes
+[ 2026-05-25 23:39:22,261 ] 125 root - INFO - Datatype conversion completed
+[ 2026-05-25 23:39:22,261 ] 139 root - INFO - Handling missing values
+[ 2026-05-25 23:39:22,267 ] 156 root - INFO - Missing value handling completed from (66, 5) to (65, 5)
+[ 2026-05-25 23:39:22,268 ] 174 root - INFO - Removing duplicates
+[ 2026-05-25 23:39:22,270 ] 188 root - INFO - Duplicates removed from (65, 5) to (65, 5)
+[ 2026-05-25 23:39:22,270 ] 208 root - INFO - Filtering valid years
+[ 2026-05-25 23:39:22,271 ] 217 root - INFO - Year filtering completed
+[ 2026-05-25 23:39:22,272 ] 231 root - INFO - Sorting dataframe
+[ 2026-05-25 23:39:22,275 ] 242 root - INFO - Sorting completed
+[ 2026-05-25 23:39:22,277 ] 432 root - INFO - Preprocessing pipeline completed
+[ 2026-05-25 23:39:22,284 ] 382 root - INFO - Processed dataframe saved at artifacts\data_processing\processed_data\military_percent_gdp_data.csv
+[ 2026-05-25 23:39:22,286 ] 354 root - INFO - Metadata saved at artifacts\data_processing\metadata\military_percent_gdp_metadata.json
+[ 2026-05-25 23:39:22,286 ] 484 root - INFO - Military_Percent_GDP processing completed
+[ 2026-05-25 23:39:22,288 ] 22 root - INFO - Loading data from artifacts\data_ingestion\raw_data\armed_forces_personnel_raw.csv
+[ 2026-05-25 23:39:22,313 ] 26 root - INFO - Data loaded successfully
+[ 2026-05-25 23:39:22,313 ] 396 root - INFO - Starting preprocessing pipeline
+[ 2026-05-25 23:39:22,314 ] 53 root - INFO - Schema validation successful
+[ 2026-05-25 23:39:22,314 ] 65 root - INFO - Standardizing columns
+[ 2026-05-25 23:39:22,317 ] 94 root - INFO - Column standardization completed
+[ 2026-05-25 23:39:22,318 ] 108 root - INFO - Converting datatypes
+[ 2026-05-25 23:39:22,319 ] 125 root - INFO - Datatype conversion completed
+[ 2026-05-25 23:39:22,319 ] 139 root - INFO - Handling missing values
+[ 2026-05-25 23:39:22,329 ] 156 root - INFO - Missing value handling completed from (66, 5) to (33, 5)
+[ 2026-05-25 23:39:22,330 ] 174 root - INFO - Removing duplicates
+[ 2026-05-25 23:39:22,338 ] 188 root - INFO - Duplicates removed from (33, 5) to (33, 5)
+[ 2026-05-25 23:39:22,339 ] 208 root - INFO - Filtering valid years
+[ 2026-05-25 23:39:22,340 ] 217 root - INFO - Year filtering completed
+[ 2026-05-25 23:39:22,340 ] 231 root - INFO - Sorting dataframe
+[ 2026-05-25 23:39:22,344 ] 242 root - INFO - Sorting completed
+[ 2026-05-25 23:39:22,350 ] 432 root - INFO - Preprocessing pipeline completed
+[ 2026-05-25 23:39:22,357 ] 382 root - INFO - Processed dataframe saved at artifacts\data_processing\processed_data\armed_forces_personnel_data.csv
+[ 2026-05-25 23:39:22,359 ] 354 root - INFO - Metadata saved at artifacts\data_processing\metadata\armed_forces_personnel_metadata.json
+[ 2026-05-25 23:39:22,359 ] 484 root - INFO - Armed_Forces_Personnel processing completed
+[ 2026-05-25 23:39:22,360 ] 46 root - INFO - Economy Section Processing Started

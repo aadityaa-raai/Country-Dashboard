@@ -1,7 +1,7 @@
 import os
 from datetime import datetime
 
-from src.Entity.artifacts import DataProcessingArtifact
+from src.Entity.artifacts import DataProcessingArtifact,SectionProcessingArtifact
 
 class TrainingPipelineConfig:
     def __init__(self, timestamp=datetime.now()):
@@ -67,4 +67,41 @@ class DataProcessingConfig:
                                                         processed_data_info=self.processed_data_info)
 
         return data_processing_artifact
-# class Data
+
+class SectionProcessingConfig:
+
+    def __init__(
+            self,
+            training_pipeline_config:TrainingPipelineConfig
+    ):
+
+        self.section_processing_dir = (
+            os.path.join(
+
+                training_pipeline_config
+                .artifact_dir,
+
+                "section_processing"
+            )
+        )
+
+        self.section_data_dir = (
+            os.path.join(
+
+                self.section_processing_dir,
+
+                "section_data"
+            )
+        )
+
+    SECTIONS = [ "economy", "demographics", "trade", "technology", "environment", "industry", "military" ]
+
+    def artifact(self)->SectionProcessingArtifact:
+        file_path=self.section_data_dir
+        section_registry:dict={s: os.path.join(file_path,f"{s}_data.csv") for s in self.SECTIONS}
+        
+        section_processing_artifact= SectionProcessingArtifact(
+            section_data_dir=self.section_data_dir,
+            section_registry=section_registry
+        )
+        return section_processing_artifact

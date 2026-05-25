@@ -23,3 +23,5 @@ class SectionProcessingArtifact:
 
     section_data_dir: str
 
+    section_registry:dict
+
