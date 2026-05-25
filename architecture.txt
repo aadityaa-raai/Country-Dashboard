@@ -23,8 +23,8 @@ Country-Dashboard/
 │
 ├── Entity/
 │   ├── __init__.py
-│   ├── config_entity.py
-│   └── artifact_entity.py
+│   ├── config.py
+│   └── artifacts.py
 │
 ├── Ingestion/
 │   ├── __init__.py
@@ -65,7 +65,7 @@ Country-Dashboard/
 │       ├── environment_section.py
 │       └── military_section.py
 │
-├── utils/
+├── Utils/
 │   ├── __init__.py
 │   ├── logger.py
 │   ├── exception.py

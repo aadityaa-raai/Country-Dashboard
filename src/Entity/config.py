@@ -27,10 +27,10 @@ class DataIngestionConfig:
         )
 
         # Cleaned/standardized datasets
-        self.processed_data_dir = os.path.join(
-            self.data_ingestion_dir,
-            "processed_data"
-        )
+        # self.processed_data_dir = os.path.join(
+        #     self.data_ingestion_dir,
+        #     "processed_data"
+        # )
 
         # Cached API responses
         self.cache_data_dir = os.path.join(
@@ -39,10 +39,10 @@ class DataIngestionConfig:
         )
 
         # Main combined dataset
-        self.final_dataset_path = os.path.join(
-            self.processed_data_dir,
-            "country_dashboard.csv"
-        )
+        # self.final_dataset_path = os.path.join(
+        #     self.processed_data_dir,
+        #     "country_dashboard.csv"
+        # )
 
         # Metadata / source tracking
         self.metadata_file_path = os.path.join(
