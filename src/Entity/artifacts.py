@@ -9,4 +9,9 @@ class DataIngestionArtifact:
     # final_dataset_path: str
     metadata_file_path: str
 
+@dataclass
+class DataProcessingConfig:
 
+    processed_data_dir: str
+
+    meta_data_dir:str

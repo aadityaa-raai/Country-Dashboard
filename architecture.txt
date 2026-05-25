@@ -17,59 +17,61 @@ Country-Dashboard/
 │       ├── environment_data.csv
 │       └── military_data.csv
 │
-├── Config/
-│   ├── __init__.py
-│   └── config.yaml
-│
-├── Entity/
-│   ├── __init__.py
-│   ├── config.py
-│   └── artifacts.py
-│
-├── Ingestion/
-│   ├── __init__.py
-│   ├── sources.py
-│   └── data_ingestion.py
-│
-├── Processing/
-│   ├── __init__.py
+|
+src
+│   ├── Config/
+│   │   ├── __init__.py
+│   │   └── config.yaml
 │   │
-│   ├── data_cleaning.py
-│   ├── preprocessing_utils.py
+│   ├── Entity/
+│   │   ├── __init__.py
+│   │   ├── config.py
+│   │   └── artifacts.py
 │   │
-│   ├── kpi_processor.py
-│   ├── gdp_processor.py
-│   ├── population_processor.py
-│   ├── economy_processor.py
-│   ├── trade_processor.py
-│   ├── technology_processor.py
-│   ├── environment_processor.py
-│   └── military_processor.py
-│
-├── Dashboard/
-│   ├── __init__.py
-│   ├── app.py
+│   ├── Ingestion/
+│   │   ├── __init__.py
+│   │   ├── sources.py
+│   │   └── data_ingestion.py
 │   │
-│   ├── components/
-│   │   ├── sidebar.py
-│   │   ├── filters.py
-│   │   └── cards.py
+│   ├── Processing/
+│   │   ├── __init__.py
+│   │   │
+│   │   ├── data_cleaning.py
+│   │   ├── preprocessing_utils.py
+│   │   │
+│   │   ├── kpi_processor.py
+│   │   ├── gdp_processor.py
+│   │   ├── population_processor.py
+│   │   ├── economy_processor.py
+│   │   ├── trade_processor.py
+│   │   ├── technology_processor.py
+│   │   ├── environment_processor.py
+│   │   └── military_processor.py
 │   │
-│   └── sections/
-│       ├── kpi_section.py
-│       ├── gdp_section.py
-│       ├── population_section.py
-│       ├── economy_section.py
-│       ├── trade_section.py
-│       ├── technology_section.py
-│       ├── environment_section.py
-│       └── military_section.py
-│
-├── Utils/
-│   ├── __init__.py
-│   ├── logger.py
-│   ├── exception.py
-│   └── common.py
+│   ├── Dashboard/
+│   │   ├── __init__.py
+│   │   ├── app.py
+│   │   │
+│   │   ├── components/
+│   │   │   ├── sidebar.py
+│   │   │   ├── filters.py
+│   │   │   └── cards.py
+│   │   │
+│   │   └── sections/
+│   │       ├── kpi_section.py
+│   │       ├── gdp_section.py
+│   │       ├── population_section.py
+│   │       ├── economy_section.py
+│   │       ├── trade_section.py
+│   │       ├── technology_section.py
+│   │       ├── environment_section.py
+│   │       └── military_section.py
+│   │
+│   └── Utils/
+│       ├── __init__.py
+│       ├── logger.py
+│       ├── exception.py
+│       └── common.py
 │
 ├── requirements.txt
 ├── README.md

@@ -1,0 +1,142 @@
+{
+    "gdp": {
+        "indicator_code": "NY.GDP.MKTP.CD",
+        "raw_file": "gdp_raw.csv"
+    },
+    "gdp_per_capita": {
+        "indicator_code": "NY.GDP.PCAP.CD",
+        "raw_file": "gdp_per_capita_raw.csv"
+    },
+    "population": {
+        "indicator_code": "SP.POP.TOTL",
+        "raw_file": "population_raw.csv"
+    },
+    "inflation": {
+        "indicator_code": "FP.CPI.TOTL.ZG",
+        "raw_file": "inflation_raw.csv"
+    },
+    "unemployment": {
+        "indicator_code": "SL.UEM.TOTL.ZS",
+        "raw_file": "unemployment_raw.csv"
+    },
+    "life_expectancy": {
+        "indicator_code": "SP.DYN.LE00.IN",
+        "raw_file": "life_expectancy_raw.csv"
+    },
+    "exports": {
+        "indicator_code": "NE.EXP.GNFS.CD",
+        "raw_file": "exports_raw.csv"
+    },
+    "imports": {
+        "indicator_code": "NE.IMP.GNFS.CD",
+        "raw_file": "imports_raw.csv"
+    },
+    "forex_reserves": {
+        "indicator_code": "FI.RES.TOTL.CD",
+        "raw_file": "forex_reserves_raw.csv"
+    },
+    "agriculture": {
+        "indicator_code": "NV.AGR.TOTL.ZS",
+        "raw_file": "agriculture_raw.csv"
+    },
+    "industry": {
+        "indicator_code": "NV.IND.TOTL.ZS",
+        "raw_file": "industry_raw.csv"
+    },
+    "services": {
+        "indicator_code": "NV.SRV.TOTL.ZS",
+        "raw_file": "services_raw.csv"
+    },
+    "trade_percent_gdp": {
+        "indicator_code": "NE.TRD.GNFS.ZS",
+        "raw_file": "trade_percent_gdp_raw.csv"
+    },
+    "fdi": {
+        "indicator_code": "BX.KLT.DINV.CD.WD",
+        "raw_file": "fdi_raw.csv"
+    },
+    "interest_rate": {
+        "indicator_code": "FR.INR.RINR",
+        "raw_file": "interest_rate_raw.csv"
+    },
+    "current_account_balance": {
+        "indicator_code": "BN.CAB.XOKA.CD",
+        "raw_file": "current_account_balance_raw.csv"
+    },
+    "population_growth": {
+        "indicator_code": "SP.POP.GROW",
+        "raw_file": "population_growth_raw.csv"
+    },
+    "urbanization": {
+        "indicator_code": "SP.URB.TOTL.IN.ZS",
+        "raw_file": "urbanization_raw.csv"
+    },
+    "birth_rate": {
+        "indicator_code": "SP.DYN.CBRT.IN",
+        "raw_file": "birth_rate_raw.csv"
+    },
+    "death_rate": {
+        "indicator_code": "SP.DYN.CDRT.IN",
+        "raw_file": "death_rate_raw.csv"
+    },
+    "population_density": {
+        "indicator_code": "EN.POP.DNST",
+        "raw_file": "population_density_raw.csv"
+    },
+    "literacy_rate": {
+        "indicator_code": "SE.ADT.LITR.ZS",
+        "raw_file": "literacy_rate_raw.csv"
+    },
+    "internet_users": {
+        "indicator_code": "IT.NET.USER.ZS",
+        "raw_file": "internet_users_raw.csv"
+    },
+    "mobile_subscriptions": {
+        "indicator_code": "IT.CEL.SETS.P2",
+        "raw_file": "mobile_subscriptions_raw.csv"
+    },
+    "broadband_subscriptions": {
+        "indicator_code": "IT.NET.BBND.P2",
+        "raw_file": "broadband_subscriptions_raw.csv"
+    },
+    "secure_servers": {
+        "indicator_code": "IT.NET.SECR.P6",
+        "raw_file": "secure_servers_raw.csv"
+    },
+    "high_tech_exports": {
+        "indicator_code": "TX.VAL.TECH.CD",
+        "raw_file": "high_tech_exports_raw.csv"
+    },
+    "rnd_expenditure": {
+        "indicator_code": "GB.XPD.RSDV.GD.ZS",
+        "raw_file": "rnd_expenditure_raw.csv"
+    },
+    "renewable_energy": {
+        "indicator_code": "EG.FEC.RNEW.ZS",
+        "raw_file": "renewable_energy_raw.csv"
+    },
+    "forest_area": {
+        "indicator_code": "AG.LND.FRST.ZS",
+        "raw_file": "forest_area_raw.csv"
+    },
+    "air_pollution": {
+        "indicator_code": "EN.ATM.PM25.MC.M3",
+        "raw_file": "air_pollution_raw.csv"
+    },
+    "electricity_access": {
+        "indicator_code": "EG.ELC.ACCS.ZS",
+        "raw_file": "electricity_access_raw.csv"
+    },
+    "military_expenditure": {
+        "indicator_code": "MS.MIL.XPND.CD",
+        "raw_file": "military_expenditure_raw.csv"
+    },
+    "military_percent_gdp": {
+        "indicator_code": "MS.MIL.XPND.GD.ZS",
+        "raw_file": "military_percent_gdp_raw.csv"
+    },
+    "armed_forces_personnel": {
+        "indicator_code": "MS.MIL.TOTL.P1",
+        "raw_file": "armed_forces_personnel_raw.csv"
+    }
+}
