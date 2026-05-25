@@ -1,4 +1,4 @@
-import sys,os
+import sys,os,json
 
 import pandas as pd
 
@@ -61,6 +61,23 @@ if __name__=="__main__":
         )
 
         section_processing_artifact:SectionProcessingArtifact=section_processing_config.artifact()
+
+        data_registry=section_processing_artifact.section_registry
+
+        file_path=os.path.join(training_pipeline_config.artifact_dir,"data")
+
+        os.makedirs(file_path,exist_ok=True)
+
+        json_file=os.path.join(file_path,"data_registry.json")
+
+        with open(json_file, "w") as file:
+
+                json.dump(
+                    data_registry,
+                    file,
+                    indent=4
+                )
+
 
         print(section_processing_artifact.section_registry)
 

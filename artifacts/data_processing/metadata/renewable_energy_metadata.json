@@ -1,7 +1,7 @@
 {
-    "total_rows": 32,
-    "total_countries": 1,
+    "total_rows": 8110,
+    "total_countries": 256,
     "min_year": 1990,
-    "max_year": 2021,
+    "max_year": 2022,
     "missing_years": []
 }

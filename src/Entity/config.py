@@ -1,4 +1,4 @@
-import os
+import os, json
 from datetime import datetime
 
 from src.Entity.artifacts import DataProcessingArtifact,SectionProcessingArtifact
@@ -85,6 +85,8 @@ class SectionProcessingConfig:
             )
         )
 
+        os.makedirs(os.path.join(training_pipeline_config.artifact_dir,"data"),exist_ok=True)
+
         self.section_data_dir = (
             os.path.join(
 
@@ -100,6 +102,15 @@ class SectionProcessingConfig:
         file_path=self.section_data_dir
         section_registry:dict={s: os.path.join(file_path,f"{s}_data.csv") for s in self.SECTIONS}
         
+        # json_file="artifacts/data/data_registry.json"
+
+        # # os.path.join(self.training_pipeline)
+
+        # # os.makedirs(os.path.dirname(json_file),exist_ok=True)
+
+        # with open(file_path,"w") as file:
+        #     json.dump(section_registry,file,indent=4)
+
         section_processing_artifact= SectionProcessingArtifact(
             section_data_dir=self.section_data_dir,
             section_registry=section_registry

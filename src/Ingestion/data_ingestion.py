@@ -33,7 +33,7 @@ class DataIngestion:
 
             url = (
                 f"https://api.worldbank.org/v2/"
-                f"country/IND/indicator/"
+                f"country/all/indicator/"
                 f"{indicator_code}"
                 f"?format=json&per_page=20000"
             )

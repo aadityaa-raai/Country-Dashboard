@@ -1,4 +1,1385 @@
 Country,Country_Code,Year,High_Tech_Exports,Indicator
+Afghanistan,AFG,2018,0.0,high_tech_exports
+Afghanistan,AFG,2019,0.0,high_tech_exports
+Africa Eastern and Southern,AFE,2013,3048778012.0,high_tech_exports
+Africa Eastern and Southern,AFE,2014,3112087609.0,high_tech_exports
+Africa Eastern and Southern,AFE,2015,3240328391.0,high_tech_exports
+Africa Eastern and Southern,AFE,2016,2969677646.0,high_tech_exports
+Africa Eastern and Southern,AFE,2017,2601368470.0,high_tech_exports
+Africa Eastern and Southern,AFE,2018,2621377821.0,high_tech_exports
+Africa Eastern and Southern,AFE,2019,2219014864.0,high_tech_exports
+Africa Eastern and Southern,AFE,2020,2131862308.0,high_tech_exports
+Africa Eastern and Southern,AFE,2021,2653712592.0,high_tech_exports
+Africa Eastern and Southern,AFE,2022,2802525921.0,high_tech_exports
+Africa Eastern and Southern,AFE,2023,2532680605.0,high_tech_exports
+Africa Western and Central,AFW,2014,753259188.0,high_tech_exports
+Africa Western and Central,AFW,2015,958852388.0,high_tech_exports
+Africa Western and Central,AFW,2016,385473507.0,high_tech_exports
+Africa Western and Central,AFW,2017,468884478.0,high_tech_exports
+Africa Western and Central,AFW,2018,397024156.0,high_tech_exports
+Africa Western and Central,AFW,2019,492364999.0,high_tech_exports
+Africa Western and Central,AFW,2020,378539584.0,high_tech_exports
+Africa Western and Central,AFW,2021,421818691.0,high_tech_exports
+Africa Western and Central,AFW,2022,358425779.0,high_tech_exports
+Africa Western and Central,AFW,2023,328478639.0,high_tech_exports
+Albania,ALB,2009,10128936.0,high_tech_exports
+Albania,ALB,2010,14074208.0,high_tech_exports
+Albania,ALB,2011,11890517.0,high_tech_exports
+Albania,ALB,2012,10014580.0,high_tech_exports
+Albania,ALB,2013,10843586.0,high_tech_exports
+Albania,ALB,2014,1960836.0,high_tech_exports
+Albania,ALB,2015,16607486.0,high_tech_exports
+Albania,ALB,2016,10199913.0,high_tech_exports
+Albania,ALB,2017,1118611.0,high_tech_exports
+Albania,ALB,2018,591718.0,high_tech_exports
+Albania,ALB,2019,1753201.0,high_tech_exports
+Albania,ALB,2020,3810240.0,high_tech_exports
+Albania,ALB,2021,6384226.0,high_tech_exports
+Albania,ALB,2022,886411.0,high_tech_exports
+Albania,ALB,2023,16899736.0,high_tech_exports
+Albania,ALB,2024,33080643.0,high_tech_exports
+Algeria,DZA,2007,6815093.0,high_tech_exports
+Algeria,DZA,2008,8596814.0,high_tech_exports
+Algeria,DZA,2009,4615916.0,high_tech_exports
+Algeria,DZA,2010,5377821.0,high_tech_exports
+Algeria,DZA,2011,3565017.0,high_tech_exports
+Algeria,DZA,2012,2215525.0,high_tech_exports
+Algeria,DZA,2013,3260377.0,high_tech_exports
+Algeria,DZA,2014,4033112.0,high_tech_exports
+Algeria,DZA,2015,2549728.0,high_tech_exports
+Algeria,DZA,2016,4844795.0,high_tech_exports
+Algeria,DZA,2017,9028313.0,high_tech_exports
+Andorra,AND,2007,33447890.0,high_tech_exports
+Andorra,AND,2008,17938621.0,high_tech_exports
+Andorra,AND,2009,10402351.0,high_tech_exports
+Andorra,AND,2010,19545650.0,high_tech_exports
+Andorra,AND,2011,18990190.0,high_tech_exports
+Andorra,AND,2012,19714197.0,high_tech_exports
+Andorra,AND,2013,21595662.0,high_tech_exports
+Andorra,AND,2014,18015813.0,high_tech_exports
+Andorra,AND,2015,18000092.0,high_tech_exports
+Andorra,AND,2016,21707609.0,high_tech_exports
+Andorra,AND,2017,24238350.0,high_tech_exports
+Andorra,AND,2018,33883932.0,high_tech_exports
+Andorra,AND,2019,37391323.0,high_tech_exports
+Andorra,AND,2020,36290169.0,high_tech_exports
+Andorra,AND,2021,36063879.0,high_tech_exports
+Andorra,AND,2022,49533520.0,high_tech_exports
+Andorra,AND,2023,51383658.0,high_tech_exports
+Angola,AGO,2015,102003479.0,high_tech_exports
+Angola,AGO,2016,101168422.0,high_tech_exports
+Angola,AGO,2017,90114520.0,high_tech_exports
+Angola,AGO,2018,62390526.0,high_tech_exports
+Angola,AGO,2019,79264147.0,high_tech_exports
+Angola,AGO,2020,46120730.0,high_tech_exports
+Angola,AGO,2021,43596708.0,high_tech_exports
+Angola,AGO,2022,77204455.0,high_tech_exports
+Angola,AGO,2023,89918197.0,high_tech_exports
+Angola,AGO,2024,64121494.0,high_tech_exports
+Antigua and Barbuda,ATG,2013,0.0,high_tech_exports
+Antigua and Barbuda,ATG,2014,0.0,high_tech_exports
+Antigua and Barbuda,ATG,2015,0.0,high_tech_exports
+Antigua and Barbuda,ATG,2016,162.0,high_tech_exports
+Antigua and Barbuda,ATG,2017,3183.0,high_tech_exports
+Antigua and Barbuda,ATG,2018,11437.0,high_tech_exports
+Antigua and Barbuda,ATG,2019,0.0,high_tech_exports
+Antigua and Barbuda,ATG,2020,0.0,high_tech_exports
+Antigua and Barbuda,ATG,2021,0.0,high_tech_exports
+Antigua and Barbuda,ATG,2022,0.0,high_tech_exports
+Antigua and Barbuda,ATG,2023,0.0,high_tech_exports
+Antigua and Barbuda,ATG,2024,0.0,high_tech_exports
+Arab World,ARB,2014,3191623960.0,high_tech_exports
+Arab World,ARB,2015,3108630413.0,high_tech_exports
+Arab World,ARB,2016,2709851392.0,high_tech_exports
+Arab World,ARB,2017,2615529090.0,high_tech_exports
+Arab World,ARB,2019,3544756213.0,high_tech_exports
+Arab World,ARB,2021,6884582322.0,high_tech_exports
+Arab World,ARB,2022,8226338286.0,high_tech_exports
+Arab World,ARB,2023,8203871267.0,high_tech_exports
+Argentina,ARG,2007,1202089048.0,high_tech_exports
+Argentina,ARG,2008,2014827039.0,high_tech_exports
+Argentina,ARG,2009,1607442803.0,high_tech_exports
+Argentina,ARG,2010,1686224603.0,high_tech_exports
+Argentina,ARG,2011,1926430908.0,high_tech_exports
+Argentina,ARG,2012,1654528881.0,high_tech_exports
+Argentina,ARG,2013,1791037027.0,high_tech_exports
+Argentina,ARG,2014,1509996216.0,high_tech_exports
+Argentina,ARG,2015,1475181467.0,high_tech_exports
+Argentina,ARG,2016,1333427025.0,high_tech_exports
+Argentina,ARG,2017,1487363816.0,high_tech_exports
+Argentina,ARG,2018,647172446.0,high_tech_exports
+Argentina,ARG,2019,561915855.0,high_tech_exports
+Argentina,ARG,2020,546445789.0,high_tech_exports
+Argentina,ARG,2021,466425814.0,high_tech_exports
+Argentina,ARG,2022,663679613.0,high_tech_exports
+Argentina,ARG,2023,689722037.0,high_tech_exports
+Argentina,ARG,2024,409324952.0,high_tech_exports
+Armenia,ARM,2007,5195605.0,high_tech_exports
+Armenia,ARM,2008,7247588.0,high_tech_exports
+Armenia,ARM,2009,5130103.0,high_tech_exports
+Armenia,ARM,2010,4727643.0,high_tech_exports
+Armenia,ARM,2011,7448895.0,high_tech_exports
+Armenia,ARM,2012,7581096.0,high_tech_exports
+Armenia,ARM,2013,9332592.0,high_tech_exports
+Armenia,ARM,2014,9307631.0,high_tech_exports
+Armenia,ARM,2015,11860132.0,high_tech_exports
+Armenia,ARM,2016,21845447.0,high_tech_exports
+Armenia,ARM,2017,28282166.0,high_tech_exports
+Armenia,ARM,2018,36529310.0,high_tech_exports
+Armenia,ARM,2019,45573711.0,high_tech_exports
+Armenia,ARM,2020,26514439.0,high_tech_exports
+Armenia,ARM,2021,37562644.0,high_tech_exports
+Armenia,ARM,2022,497178920.0,high_tech_exports
+Armenia,ARM,2023,840724814.0,high_tech_exports
+Armenia,ARM,2024,892555441.0,high_tech_exports
+Aruba,ABW,2009,1082577.0,high_tech_exports
+Aruba,ABW,2010,703388.0,high_tech_exports
+Aruba,ABW,2011,1269221.0,high_tech_exports
+Aruba,ABW,2012,3656987.0,high_tech_exports
+Aruba,ABW,2013,1702027.0,high_tech_exports
+Aruba,ABW,2014,2236432.0,high_tech_exports
+Aruba,ABW,2015,1265878.0,high_tech_exports
+Aruba,ABW,2016,1255851.0,high_tech_exports
+Aruba,ABW,2017,2004844.0,high_tech_exports
+Aruba,ABW,2018,2562890.0,high_tech_exports
+Aruba,ABW,2019,1655574.0,high_tech_exports
+Aruba,ABW,2020,1788242.0,high_tech_exports
+Aruba,ABW,2021,1171746.0,high_tech_exports
+Aruba,ABW,2022,1735162.0,high_tech_exports
+Aruba,ABW,2023,1665839.0,high_tech_exports
+Australia,AUS,2007,3859052880.0,high_tech_exports
+Australia,AUS,2008,4470937082.0,high_tech_exports
+Australia,AUS,2009,3841837829.0,high_tech_exports
+Australia,AUS,2010,4556153586.0,high_tech_exports
+Australia,AUS,2011,5601419629.0,high_tech_exports
+Australia,AUS,2012,5468098058.0,high_tech_exports
+Australia,AUS,2013,5342736393.0,high_tech_exports
+Australia,AUS,2014,5459155781.0,high_tech_exports
+Australia,AUS,2015,5091394845.0,high_tech_exports
+Australia,AUS,2016,5379738452.0,high_tech_exports
+Australia,AUS,2017,4902492267.0,high_tech_exports
+Australia,AUS,2018,5241784852.0,high_tech_exports
+Australia,AUS,2019,6336480016.0,high_tech_exports
+Australia,AUS,2020,5590752219.0,high_tech_exports
+Australia,AUS,2021,6310404299.0,high_tech_exports
+Australia,AUS,2022,7827261971.0,high_tech_exports
+Australia,AUS,2023,7767880136.0,high_tech_exports
+Australia,AUS,2024,8190032382.0,high_tech_exports
+Austria,AUT,2007,16729535708.0,high_tech_exports
+Austria,AUT,2008,17673554679.0,high_tech_exports
+Austria,AUT,2009,14165206601.0,high_tech_exports
+Austria,AUT,2010,15801989058.0,high_tech_exports
+Austria,AUT,2011,17846798301.0,high_tech_exports
+Austria,AUT,2012,18475532604.0,high_tech_exports
+Austria,AUT,2013,20793050424.0,high_tech_exports
+Austria,AUT,2014,21648234621.0,high_tech_exports
+Austria,AUT,2015,18084614342.0,high_tech_exports
+Austria,AUT,2016,17333979956.0,high_tech_exports
+Austria,AUT,2017,17025647706.0,high_tech_exports
+Austria,AUT,2018,16680037036.0,high_tech_exports
+Austria,AUT,2019,15967500783.0,high_tech_exports
+Austria,AUT,2020,15995936181.0,high_tech_exports
+Austria,AUT,2021,17019360151.0,high_tech_exports
+Austria,AUT,2022,23542335794.0,high_tech_exports
+Austria,AUT,2023,27308757068.0,high_tech_exports
+Austria,AUT,2024,30090214103.0,high_tech_exports
+Azerbaijan,AZE,2007,16910471.0,high_tech_exports
+Azerbaijan,AZE,2008,7426765.0,high_tech_exports
+Azerbaijan,AZE,2009,4537422.0,high_tech_exports
+Azerbaijan,AZE,2010,7200494.0,high_tech_exports
+Azerbaijan,AZE,2011,10332315.0,high_tech_exports
+Azerbaijan,AZE,2012,45373920.0,high_tech_exports
+Azerbaijan,AZE,2013,73389339.0,high_tech_exports
+Azerbaijan,AZE,2014,33923114.0,high_tech_exports
+Azerbaijan,AZE,2015,13928754.0,high_tech_exports
+Azerbaijan,AZE,2016,11727294.0,high_tech_exports
+Azerbaijan,AZE,2017,14069403.0,high_tech_exports
+Azerbaijan,AZE,2018,21177987.0,high_tech_exports
+Azerbaijan,AZE,2019,27996627.0,high_tech_exports
+Azerbaijan,AZE,2020,33914977.0,high_tech_exports
+Azerbaijan,AZE,2021,22212874.0,high_tech_exports
+Azerbaijan,AZE,2022,49582911.0,high_tech_exports
+Azerbaijan,AZE,2023,56810637.0,high_tech_exports
+Azerbaijan,AZE,2024,37073081.0,high_tech_exports
+"Bahamas, The",BHS,2009,76.0,high_tech_exports
+"Bahamas, The",BHS,2010,3454.0,high_tech_exports
+"Bahamas, The",BHS,2011,0.0,high_tech_exports
+"Bahamas, The",BHS,2012,0.0,high_tech_exports
+"Bahamas, The",BHS,2013,0.0,high_tech_exports
+"Bahamas, The",BHS,2014,0.0,high_tech_exports
+"Bahamas, The",BHS,2015,0.0,high_tech_exports
+"Bahamas, The",BHS,2016,5691434.0,high_tech_exports
+"Bahamas, The",BHS,2017,23398744.0,high_tech_exports
+"Bahamas, The",BHS,2018,6223847.0,high_tech_exports
+"Bahamas, The",BHS,2019,4273785.0,high_tech_exports
+"Bahamas, The",BHS,2020,5698918.0,high_tech_exports
+"Bahamas, The",BHS,2021,354749.0,high_tech_exports
+"Bahamas, The",BHS,2022,0.0,high_tech_exports
+"Bahamas, The",BHS,2023,7099.0,high_tech_exports
+"Bahamas, The",BHS,2024,0.0,high_tech_exports
+Bahrain,BHR,2009,310482.0,high_tech_exports
+Bahrain,BHR,2010,964226.0,high_tech_exports
+Bahrain,BHR,2011,1619723.0,high_tech_exports
+Bahrain,BHR,2012,7237726.0,high_tech_exports
+Bahrain,BHR,2013,18922393.0,high_tech_exports
+Bahrain,BHR,2014,47086511.0,high_tech_exports
+Bahrain,BHR,2015,22835701.0,high_tech_exports
+Bahrain,BHR,2016,21521243.0,high_tech_exports
+Bahrain,BHR,2017,14797112.0,high_tech_exports
+Bahrain,BHR,2018,11790580.0,high_tech_exports
+Bahrain,BHR,2019,171040707.0,high_tech_exports
+Bahrain,BHR,2020,334578591.0,high_tech_exports
+Bahrain,BHR,2021,18783670.0,high_tech_exports
+Bahrain,BHR,2022,18993642.0,high_tech_exports
+Bahrain,BHR,2023,11523340.0,high_tech_exports
+Bangladesh,BGD,2008,62063721.0,high_tech_exports
+Bangladesh,BGD,2009,44173505.0,high_tech_exports
+Bangladesh,BGD,2010,37560962.0,high_tech_exports
+Bangladesh,BGD,2011,44006131.0,high_tech_exports
+Bangladesh,BGD,2012,105405034.0,high_tech_exports
+Bangladesh,BGD,2013,68647591.0,high_tech_exports
+Bangladesh,BGD,2015,93607706.0,high_tech_exports
+Bangladesh,BGD,2016,80224851.0,high_tech_exports
+Bangladesh,BGD,2017,161066666.0,high_tech_exports
+Bangladesh,BGD,2018,204146450.0,high_tech_exports
+Barbados,BRB,2019,29763464.0,high_tech_exports
+Barbados,BRB,2020,25313814.0,high_tech_exports
+Barbados,BRB,2021,19196509.0,high_tech_exports
+Barbados,BRB,2022,18830529.0,high_tech_exports
+Barbados,BRB,2023,16529186.0,high_tech_exports
+Barbados,BRB,2024,18924402.0,high_tech_exports
+Belarus,BLR,2008,417729396.0,high_tech_exports
+Belarus,BLR,2009,319783299.0,high_tech_exports
+Belarus,BLR,2010,408291304.0,high_tech_exports
+Belarus,BLR,2011,515422700.0,high_tech_exports
+Belarus,BLR,2012,636491396.0,high_tech_exports
+Belarus,BLR,2013,796837310.0,high_tech_exports
+Belarus,BLR,2014,694196900.0,high_tech_exports
+Belarus,BLR,2015,578013704.0,high_tech_exports
+Belarus,BLR,2016,626372393.0,high_tech_exports
+Belarus,BLR,2017,721137103.0,high_tech_exports
+Belarus,BLR,2018,757854091.0,high_tech_exports
+Belarus,BLR,2019,800555399.0,high_tech_exports
+Belarus,BLR,2020,857164498.0,high_tech_exports
+Belarus,BLR,2021,922201805.0,high_tech_exports
+Belgium,BEL,2007,28348121217.0,high_tech_exports
+Belgium,BEL,2008,31672630338.0,high_tech_exports
+Belgium,BEL,2009,32169554713.0,high_tech_exports
+Belgium,BEL,2010,18062114104.0,high_tech_exports
+Belgium,BEL,2011,19710705572.0,high_tech_exports
+Belgium,BEL,2012,18578043351.0,high_tech_exports
+Belgium,BEL,2013,23020452724.0,high_tech_exports
+Belgium,BEL,2014,26767838222.0,high_tech_exports
+Belgium,BEL,2015,22552909326.0,high_tech_exports
+Belgium,BEL,2016,27175805685.0,high_tech_exports
+Belgium,BEL,2017,25235406983.0,high_tech_exports
+Belgium,BEL,2018,28165595899.0,high_tech_exports
+Belgium,BEL,2019,33085086466.0,high_tech_exports
+Belgium,BEL,2020,34318944448.0,high_tech_exports
+Belgium,BEL,2021,60841701079.0,high_tech_exports
+Belgium,BEL,2022,68608511632.0,high_tech_exports
+Belgium,BEL,2023,50647716012.0,high_tech_exports
+Belgium,BEL,2024,51334304858.0,high_tech_exports
+Belize,BLZ,2010,0.0,high_tech_exports
+Belize,BLZ,2011,409.0,high_tech_exports
+Belize,BLZ,2012,0.0,high_tech_exports
+Belize,BLZ,2013,0.0,high_tech_exports
+Belize,BLZ,2014,0.0,high_tech_exports
+Belize,BLZ,2015,0.0,high_tech_exports
+Belize,BLZ,2016,0.0,high_tech_exports
+Belize,BLZ,2017,10.0,high_tech_exports
+Belize,BLZ,2018,6270.0,high_tech_exports
+Belize,BLZ,2019,0.0,high_tech_exports
+Belize,BLZ,2020,64217.0,high_tech_exports
+Belize,BLZ,2021,14461.0,high_tech_exports
+Belize,BLZ,2022,17.0,high_tech_exports
+Belize,BLZ,2023,0.0,high_tech_exports
+Belize,BLZ,2024,13.0,high_tech_exports
+Benin,BEN,2013,569796.0,high_tech_exports
+Benin,BEN,2014,3987990.0,high_tech_exports
+Benin,BEN,2015,1171209.0,high_tech_exports
+Benin,BEN,2016,577999.0,high_tech_exports
+Benin,BEN,2017,3522293.0,high_tech_exports
+Benin,BEN,2018,1403781.0,high_tech_exports
+Benin,BEN,2019,700714.0,high_tech_exports
+Benin,BEN,2020,1410633.0,high_tech_exports
+Benin,BEN,2021,1211677.0,high_tech_exports
+Benin,BEN,2022,1478628.0,high_tech_exports
+Benin,BEN,2023,1700350.0,high_tech_exports
+Benin,BEN,2024,22455589.0,high_tech_exports
+Bermuda,BMU,2012,830077.0,high_tech_exports
+Bermuda,BMU,2013,2667623.0,high_tech_exports
+Bermuda,BMU,2014,2564052.0,high_tech_exports
+Bermuda,BMU,2015,1028795.0,high_tech_exports
+Bermuda,BMU,2016,1280911.0,high_tech_exports
+Bermuda,BMU,2017,1136950.0,high_tech_exports
+Bermuda,BMU,2018,2939782.0,high_tech_exports
+Bermuda,BMU,2019,1569639.0,high_tech_exports
+Bermuda,BMU,2020,869524.0,high_tech_exports
+Bermuda,BMU,2021,1878816.0,high_tech_exports
+Bermuda,BMU,2022,1251163.0,high_tech_exports
+Bermuda,BMU,2023,1784202.0,high_tech_exports
+Bermuda,BMU,2024,5858517.0,high_tech_exports
+Bhutan,BTN,2007,1941520.0,high_tech_exports
+Bhutan,BTN,2008,9525.0,high_tech_exports
+Bhutan,BTN,2009,439945.0,high_tech_exports
+Bhutan,BTN,2010,394616.0,high_tech_exports
+Bhutan,BTN,2011,272.0,high_tech_exports
+Bhutan,BTN,2012,58575.0,high_tech_exports
+Bhutan,BTN,2016,3592238.0,high_tech_exports
+Bhutan,BTN,2017,1273168.0,high_tech_exports
+Bhutan,BTN,2018,282972.0,high_tech_exports
+Bhutan,BTN,2019,135784.0,high_tech_exports
+Bhutan,BTN,2020,141312.0,high_tech_exports
+Bhutan,BTN,2022,35440.0,high_tech_exports
+Bhutan,BTN,2023,27754.0,high_tech_exports
+Bolivia,BOL,2007,15432769.0,high_tech_exports
+Bolivia,BOL,2008,17442189.0,high_tech_exports
+Bolivia,BOL,2009,14823026.0,high_tech_exports
+Bolivia,BOL,2010,37069953.0,high_tech_exports
+Bolivia,BOL,2011,48204674.0,high_tech_exports
+Bolivia,BOL,2012,52913603.0,high_tech_exports
+Bolivia,BOL,2013,44104414.0,high_tech_exports
+Bolivia,BOL,2014,33146951.0,high_tech_exports
+Bolivia,BOL,2015,24935819.0,high_tech_exports
+Bolivia,BOL,2016,15511283.0,high_tech_exports
+Bolivia,BOL,2017,19397571.0,high_tech_exports
+Bolivia,BOL,2018,19560045.0,high_tech_exports
+Bolivia,BOL,2019,14175220.0,high_tech_exports
+Bolivia,BOL,2020,13485139.0,high_tech_exports
+Bolivia,BOL,2021,22371253.0,high_tech_exports
+Bolivia,BOL,2022,35257941.0,high_tech_exports
+Bolivia,BOL,2023,27251877.0,high_tech_exports
+Bolivia,BOL,2024,51178345.0,high_tech_exports
+Bosnia and Herzegovina,BIH,2008,139640670.0,high_tech_exports
+Bosnia and Herzegovina,BIH,2009,83124313.0,high_tech_exports
+Bosnia and Herzegovina,BIH,2010,74424232.0,high_tech_exports
+Bosnia and Herzegovina,BIH,2011,106561255.0,high_tech_exports
+Bosnia and Herzegovina,BIH,2012,80755223.0,high_tech_exports
+Bosnia and Herzegovina,BIH,2013,82099573.0,high_tech_exports
+Bosnia and Herzegovina,BIH,2014,93751572.0,high_tech_exports
+Bosnia and Herzegovina,BIH,2015,98638473.0,high_tech_exports
+Bosnia and Herzegovina,BIH,2016,96206577.0,high_tech_exports
+Bosnia and Herzegovina,BIH,2017,236663996.0,high_tech_exports
+Bosnia and Herzegovina,BIH,2018,261343236.0,high_tech_exports
+Bosnia and Herzegovina,BIH,2019,253429110.0,high_tech_exports
+Bosnia and Herzegovina,BIH,2020,212050903.0,high_tech_exports
+Bosnia and Herzegovina,BIH,2021,323354391.0,high_tech_exports
+Bosnia and Herzegovina,BIH,2022,346093120.0,high_tech_exports
+Bosnia and Herzegovina,BIH,2023,335043704.0,high_tech_exports
+Bosnia and Herzegovina,BIH,2024,406642998.0,high_tech_exports
+Botswana,BWA,2013,26827409.0,high_tech_exports
+Botswana,BWA,2014,19204185.0,high_tech_exports
+Botswana,BWA,2015,37935089.0,high_tech_exports
+Botswana,BWA,2016,29033590.0,high_tech_exports
+Botswana,BWA,2017,53818634.0,high_tech_exports
+Botswana,BWA,2018,39468568.0,high_tech_exports
+Botswana,BWA,2019,18663246.0,high_tech_exports
+Botswana,BWA,2020,16838415.0,high_tech_exports
+Botswana,BWA,2021,23428722.0,high_tech_exports
+Botswana,BWA,2022,38953785.0,high_tech_exports
+Botswana,BWA,2023,25600565.0,high_tech_exports
+Brazil,BRA,2007,9550426879.0,high_tech_exports
+Brazil,BRA,2008,10797889271.0,high_tech_exports
+Brazil,BRA,2009,8461145153.0,high_tech_exports
+Brazil,BRA,2010,8821852402.0,high_tech_exports
+Brazil,BRA,2011,9144676228.0,high_tech_exports
+Brazil,BRA,2012,9470914631.0,high_tech_exports
+Brazil,BRA,2013,9066336666.0,high_tech_exports
+Brazil,BRA,2014,8794690902.0,high_tech_exports
+Brazil,BRA,2015,9433128684.0,high_tech_exports
+Brazil,BRA,2016,10375539028.0,high_tech_exports
+Brazil,BRA,2017,10715201949.0,high_tech_exports
+Brazil,BRA,2018,11063190965.0,high_tech_exports
+Brazil,BRA,2019,9392109980.0,high_tech_exports
+Brazil,BRA,2020,5944951723.0,high_tech_exports
+Brazil,BRA,2021,6350128610.0,high_tech_exports
+Brazil,BRA,2022,7707210423.0,high_tech_exports
+Brazil,BRA,2023,8060841826.0,high_tech_exports
+Brazil,BRA,2024,8694667841.0,high_tech_exports
+Brunei Darussalam,BRN,2009,45458745.0,high_tech_exports
+Brunei Darussalam,BRN,2010,108137888.0,high_tech_exports
+Brunei Darussalam,BRN,2011,112054867.0,high_tech_exports
+Brunei Darussalam,BRN,2012,70721764.0,high_tech_exports
+Brunei Darussalam,BRN,2013,56850707.0,high_tech_exports
+Brunei Darussalam,BRN,2014,61147373.0,high_tech_exports
+Brunei Darussalam,BRN,2015,79880356.0,high_tech_exports
+Brunei Darussalam,BRN,2016,75587694.0,high_tech_exports
+Brunei Darussalam,BRN,2017,159194395.0,high_tech_exports
+Brunei Darussalam,BRN,2018,115050.0,high_tech_exports
+Brunei Darussalam,BRN,2019,47341781.0,high_tech_exports
+Brunei Darussalam,BRN,2020,15965130.0,high_tech_exports
+Brunei Darussalam,BRN,2021,30923034.0,high_tech_exports
+Brunei Darussalam,BRN,2022,28422821.0,high_tech_exports
+Brunei Darussalam,BRN,2023,25220521.0,high_tech_exports
+Brunei Darussalam,BRN,2024,28950881.0,high_tech_exports
+Bulgaria,BGR,2007,648369137.0,high_tech_exports
+Bulgaria,BGR,2008,803738388.0,high_tech_exports
+Bulgaria,BGR,2009,754771930.0,high_tech_exports
+Bulgaria,BGR,2010,852976590.0,high_tech_exports
+Bulgaria,BGR,2011,1062699686.0,high_tech_exports
+Bulgaria,BGR,2012,1021476044.0,high_tech_exports
+Bulgaria,BGR,2013,1175494257.0,high_tech_exports
+Bulgaria,BGR,2014,1156706424.0,high_tech_exports
+Bulgaria,BGR,2015,1188402574.0,high_tech_exports
+Bulgaria,BGR,2016,1368015151.0,high_tech_exports
+Bulgaria,BGR,2017,1682865600.0,high_tech_exports
+Bulgaria,BGR,2018,2012291354.0,high_tech_exports
+Bulgaria,BGR,2019,2099870351.0,high_tech_exports
+Bulgaria,BGR,2020,2155498073.0,high_tech_exports
+Bulgaria,BGR,2021,2629729427.0,high_tech_exports
+Bulgaria,BGR,2022,2722362666.0,high_tech_exports
+Bulgaria,BGR,2023,3178034114.0,high_tech_exports
+Bulgaria,BGR,2024,3345754344.0,high_tech_exports
+Burkina Faso,BFA,2009,18492513.0,high_tech_exports
+Burkina Faso,BFA,2010,11301002.0,high_tech_exports
+Burkina Faso,BFA,2011,8259133.0,high_tech_exports
+Burkina Faso,BFA,2012,10978416.0,high_tech_exports
+Burkina Faso,BFA,2013,14208169.0,high_tech_exports
+Burkina Faso,BFA,2014,13835438.0,high_tech_exports
+Burkina Faso,BFA,2015,5765833.0,high_tech_exports
+Burkina Faso,BFA,2016,6875574.0,high_tech_exports
+Burkina Faso,BFA,2017,5350847.0,high_tech_exports
+Burkina Faso,BFA,2018,6498091.0,high_tech_exports
+Burkina Faso,BFA,2019,34843264.0,high_tech_exports
+Burkina Faso,BFA,2020,4097239.0,high_tech_exports
+Burkina Faso,BFA,2021,3595403.0,high_tech_exports
+Burkina Faso,BFA,2022,2782855.0,high_tech_exports
+Burkina Faso,BFA,2023,8323768.0,high_tech_exports
+Burkina Faso,BFA,2024,2468004.0,high_tech_exports
+Burundi,BDI,2013,52352.0,high_tech_exports
+Burundi,BDI,2014,392605.0,high_tech_exports
+Burundi,BDI,2015,762345.0,high_tech_exports
+Burundi,BDI,2016,600998.0,high_tech_exports
+Burundi,BDI,2017,224837.0,high_tech_exports
+Burundi,BDI,2018,1919722.0,high_tech_exports
+Burundi,BDI,2019,44806.0,high_tech_exports
+Burundi,BDI,2020,22492.0,high_tech_exports
+Burundi,BDI,2021,52895.0,high_tech_exports
+Burundi,BDI,2022,279944.0,high_tech_exports
+Burundi,BDI,2023,430943.0,high_tech_exports
+Cabo Verde,CPV,2009,0.0,high_tech_exports
+Cabo Verde,CPV,2010,0.0,high_tech_exports
+Cabo Verde,CPV,2011,62511.0,high_tech_exports
+Cabo Verde,CPV,2012,0.0,high_tech_exports
+Cabo Verde,CPV,2014,331.0,high_tech_exports
+Cabo Verde,CPV,2018,12.0,high_tech_exports
+Cabo Verde,CPV,2019,155282.0,high_tech_exports
+Cabo Verde,CPV,2020,62460.0,high_tech_exports
+Cabo Verde,CPV,2021,134350.0,high_tech_exports
+Cabo Verde,CPV,2022,155610.0,high_tech_exports
+Cabo Verde,CPV,2023,73876.0,high_tech_exports
+Cambodia,KHM,2007,1604572.0,high_tech_exports
+Cambodia,KHM,2008,3806890.0,high_tech_exports
+Cambodia,KHM,2009,9960158.0,high_tech_exports
+Cambodia,KHM,2010,8239391.0,high_tech_exports
+Cambodia,KHM,2011,7198370.0,high_tech_exports
+Cambodia,KHM,2012,13857078.0,high_tech_exports
+Cambodia,KHM,2013,73018958.0,high_tech_exports
+Cambodia,KHM,2014,31192963.0,high_tech_exports
+Cambodia,KHM,2015,121425752.0,high_tech_exports
+Cambodia,KHM,2016,171116016.0,high_tech_exports
+Cambodia,KHM,2017,177205288.0,high_tech_exports
+Cambodia,KHM,2018,164816028.0,high_tech_exports
+Cambodia,KHM,2019,160372357.0,high_tech_exports
+Cambodia,KHM,2020,308424335.0,high_tech_exports
+Cambodia,KHM,2021,454908154.0,high_tech_exports
+Cambodia,KHM,2022,1225957686.0,high_tech_exports
+Cambodia,KHM,2023,2353434396.0,high_tech_exports
+Cambodia,KHM,2024,1095668798.0,high_tech_exports
+Cameroon,CMR,2013,13496358.0,high_tech_exports
+Cameroon,CMR,2014,27500532.0,high_tech_exports
+Cameroon,CMR,2015,14038025.0,high_tech_exports
+Cameroon,CMR,2016,11759707.0,high_tech_exports
+Cameroon,CMR,2017,15101442.0,high_tech_exports
+Cameroon,CMR,2018,16426545.0,high_tech_exports
+Cameroon,CMR,2019,12928297.0,high_tech_exports
+Cameroon,CMR,2020,6620517.0,high_tech_exports
+Cameroon,CMR,2021,5718462.0,high_tech_exports
+Cameroon,CMR,2022,8618328.0,high_tech_exports
+Cameroon,CMR,2023,6237581.0,high_tech_exports
+Canada,CAN,2007,30533466009.0,high_tech_exports
+Canada,CAN,2008,30132655640.0,high_tech_exports
+Canada,CAN,2009,25646491962.0,high_tech_exports
+Canada,CAN,2010,26567981070.0,high_tech_exports
+Canada,CAN,2011,27501347864.0,high_tech_exports
+Canada,CAN,2012,33113402476.0,high_tech_exports
+Canada,CAN,2013,32182263706.0,high_tech_exports
+Canada,CAN,2014,28787810893.0,high_tech_exports
+Canada,CAN,2015,28242770992.0,high_tech_exports
+Canada,CAN,2016,26203266317.0,high_tech_exports
+Canada,CAN,2017,26938349605.0,high_tech_exports
+Canada,CAN,2018,30480481649.0,high_tech_exports
+Canada,CAN,2019,36788635481.0,high_tech_exports
+Canada,CAN,2020,30705829277.0,high_tech_exports
+Canada,CAN,2021,35218428012.0,high_tech_exports
+Canada,CAN,2022,36895712941.0,high_tech_exports
+Canada,CAN,2023,41530542798.0,high_tech_exports
+Canada,CAN,2024,36001612663.0,high_tech_exports
+Caribbean small states,CSS,2010,8996387.0,high_tech_exports
+Caribbean small states,CSS,2011,12565811.0,high_tech_exports
+Caribbean small states,CSS,2012,60857054.0,high_tech_exports
+Caribbean small states,CSS,2013,31069106.0,high_tech_exports
+Caribbean small states,CSS,2014,24790986.0,high_tech_exports
+Caribbean small states,CSS,2015,15497036.0,high_tech_exports
+Caribbean small states,CSS,2016,27608290.0,high_tech_exports
+Caribbean small states,CSS,2017,44643277.0,high_tech_exports
+Caribbean small states,CSS,2018,24486286.0,high_tech_exports
+Caribbean small states,CSS,2019,56184367.0,high_tech_exports
+Caribbean small states,CSS,2020,42980849.0,high_tech_exports
+Caribbean small states,CSS,2021,30627314.0,high_tech_exports
+Caribbean small states,CSS,2022,57725947.0,high_tech_exports
+Caribbean small states,CSS,2023,42005577.0,high_tech_exports
+Caribbean small states,CSS,2024,55396500.0,high_tech_exports
+Cayman Islands,CYM,2020,10398277.0,high_tech_exports
+Cayman Islands,CYM,2021,7773206.0,high_tech_exports
+Cayman Islands,CYM,2022,7824197.0,high_tech_exports
+Cayman Islands,CYM,2023,6973389.0,high_tech_exports
+Cayman Islands,CYM,2024,12519990.0,high_tech_exports
+Central African Republic,CAF,2010,632110.0,high_tech_exports
+Central African Republic,CAF,2011,1394.0,high_tech_exports
+Central African Republic,CAF,2012,134458.0,high_tech_exports
+Central African Republic,CAF,2013,10012.0,high_tech_exports
+Central African Republic,CAF,2015,4091308.0,high_tech_exports
+Central African Republic,CAF,2016,6613251.0,high_tech_exports
+Central African Republic,CAF,2017,35462286.0,high_tech_exports
+Central African Republic,CAF,2018,8173212.0,high_tech_exports
+Central African Republic,CAF,2019,88772322.0,high_tech_exports
+Central African Republic,CAF,2020,106849.0,high_tech_exports
+Central African Republic,CAF,2021,878109.0,high_tech_exports
+Central African Republic,CAF,2022,16373796.0,high_tech_exports
+Central African Republic,CAF,2023,221989.0,high_tech_exports
+Central African Republic,CAF,2024,12191538.0,high_tech_exports
+Central Europe and the Baltics,CEB,2007,50410188480.0,high_tech_exports
+Central Europe and the Baltics,CEB,2008,61163510579.0,high_tech_exports
+Central Europe and the Baltics,CEB,2009,54236189238.0,high_tech_exports
+Central Europe and the Baltics,CEB,2010,65096805245.0,high_tech_exports
+Central Europe and the Baltics,CEB,2011,78204513704.0,high_tech_exports
+Central Europe and the Baltics,CEB,2012,72110541748.0,high_tech_exports
+Central Europe and the Baltics,CEB,2013,76540710008.0,high_tech_exports
+Central Europe and the Baltics,CEB,2014,82036190415.0,high_tech_exports
+Central Europe and the Baltics,CEB,2015,76759509211.0,high_tech_exports
+Central Europe and the Baltics,CEB,2016,79858431392.0,high_tech_exports
+Central Europe and the Baltics,CEB,2017,89440077888.0,high_tech_exports
+Central Europe and the Baltics,CEB,2018,102121425459.0,high_tech_exports
+Central Europe and the Baltics,CEB,2019,102104097153.0,high_tech_exports
+Central Europe and the Baltics,CEB,2020,105029826428.0,high_tech_exports
+Central Europe and the Baltics,CEB,2021,115720561255.0,high_tech_exports
+Central Europe and the Baltics,CEB,2022,135458447014.0,high_tech_exports
+Central Europe and the Baltics,CEB,2023,144375997626.0,high_tech_exports
+Central Europe and the Baltics,CEB,2024,161354129073.0,high_tech_exports
+Chile,CHL,2007,650978627.0,high_tech_exports
+Chile,CHL,2008,656558020.0,high_tech_exports
+Chile,CHL,2009,475672103.0,high_tech_exports
+Chile,CHL,2010,541804285.0,high_tech_exports
+Chile,CHL,2011,554621392.0,high_tech_exports
+Chile,CHL,2012,578366368.0,high_tech_exports
+Chile,CHL,2013,696431125.0,high_tech_exports
+Chile,CHL,2014,731680359.0,high_tech_exports
+Chile,CHL,2015,580229395.0,high_tech_exports
+Chile,CHL,2016,720871030.0,high_tech_exports
+Chile,CHL,2017,634869020.0,high_tech_exports
+Chile,CHL,2018,667789266.0,high_tech_exports
+Chile,CHL,2019,672148298.0,high_tech_exports
+Chile,CHL,2020,1368060499.0,high_tech_exports
+Chile,CHL,2021,1264185464.0,high_tech_exports
+Chile,CHL,2022,1400540500.0,high_tech_exports
+Chile,CHL,2023,1841775193.0,high_tech_exports
+Chile,CHL,2024,1076634941.0,high_tech_exports
+China,CHN,2007,343558973511.0,high_tech_exports
+China,CHN,2008,391875971833.0,high_tech_exports
+China,CHN,2009,359685956947.0,high_tech_exports
+China,CHN,2010,474737980237.0,high_tech_exports
+China,CHN,2011,540460754934.0,high_tech_exports
+China,CHN,2012,594110243099.0,high_tech_exports
+China,CHN,2013,656130321776.0,high_tech_exports
+China,CHN,2014,654030643704.0,high_tech_exports
+China,CHN,2015,652412308349.0,high_tech_exports
+China,CHN,2016,594754428555.0,high_tech_exports
+China,CHN,2017,654254700212.0,high_tech_exports
+China,CHN,2018,731389331452.0,high_tech_exports
+China,CHN,2019,715336038300.0,high_tech_exports
+China,CHN,2020,757483821706.0,high_tech_exports
+China,CHN,2021,936394581135.0,high_tech_exports
+China,CHN,2022,924393316669.0,high_tech_exports
+China,CHN,2023,825045389470.0,high_tech_exports
+China,CHN,2024,856764726389.0,high_tech_exports
+Colombia,COL,2007,360296277.0,high_tech_exports
+Colombia,COL,2008,475948292.0,high_tech_exports
+Colombia,COL,2009,492118043.0,high_tech_exports
+Colombia,COL,2010,451119242.0,high_tech_exports
+Colombia,COL,2011,433809511.0,high_tech_exports
+Colombia,COL,2012,565873207.0,high_tech_exports
+Colombia,COL,2013,773381766.0,high_tech_exports
+Colombia,COL,2014,762816334.0,high_tech_exports
+Colombia,COL,2015,823794429.0,high_tech_exports
+Colombia,COL,2016,766933461.0,high_tech_exports
+Colombia,COL,2017,692527611.0,high_tech_exports
+Colombia,COL,2018,603548552.0,high_tech_exports
+Colombia,COL,2019,753154204.0,high_tech_exports
+Colombia,COL,2020,689647169.0,high_tech_exports
+Colombia,COL,2021,735066988.0,high_tech_exports
+Colombia,COL,2022,885893553.0,high_tech_exports
+Colombia,COL,2023,873209016.0,high_tech_exports
+Colombia,COL,2024,955977281.0,high_tech_exports
+Comoros,COM,2014,194928.0,high_tech_exports
+Comoros,COM,2015,135535.0,high_tech_exports
+Comoros,COM,2016,19666.0,high_tech_exports
+Comoros,COM,2017,2087641.0,high_tech_exports
+Comoros,COM,2018,28546.0,high_tech_exports
+Comoros,COM,2019,831114.0,high_tech_exports
+Comoros,COM,2020,38577.0,high_tech_exports
+Comoros,COM,2021,28418.0,high_tech_exports
+Comoros,COM,2022,40974.0,high_tech_exports
+Comoros,COM,2023,91529.0,high_tech_exports
+"Congo, Dem. Rep.",COD,2015,63192320.0,high_tech_exports
+"Congo, Dem. Rep.",COD,2016,5559878.0,high_tech_exports
+"Congo, Dem. Rep.",COD,2017,9340030.0,high_tech_exports
+"Congo, Dem. Rep.",COD,2018,26163468.0,high_tech_exports
+"Congo, Dem. Rep.",COD,2019,32092118.0,high_tech_exports
+"Congo, Dem. Rep.",COD,2020,17461774.0,high_tech_exports
+"Congo, Dem. Rep.",COD,2021,4658514.0,high_tech_exports
+"Congo, Dem. Rep.",COD,2022,17597529.0,high_tech_exports
+"Congo, Dem. Rep.",COD,2023,9864324.0,high_tech_exports
+"Congo, Rep.",COG,2014,49507331.0,high_tech_exports
+"Congo, Rep.",COG,2015,53856827.0,high_tech_exports
+"Congo, Rep.",COG,2016,71754303.0,high_tech_exports
+"Congo, Rep.",COG,2017,82791344.0,high_tech_exports
+"Congo, Rep.",COG,2018,40604431.0,high_tech_exports
+"Congo, Rep.",COG,2019,29719757.0,high_tech_exports
+"Congo, Rep.",COG,2020,37906534.0,high_tech_exports
+"Congo, Rep.",COG,2021,38829158.0,high_tech_exports
+"Congo, Rep.",COG,2022,27110079.0,high_tech_exports
+"Congo, Rep.",COG,2023,30899820.0,high_tech_exports
+Costa Rica,CRI,2007,2537251595.0,high_tech_exports
+Costa Rica,CRI,2008,2435411709.0,high_tech_exports
+Costa Rica,CRI,2009,1794967100.0,high_tech_exports
+Costa Rica,CRI,2010,2203396726.0,high_tech_exports
+Costa Rica,CRI,2011,2521516046.0,high_tech_exports
+Costa Rica,CRI,2012,2732053792.0,high_tech_exports
+Costa Rica,CRI,2013,3074134472.0,high_tech_exports
+Costa Rica,CRI,2014,2418534772.0,high_tech_exports
+Costa Rica,CRI,2015,869824563.0,high_tech_exports
+Costa Rica,CRI,2016,951904772.0,high_tech_exports
+Costa Rica,CRI,2017,1106655213.0,high_tech_exports
+Costa Rica,CRI,2018,1148832582.0,high_tech_exports
+Costa Rica,CRI,2019,1154574074.0,high_tech_exports
+Costa Rica,CRI,2020,1038666681.0,high_tech_exports
+Costa Rica,CRI,2021,1457228331.0,high_tech_exports
+Costa Rica,CRI,2022,2066890450.0,high_tech_exports
+Costa Rica,CRI,2023,2809087758.0,high_tech_exports
+Costa Rica,CRI,2024,2947807985.0,high_tech_exports
+Cote d'Ivoire,CIV,2008,186084319.0,high_tech_exports
+Cote d'Ivoire,CIV,2009,197108462.0,high_tech_exports
+Cote d'Ivoire,CIV,2010,70492080.0,high_tech_exports
+Cote d'Ivoire,CIV,2011,176346416.0,high_tech_exports
+Cote d'Ivoire,CIV,2012,96850645.0,high_tech_exports
+Cote d'Ivoire,CIV,2013,165475569.0,high_tech_exports
+Cote d'Ivoire,CIV,2014,241143808.0,high_tech_exports
+Cote d'Ivoire,CIV,2015,187852042.0,high_tech_exports
+Cote d'Ivoire,CIV,2016,126579773.0,high_tech_exports
+Cote d'Ivoire,CIV,2017,137431681.0,high_tech_exports
+Cote d'Ivoire,CIV,2018,78786305.0,high_tech_exports
+Cote d'Ivoire,CIV,2019,141805000.0,high_tech_exports
+Cote d'Ivoire,CIV,2020,56250897.0,high_tech_exports
+Cote d'Ivoire,CIV,2021,56851004.0,high_tech_exports
+Cote d'Ivoire,CIV,2022,58387740.0,high_tech_exports
+Cote d'Ivoire,CIV,2023,110019023.0,high_tech_exports
+Cote d'Ivoire,CIV,2024,86358481.0,high_tech_exports
+Croatia,HRV,2007,803499581.0,high_tech_exports
+Croatia,HRV,2008,936967178.0,high_tech_exports
+Croatia,HRV,2009,793006198.0,high_tech_exports
+Croatia,HRV,2010,817139883.0,high_tech_exports
+Croatia,HRV,2011,776020576.0,high_tech_exports
+Croatia,HRV,2012,913351645.0,high_tech_exports
+Croatia,HRV,2013,999788815.0,high_tech_exports
+Croatia,HRV,2014,915598803.0,high_tech_exports
+Croatia,HRV,2015,915727467.0,high_tech_exports
+Croatia,HRV,2016,1336109796.0,high_tech_exports
+Croatia,HRV,2017,926522170.0,high_tech_exports
+Croatia,HRV,2018,1011950033.0,high_tech_exports
+Croatia,HRV,2019,952468476.0,high_tech_exports
+Croatia,HRV,2020,1084083418.0,high_tech_exports
+Croatia,HRV,2021,1330725251.0,high_tech_exports
+Croatia,HRV,2022,1736046687.0,high_tech_exports
+Croatia,HRV,2023,1738860511.0,high_tech_exports
+Croatia,HRV,2024,1919903808.0,high_tech_exports
+Cuba,CUB,2016,257965573.0,high_tech_exports
+Cuba,CUB,2017,38992284.0,high_tech_exports
+Cuba,CUB,2018,15927235.0,high_tech_exports
+Cuba,CUB,2019,67288048.0,high_tech_exports
+Cuba,CUB,2020,17896042.0,high_tech_exports
+Cuba,CUB,2021,222790197.0,high_tech_exports
+Cuba,CUB,2022,13311229.0,high_tech_exports
+Cyprus,CYP,2007,96699999.0,high_tech_exports
+Cyprus,CYP,2008,123587752.0,high_tech_exports
+Cyprus,CYP,2009,109541362.0,high_tech_exports
+Cyprus,CYP,2010,143937805.0,high_tech_exports
+Cyprus,CYP,2011,112875071.0,high_tech_exports
+Cyprus,CYP,2012,55513249.0,high_tech_exports
+Cyprus,CYP,2013,56419712.0,high_tech_exports
+Cyprus,CYP,2014,68206259.0,high_tech_exports
+Cyprus,CYP,2015,55429941.0,high_tech_exports
+Cyprus,CYP,2016,56148834.0,high_tech_exports
+Cyprus,CYP,2017,54653535.0,high_tech_exports
+Cyprus,CYP,2018,95281472.0,high_tech_exports
+Cyprus,CYP,2019,92911879.0,high_tech_exports
+Cyprus,CYP,2020,62939856.0,high_tech_exports
+Cyprus,CYP,2021,88015705.0,high_tech_exports
+Cyprus,CYP,2022,93960972.0,high_tech_exports
+Cyprus,CYP,2023,109983773.0,high_tech_exports
+Cyprus,CYP,2024,104881340.0,high_tech_exports
+Czechia,CZE,2007,16672750044.0,high_tech_exports
+Czechia,CZE,2008,20149160155.0,high_tech_exports
+Czechia,CZE,2009,17073608123.0,high_tech_exports
+Czechia,CZE,2010,20408146674.0,high_tech_exports
+Czechia,CZE,2011,26864951093.0,high_tech_exports
+Czechia,CZE,2012,25452863333.0,high_tech_exports
+Czechia,CZE,2013,24683560894.0,high_tech_exports
+Czechia,CZE,2014,26896989563.0,high_tech_exports
+Czechia,CZE,2015,24765844904.0,high_tech_exports
+Czechia,CZE,2016,24696483302.0,high_tech_exports
+Czechia,CZE,2017,29455304775.0,high_tech_exports
+Czechia,CZE,2018,36029727754.0,high_tech_exports
+Czechia,CZE,2019,37662935376.0,high_tech_exports
+Czechia,CZE,2020,39608918726.0,high_tech_exports
+Czechia,CZE,2021,41423396626.0,high_tech_exports
+Czechia,CZE,2022,46554526977.0,high_tech_exports
+Czechia,CZE,2023,46329135586.0,high_tech_exports
+Czechia,CZE,2024,52422447878.0,high_tech_exports
+Denmark,DNK,2007,12073064150.0,high_tech_exports
+Denmark,DNK,2008,12417941733.0,high_tech_exports
+Denmark,DNK,2009,11258588931.0,high_tech_exports
+Denmark,DNK,2010,9012037384.0,high_tech_exports
+Denmark,DNK,2011,10408230833.0,high_tech_exports
+Denmark,DNK,2012,9742007079.0,high_tech_exports
+Denmark,DNK,2013,10196237936.0,high_tech_exports
+Denmark,DNK,2014,10640792837.0,high_tech_exports
+Denmark,DNK,2015,10082748969.0,high_tech_exports
+Denmark,DNK,2016,10051342801.0,high_tech_exports
+Denmark,DNK,2017,8868268698.0,high_tech_exports
+Denmark,DNK,2018,9553980118.0,high_tech_exports
+Denmark,DNK,2019,9580042594.0,high_tech_exports
+Denmark,DNK,2020,10456156892.0,high_tech_exports
+Denmark,DNK,2021,12558522501.0,high_tech_exports
+Denmark,DNK,2022,13697919561.0,high_tech_exports
+Denmark,DNK,2023,15851279312.0,high_tech_exports
+Denmark,DNK,2024,17124731773.0,high_tech_exports
+Djibouti,DJI,2009,1331100.0,high_tech_exports
+Djibouti,DJI,2021,52191021.0,high_tech_exports
+Djibouti,DJI,2022,75036421.0,high_tech_exports
+Djibouti,DJI,2023,88653670.0,high_tech_exports
+Dominica,DMA,2009,0.0,high_tech_exports
+Dominica,DMA,2010,154223.0,high_tech_exports
+Dominica,DMA,2012,1949279.0,high_tech_exports
+Dominica,DMA,2013,2279542.0,high_tech_exports
+Dominica,DMA,2016,419801.0,high_tech_exports
+Dominica,DMA,2017,318695.0,high_tech_exports
+Dominica,DMA,2018,301159.0,high_tech_exports
+Dominica,DMA,2019,1201516.0,high_tech_exports
+Dominica,DMA,2020,145604.0,high_tech_exports
+Dominica,DMA,2021,291177.0,high_tech_exports
+Dominica,DMA,2022,3200283.0,high_tech_exports
+Dominica,DMA,2023,367176.0,high_tech_exports
+Dominican Republic,DOM,2007,759722912.0,high_tech_exports
+Dominican Republic,DOM,2008,343578651.0,high_tech_exports
+Dominican Republic,DOM,2009,181137320.0,high_tech_exports
+Dominican Republic,DOM,2010,75810618.0,high_tech_exports
+Dominican Republic,DOM,2011,97374126.0,high_tech_exports
+Dominican Republic,DOM,2012,145436379.0,high_tech_exports
+Dominican Republic,DOM,2013,197793260.0,high_tech_exports
+Dominican Republic,DOM,2014,223058546.0,high_tech_exports
+Dominican Republic,DOM,2015,207375708.0,high_tech_exports
+Dominican Republic,DOM,2016,228458931.0,high_tech_exports
+Dominican Republic,DOM,2017,479793890.0,high_tech_exports
+Dominican Republic,DOM,2018,388076815.0,high_tech_exports
+Dominican Republic,DOM,2019,399435146.0,high_tech_exports
+Dominican Republic,DOM,2020,487003237.0,high_tech_exports
+Dominican Republic,DOM,2021,565390971.0,high_tech_exports
+Dominican Republic,DOM,2022,406158882.0,high_tech_exports
+Dominican Republic,DOM,2023,454061980.0,high_tech_exports
+Dominican Republic,DOM,2024,575848242.0,high_tech_exports
+Early-demographic dividend,EAR,2010,86006361247.0,high_tech_exports
+Early-demographic dividend,EAR,2011,95503581953.0,high_tech_exports
+Early-demographic dividend,EAR,2012,99640479951.0,high_tech_exports
+Early-demographic dividend,EAR,2013,105677450133.0,high_tech_exports
+Early-demographic dividend,EAR,2014,110366078435.0,high_tech_exports
+Early-demographic dividend,EAR,2015,106190876186.0,high_tech_exports
+Early-demographic dividend,EAR,2016,104917742541.0,high_tech_exports
+Early-demographic dividend,EAR,2017,147803968254.0,high_tech_exports
+Early-demographic dividend,EAR,2018,158532823543.0,high_tech_exports
+Early-demographic dividend,EAR,2019,163501499328.0,high_tech_exports
+Early-demographic dividend,EAR,2020,157241674331.0,high_tech_exports
+Early-demographic dividend,EAR,2021,177047734258.0,high_tech_exports
+Early-demographic dividend,EAR,2022,213549294364.0,high_tech_exports
+Early-demographic dividend,EAR,2023,209696659485.0,high_tech_exports
+East Asia & Pacific,EAS,2017,1605737870851.0,high_tech_exports
+East Asia & Pacific,EAS,2018,1785066014153.0,high_tech_exports
+East Asia & Pacific,EAS,2021,2213844355626.0,high_tech_exports
+East Asia & Pacific (IDA & IBRD countries),TEA,2017,886768257251.0,high_tech_exports
+East Asia & Pacific (IDA & IBRD countries),TEA,2018,990514521301.0,high_tech_exports
+East Asia & Pacific (IDA & IBRD countries),TEA,2021,1262232777093.0,high_tech_exports
+East Asia & Pacific (excluding high income),EAP,2017,886766980185.0,high_tech_exports
+East Asia & Pacific (excluding high income),EAP,2018,990514119711.0,high_tech_exports
+East Asia & Pacific (excluding high income),EAP,2020,1039086548792.0,high_tech_exports
+East Asia & Pacific (excluding high income),EAP,2021,1262232777093.0,high_tech_exports
+East Asia & Pacific (excluding high income),EAP,2022,1304665548636.0,high_tech_exports
+East Asia & Pacific (excluding high income),EAP,2023,1189339908675.0,high_tech_exports
+Ecuador,ECU,2008,80058801.0,high_tech_exports
+Ecuador,ECU,2009,53152326.0,high_tech_exports
+Ecuador,ECU,2010,146115718.0,high_tech_exports
+Ecuador,ECU,2011,59881532.0,high_tech_exports
+Ecuador,ECU,2012,55266062.0,high_tech_exports
+Ecuador,ECU,2013,78368915.0,high_tech_exports
+Ecuador,ECU,2014,81594902.0,high_tech_exports
+Ecuador,ECU,2015,103054631.0,high_tech_exports
+Ecuador,ECU,2016,111067371.0,high_tech_exports
+Ecuador,ECU,2017,93241535.0,high_tech_exports
+Ecuador,ECU,2018,68768816.0,high_tech_exports
+Ecuador,ECU,2019,67994135.0,high_tech_exports
+Ecuador,ECU,2020,52973250.0,high_tech_exports
+Ecuador,ECU,2021,77485367.0,high_tech_exports
+Ecuador,ECU,2022,124665033.0,high_tech_exports
+Ecuador,ECU,2023,106992254.0,high_tech_exports
+Ecuador,ECU,2024,154303360.0,high_tech_exports
+"Egypt, Arab Rep.",EGY,2008,102650631.0,high_tech_exports
+"Egypt, Arab Rep.",EGY,2009,86522520.0,high_tech_exports
+"Egypt, Arab Rep.",EGY,2010,104581856.0,high_tech_exports
+"Egypt, Arab Rep.",EGY,2011,133427058.0,high_tech_exports
+"Egypt, Arab Rep.",EGY,2012,78780667.0,high_tech_exports
+"Egypt, Arab Rep.",EGY,2013,72676207.0,high_tech_exports
+"Egypt, Arab Rep.",EGY,2014,168393198.0,high_tech_exports
+"Egypt, Arab Rep.",EGY,2015,89778932.0,high_tech_exports
+"Egypt, Arab Rep.",EGY,2016,56095790.0,high_tech_exports
+"Egypt, Arab Rep.",EGY,2017,73845752.0,high_tech_exports
+"Egypt, Arab Rep.",EGY,2018,124115195.0,high_tech_exports
+"Egypt, Arab Rep.",EGY,2019,323587661.0,high_tech_exports
+"Egypt, Arab Rep.",EGY,2020,347931933.0,high_tech_exports
+"Egypt, Arab Rep.",EGY,2021,645859214.0,high_tech_exports
+"Egypt, Arab Rep.",EGY,2022,766542713.0,high_tech_exports
+"Egypt, Arab Rep.",EGY,2023,696971153.0,high_tech_exports
+"Egypt, Arab Rep.",EGY,2024,887725667.0,high_tech_exports
+El Salvador,SLV,2007,188505755.0,high_tech_exports
+El Salvador,SLV,2008,200722855.0,high_tech_exports
+El Salvador,SLV,2009,177794297.0,high_tech_exports
+El Salvador,SLV,2010,235605824.0,high_tech_exports
+El Salvador,SLV,2011,238654078.0,high_tech_exports
+El Salvador,SLV,2012,225446747.0,high_tech_exports
+El Salvador,SLV,2013,227691500.0,high_tech_exports
+El Salvador,SLV,2014,226164854.0,high_tech_exports
+El Salvador,SLV,2015,208807068.0,high_tech_exports
+El Salvador,SLV,2016,223937538.0,high_tech_exports
+El Salvador,SLV,2017,251239528.0,high_tech_exports
+El Salvador,SLV,2018,277843373.0,high_tech_exports
+El Salvador,SLV,2019,230311118.0,high_tech_exports
+El Salvador,SLV,2020,228122461.0,high_tech_exports
+El Salvador,SLV,2021,348626313.0,high_tech_exports
+El Salvador,SLV,2022,414452908.0,high_tech_exports
+El Salvador,SLV,2023,296585304.0,high_tech_exports
+El Salvador,SLV,2024,247046197.0,high_tech_exports
+Estonia,EST,2007,838058280.0,high_tech_exports
+Estonia,EST,2008,915174912.0,high_tech_exports
+Estonia,EST,2009,615941848.0,high_tech_exports
+Estonia,EST,2010,1253045395.0,high_tech_exports
+Estonia,EST,2011,2547547680.0,high_tech_exports
+Estonia,EST,2012,2356406386.0,high_tech_exports
+Estonia,EST,2013,2546333378.0,high_tech_exports
+Estonia,EST,2014,2709032485.0,high_tech_exports
+Estonia,EST,2015,2053390810.0,high_tech_exports
+Estonia,EST,2016,2107825808.0,high_tech_exports
+Estonia,EST,2017,1846642347.0,high_tech_exports
+Estonia,EST,2018,1911072435.0,high_tech_exports
+Estonia,EST,2019,1737778171.0,high_tech_exports
+Estonia,EST,2020,2169488523.0,high_tech_exports
+Estonia,EST,2021,2681060611.0,high_tech_exports
+Estonia,EST,2022,2331439433.0,high_tech_exports
+Estonia,EST,2023,2085454295.0,high_tech_exports
+Estonia,EST,2024,2269700530.0,high_tech_exports
+Eswatini,SWZ,2008,2364954.0,high_tech_exports
+Eswatini,SWZ,2009,2067521.0,high_tech_exports
+Eswatini,SWZ,2010,2320779.0,high_tech_exports
+Eswatini,SWZ,2011,1367686.0,high_tech_exports
+Eswatini,SWZ,2012,698635.0,high_tech_exports
+Eswatini,SWZ,2013,1162950.0,high_tech_exports
+Eswatini,SWZ,2014,1063575.0,high_tech_exports
+Eswatini,SWZ,2015,2771688.0,high_tech_exports
+Eswatini,SWZ,2016,2250765.0,high_tech_exports
+Eswatini,SWZ,2017,3620940.0,high_tech_exports
+Eswatini,SWZ,2018,11447254.0,high_tech_exports
+Eswatini,SWZ,2019,3567569.0,high_tech_exports
+Eswatini,SWZ,2020,3747606.0,high_tech_exports
+Eswatini,SWZ,2021,4198951.0,high_tech_exports
+Eswatini,SWZ,2022,3985543.0,high_tech_exports
+Eswatini,SWZ,2023,3576837.0,high_tech_exports
+Ethiopia,ETH,2008,8353857.0,high_tech_exports
+Ethiopia,ETH,2009,6989321.0,high_tech_exports
+Ethiopia,ETH,2010,9180690.0,high_tech_exports
+Ethiopia,ETH,2011,5740332.0,high_tech_exports
+Ethiopia,ETH,2012,8250875.0,high_tech_exports
+Ethiopia,ETH,2013,5597838.0,high_tech_exports
+Ethiopia,ETH,2014,24230914.0,high_tech_exports
+Ethiopia,ETH,2015,15626489.0,high_tech_exports
+Ethiopia,ETH,2016,10506299.0,high_tech_exports
+Ethiopia,ETH,2017,7937400.0,high_tech_exports
+Ethiopia,ETH,2018,9903649.0,high_tech_exports
+Ethiopia,ETH,2019,44073888.0,high_tech_exports
+Ethiopia,ETH,2020,43204864.0,high_tech_exports
+Ethiopia,ETH,2021,24782074.0,high_tech_exports
+Ethiopia,ETH,2022,9017811.0,high_tech_exports
+Ethiopia,ETH,2023,9855262.0,high_tech_exports
+Euro area,EMU,2007,486972217681.0,high_tech_exports
+Euro area,EMU,2008,517053185257.0,high_tech_exports
+Euro area,EMU,2009,446587360503.0,high_tech_exports
+Euro area,EMU,2010,481811150821.0,high_tech_exports
+Euro area,EMU,2011,537297423754.0,high_tech_exports
+Euro area,EMU,2012,529268165124.0,high_tech_exports
+Euro area,EMU,2013,550071244904.0,high_tech_exports
+Euro area,EMU,2014,570098226129.0,high_tech_exports
+Euro area,EMU,2015,517678146101.0,high_tech_exports
+Euro area,EMU,2016,539254366802.0,high_tech_exports
+Euro area,EMU,2017,533500920458.0,high_tech_exports
+Euro area,EMU,2018,571016903294.0,high_tech_exports
+Euro area,EMU,2019,580484166645.0,high_tech_exports
+Euro area,EMU,2020,528629249093.0,high_tech_exports
+Euro area,EMU,2021,632017313171.0,high_tech_exports
+Euro area,EMU,2022,749270288569.0,high_tech_exports
+Euro area,EMU,2023,769146797312.0,high_tech_exports
+Euro area,EMU,2024,789097687316.0,high_tech_exports
+Europe & Central Asia,ECS,2007,679494500223.0,high_tech_exports
+Europe & Central Asia,ECS,2008,729759941964.0,high_tech_exports
+Europe & Central Asia,ECS,2009,625774807804.0,high_tech_exports
+Europe & Central Asia,ECS,2010,694535308448.0,high_tech_exports
+Europe & Central Asia,ECS,2011,784564411164.0,high_tech_exports
+Europe & Central Asia,ECS,2012,765809220749.0,high_tech_exports
+Europe & Central Asia,ECS,2013,795994707073.0,high_tech_exports
+Europe & Central Asia,ECS,2014,826744411576.0,high_tech_exports
+Europe & Central Asia,ECS,2015,762241373327.0,high_tech_exports
+Europe & Central Asia,ECS,2016,784673246742.0,high_tech_exports
+Europe & Central Asia,ECS,2017,758637032006.0,high_tech_exports
+Europe & Central Asia,ECS,2018,810430983908.0,high_tech_exports
+Europe & Central Asia,ECS,2019,823980371645.0,high_tech_exports
+Europe & Central Asia,ECS,2020,750695422378.0,high_tech_exports
+Europe & Central Asia,ECS,2021,890855658885.0,high_tech_exports
+Europe & Central Asia,ECS,2022,1074480519972.0,high_tech_exports
+Europe & Central Asia,ECS,2023,1120266630505.0,high_tech_exports
+Europe & Central Asia,ECS,2024,1168373740443.0,high_tech_exports
+Europe & Central Asia (IDA & IBRD countries),TEC,2009,21705223501.0,high_tech_exports
+Europe & Central Asia (IDA & IBRD countries),TEC,2010,26661316605.0,high_tech_exports
+Europe & Central Asia (IDA & IBRD countries),TEC,2011,30860834347.0,high_tech_exports
+Europe & Central Asia (IDA & IBRD countries),TEC,2012,34023193872.0,high_tech_exports
+Europe & Central Asia (IDA & IBRD countries),TEC,2013,39465419925.0,high_tech_exports
+Europe & Central Asia (IDA & IBRD countries),TEC,2014,44894648521.0,high_tech_exports
+Europe & Central Asia (IDA & IBRD countries),TEC,2015,44090128681.0,high_tech_exports
+Europe & Central Asia (IDA & IBRD countries),TEC,2016,44137933002.0,high_tech_exports
+Europe & Central Asia (IDA & IBRD countries),TEC,2017,46254872022.0,high_tech_exports
+Europe & Central Asia (IDA & IBRD countries),TEC,2018,50134426700.0,high_tech_exports
+Europe & Central Asia (IDA & IBRD countries),TEC,2019,50336646968.0,high_tech_exports
+Europe & Central Asia (IDA & IBRD countries),TEC,2020,46335545409.0,high_tech_exports
+Europe & Central Asia (IDA & IBRD countries),TEC,2021,58209955074.0,high_tech_exports
+Europe & Central Asia (IDA & IBRD countries),TEC,2022,60250249619.0,high_tech_exports
+Europe & Central Asia (IDA & IBRD countries),TEC,2023,68701281237.0,high_tech_exports
+Europe & Central Asia (IDA & IBRD countries),TEC,2024,77654016165.0,high_tech_exports
+Europe & Central Asia (excluding high income),ECA,2009,4223353821.0,high_tech_exports
+Europe & Central Asia (excluding high income),ECA,2010,5252109296.0,high_tech_exports
+Europe & Central Asia (excluding high income),ECA,2011,7894151676.0,high_tech_exports
+Europe & Central Asia (excluding high income),ECA,2012,9978606686.0,high_tech_exports
+Europe & Central Asia (excluding high income),ECA,2013,10725349530.0,high_tech_exports
+Europe & Central Asia (excluding high income),ECA,2014,11161416587.0,high_tech_exports
+Europe & Central Asia (excluding high income),ECA,2015,9569440651.0,high_tech_exports
+Europe & Central Asia (excluding high income),ECA,2016,8053508172.0,high_tech_exports
+Europe & Central Asia (excluding high income),ECA,2017,8863767772.0,high_tech_exports
+Europe & Central Asia (excluding high income),ECA,2018,8602183756.0,high_tech_exports
+Europe & Central Asia (excluding high income),ECA,2019,9675454691.0,high_tech_exports
+Europe & Central Asia (excluding high income),ECA,2020,9573003661.0,high_tech_exports
+Europe & Central Asia (excluding high income),ECA,2021,11786595465.0,high_tech_exports
+Europe & Central Asia (excluding high income),ECA,2022,14122332802.0,high_tech_exports
+Europe & Central Asia (excluding high income),ECA,2023,17804480250.0,high_tech_exports
+Europe & Central Asia (excluding high income),ECA,2024,21568373292.0,high_tech_exports
+European Union,EUU,2007,564110827957.0,high_tech_exports
+European Union,EUU,2008,605811955436.0,high_tech_exports
+European Union,EUU,2009,523542391457.0,high_tech_exports
+European Union,EUU,2010,569684552489.0,high_tech_exports
+European Union,EUU,2011,639685390959.0,high_tech_exports
+European Union,EUU,2012,619609052619.0,high_tech_exports
+European Union,EUU,2013,642484835181.0,high_tech_exports
+European Union,EUU,2014,667011598350.0,high_tech_exports
+European Union,EUU,2015,608237808994.0,high_tech_exports
+European Union,EUU,2016,632106527601.0,high_tech_exports
+European Union,EUU,2017,632012777383.0,high_tech_exports
+European Union,EUU,2018,682242772374.0,high_tech_exports
+European Union,EUU,2019,692518079436.0,high_tech_exports
+European Union,EUU,2020,643732901191.0,high_tech_exports
+European Union,EUU,2021,759305349396.0,high_tech_exports
+European Union,EUU,2022,900313929829.0,high_tech_exports
+European Union,EUU,2023,930406318083.0,high_tech_exports
+European Union,EUU,2024,966685268440.0,high_tech_exports
+Faroe Islands,FRO,2007,135174.0,high_tech_exports
+Faroe Islands,FRO,2008,6442960.0,high_tech_exports
+Faroe Islands,FRO,2009,358803.0,high_tech_exports
+Fiji,FJI,2008,5281247.0,high_tech_exports
+Fiji,FJI,2009,5173537.0,high_tech_exports
+Fiji,FJI,2010,5193601.0,high_tech_exports
+Fiji,FJI,2011,5389494.0,high_tech_exports
+Fiji,FJI,2012,2770711.0,high_tech_exports
+Fiji,FJI,2013,2718566.0,high_tech_exports
+Fiji,FJI,2014,3433096.0,high_tech_exports
+Fiji,FJI,2015,2717010.0,high_tech_exports
+Fiji,FJI,2016,3397551.0,high_tech_exports
+Fiji,FJI,2017,4217989.0,high_tech_exports
+Fiji,FJI,2018,4667872.0,high_tech_exports
+Fiji,FJI,2019,6263592.0,high_tech_exports
+Fiji,FJI,2020,11123736.0,high_tech_exports
+Fiji,FJI,2021,1950223.0,high_tech_exports
+Fiji,FJI,2022,2268902.0,high_tech_exports
+Fiji,FJI,2023,1594712.0,high_tech_exports
+Fiji,FJI,2024,2852557.0,high_tech_exports
+Finland,FIN,2007,15796307016.0,high_tech_exports
+Finland,FIN,2008,16911748578.0,high_tech_exports
+Finland,FIN,2009,8741751895.0,high_tech_exports
+Finland,FIN,2010,7052407551.0,high_tech_exports
+Finland,FIN,2011,6421629231.0,high_tech_exports
+Finland,FIN,2012,5472643075.0,high_tech_exports
+Finland,FIN,2013,4695482191.0,high_tech_exports
+Finland,FIN,2014,5102766370.0,high_tech_exports
+Finland,FIN,2015,4250905950.0,high_tech_exports
+Finland,FIN,2016,3966871438.0,high_tech_exports
+Finland,FIN,2017,4405324838.0,high_tech_exports
+Finland,FIN,2018,4515449913.0,high_tech_exports
+Finland,FIN,2019,4563293049.0,high_tech_exports
+Finland,FIN,2020,4419553378.0,high_tech_exports
+Finland,FIN,2021,5489726511.0,high_tech_exports
+Finland,FIN,2022,5314037683.0,high_tech_exports
+Finland,FIN,2023,5292503329.0,high_tech_exports
+Finland,FIN,2024,4684273534.0,high_tech_exports
+France,FRA,2007,85956078923.0,high_tech_exports
+France,FRA,2008,98888839634.0,high_tech_exports
+France,FRA,2009,88002941740.0,high_tech_exports
+France,FRA,2010,105353015788.0,high_tech_exports
+France,FRA,2011,112010151896.0,high_tech_exports
+France,FRA,2012,114180529053.0,high_tech_exports
+France,FRA,2013,118820854036.0,high_tech_exports
+France,FRA,2014,120716756777.0,high_tech_exports
+France,FRA,2015,109712844802.0,high_tech_exports
+France,FRA,2016,108836528649.0,high_tech_exports
+France,FRA,2017,108867689621.0,high_tech_exports
+France,FRA,2018,117655413928.0,high_tech_exports
+France,FRA,2019,120602174129.0,high_tech_exports
+France,FRA,2020,87513986459.0,high_tech_exports
+France,FRA,2021,97729573744.0,high_tech_exports
+France,FRA,2022,106026835558.0,high_tech_exports
+France,FRA,2023,115256032667.0,high_tech_exports
+France,FRA,2024,116591262278.0,high_tech_exports
+French Polynesia,PYF,2009,11329679.0,high_tech_exports
+French Polynesia,PYF,2010,6154933.0,high_tech_exports
+French Polynesia,PYF,2011,20494065.0,high_tech_exports
+French Polynesia,PYF,2012,2388577.0,high_tech_exports
+French Polynesia,PYF,2013,8787972.0,high_tech_exports
+French Polynesia,PYF,2014,20716843.0,high_tech_exports
+French Polynesia,PYF,2015,11000066.0,high_tech_exports
+French Polynesia,PYF,2016,36375902.0,high_tech_exports
+French Polynesia,PYF,2017,15891381.0,high_tech_exports
+French Polynesia,PYF,2018,12182965.0,high_tech_exports
+French Polynesia,PYF,2019,30906026.0,high_tech_exports
+French Polynesia,PYF,2020,5106597.0,high_tech_exports
+French Polynesia,PYF,2021,23343057.0,high_tech_exports
+French Polynesia,PYF,2022,9877273.0,high_tech_exports
+French Polynesia,PYF,2023,1514715.0,high_tech_exports
+French Polynesia,PYF,2024,1326559.0,high_tech_exports
+Gabon,GAB,2010,77925114.0,high_tech_exports
+Gabon,GAB,2011,29617393.0,high_tech_exports
+Gabon,GAB,2012,129190911.0,high_tech_exports
+Gabon,GAB,2013,38531502.0,high_tech_exports
+Gabon,GAB,2014,89390082.0,high_tech_exports
+Gabon,GAB,2015,61949326.0,high_tech_exports
+Gabon,GAB,2016,94533513.0,high_tech_exports
+Gabon,GAB,2017,51877570.0,high_tech_exports
+Gabon,GAB,2018,98516906.0,high_tech_exports
+Gabon,GAB,2019,64376117.0,high_tech_exports
+Gabon,GAB,2020,59109890.0,high_tech_exports
+Gabon,GAB,2021,40017534.0,high_tech_exports
+Gabon,GAB,2022,78992997.0,high_tech_exports
+Gabon,GAB,2023,40040970.0,high_tech_exports
+"Gambia, The",GMB,2011,22564.0,high_tech_exports
+"Gambia, The",GMB,2012,12713.0,high_tech_exports
+"Gambia, The",GMB,2013,24497.0,high_tech_exports
+"Gambia, The",GMB,2014,0.0,high_tech_exports
+"Gambia, The",GMB,2015,738.0,high_tech_exports
+"Gambia, The",GMB,2016,0.0,high_tech_exports
+"Gambia, The",GMB,2017,2090.0,high_tech_exports
+"Gambia, The",GMB,2018,6065.0,high_tech_exports
+"Gambia, The",GMB,2019,402.0,high_tech_exports
+"Gambia, The",GMB,2020,1274.0,high_tech_exports
+"Gambia, The",GMB,2021,20.0,high_tech_exports
+"Gambia, The",GMB,2022,24121.0,high_tech_exports
+"Gambia, The",GMB,2023,14930.0,high_tech_exports
+"Gambia, The",GMB,2024,7739.0,high_tech_exports
+Georgia,GEO,2009,14814975.0,high_tech_exports
+Georgia,GEO,2010,12436532.0,high_tech_exports
+Georgia,GEO,2011,12154187.0,high_tech_exports
+Georgia,GEO,2012,20048799.0,high_tech_exports
+Georgia,GEO,2013,21318338.0,high_tech_exports
+Georgia,GEO,2014,26436679.0,high_tech_exports
+Georgia,GEO,2015,34242243.0,high_tech_exports
+Georgia,GEO,2016,16319719.0,high_tech_exports
+Georgia,GEO,2017,21231758.0,high_tech_exports
+Georgia,GEO,2018,23144128.0,high_tech_exports
+Georgia,GEO,2019,15548971.0,high_tech_exports
+Georgia,GEO,2020,13231875.0,high_tech_exports
+Georgia,GEO,2021,16787165.0,high_tech_exports
+Georgia,GEO,2022,37872247.0,high_tech_exports
+Georgia,GEO,2023,19250589.0,high_tech_exports
+Georgia,GEO,2024,38187367.0,high_tech_exports
+Germany,DEU,2007,169568705000.0,high_tech_exports
+Germany,DEU,2008,183092780221.0,high_tech_exports
+Germany,DEU,2009,158722553273.0,high_tech_exports
+Germany,DEU,2010,179620897366.0,high_tech_exports
+Germany,DEU,2011,202328061352.0,high_tech_exports
+Germany,DEU,2012,202541990943.0,high_tech_exports
+Germany,DEU,2013,209304933980.0,high_tech_exports
+Germany,DEU,2014,215660926664.0,high_tech_exports
+Germany,DEU,2015,199465124309.0,high_tech_exports
+Germany,DEU,2016,205114885619.0,high_tech_exports
+Germany,DEU,2017,195727088512.0,high_tech_exports
+Germany,DEU,2018,209762237943.0,high_tech_exports
+Germany,DEU,2019,208177564289.0,high_tech_exports
+Germany,DEU,2020,182393711293.0,high_tech_exports
+Germany,DEU,2021,211942359477.0,high_tech_exports
+Germany,DEU,2022,245975238590.0,high_tech_exports
+Germany,DEU,2023,260043024452.0,high_tech_exports
+Germany,DEU,2024,246637611895.0,high_tech_exports
+Ghana,GHA,2010,9152124.0,high_tech_exports
+Ghana,GHA,2011,23837344.0,high_tech_exports
+Ghana,GHA,2012,74464827.0,high_tech_exports
+Ghana,GHA,2013,62205333.0,high_tech_exports
+Ghana,GHA,2014,96040603.0,high_tech_exports
+Ghana,GHA,2015,89431412.0,high_tech_exports
+Ghana,GHA,2016,21058841.0,high_tech_exports
+Ghana,GHA,2017,41175497.0,high_tech_exports
+Ghana,GHA,2018,50025593.0,high_tech_exports
+Ghana,GHA,2019,9976531.0,high_tech_exports
+Ghana,GHA,2021,8559644.0,high_tech_exports
+Ghana,GHA,2022,20927708.0,high_tech_exports
+Ghana,GHA,2023,20813123.0,high_tech_exports
+Greece,GRC,2007,1121470129.0,high_tech_exports
+Greece,GRC,2008,1561744986.0,high_tech_exports
+Greece,GRC,2009,1363815916.0,high_tech_exports
+Greece,GRC,2010,1293893167.0,high_tech_exports
+Greece,GRC,2011,1402486556.0,high_tech_exports
+Greece,GRC,2012,1138029201.0,high_tech_exports
+Greece,GRC,2013,951302817.0,high_tech_exports
+Greece,GRC,2014,1338279317.0,high_tech_exports
+Greece,GRC,2015,1330159357.0,high_tech_exports
+Greece,GRC,2016,1416985518.0,high_tech_exports
+Greece,GRC,2017,1384671573.0,high_tech_exports
+Greece,GRC,2018,1755535165.0,high_tech_exports
+Greece,GRC,2019,1779259833.0,high_tech_exports
+Greece,GRC,2020,2006739599.0,high_tech_exports
+Greece,GRC,2021,2250610346.0,high_tech_exports
+Greece,GRC,2022,2860598783.0,high_tech_exports
+Greece,GRC,2023,3023255566.0,high_tech_exports
+Greece,GRC,2024,2973518417.0,high_tech_exports
+Greenland,GRL,2007,1700118.0,high_tech_exports
+Greenland,GRL,2008,486704.0,high_tech_exports
+Greenland,GRL,2009,300791.0,high_tech_exports
+Greenland,GRL,2010,13306187.0,high_tech_exports
+Greenland,GRL,2011,1773158.0,high_tech_exports
+Greenland,GRL,2012,3325948.0,high_tech_exports
+Greenland,GRL,2013,919559.0,high_tech_exports
+Greenland,GRL,2014,257025.0,high_tech_exports
+Greenland,GRL,2015,12776481.0,high_tech_exports
+Greenland,GRL,2016,2115984.0,high_tech_exports
+Greenland,GRL,2017,1743349.0,high_tech_exports
+Greenland,GRL,2018,487974.0,high_tech_exports
+Grenada,GRD,2010,78111.0,high_tech_exports
+Grenada,GRD,2011,70689.0,high_tech_exports
+Grenada,GRD,2012,195833.0,high_tech_exports
+Grenada,GRD,2013,195026.0,high_tech_exports
+Grenada,GRD,2014,1221586.0,high_tech_exports
+Grenada,GRD,2015,355897.0,high_tech_exports
+Grenada,GRD,2016,2988674.0,high_tech_exports
+Grenada,GRD,2017,331598.0,high_tech_exports
+Grenada,GRD,2018,1278881.0,high_tech_exports
+Grenada,GRD,2019,796930.0,high_tech_exports
+Grenada,GRD,2020,112035.0,high_tech_exports
+Grenada,GRD,2021,90309.0,high_tech_exports
+Grenada,GRD,2022,110475.0,high_tech_exports
+Grenada,GRD,2023,420417.0,high_tech_exports
+Grenada,GRD,2024,656058.0,high_tech_exports
+Guatemala,GTM,2007,125891929.0,high_tech_exports
+Guatemala,GTM,2008,157358135.0,high_tech_exports
+Guatemala,GTM,2009,149657665.0,high_tech_exports
+Guatemala,GTM,2010,228548345.0,high_tech_exports
+Guatemala,GTM,2011,198225103.0,high_tech_exports
+Guatemala,GTM,2012,208074794.0,high_tech_exports
+Guatemala,GTM,2013,213666508.0,high_tech_exports
+Guatemala,GTM,2014,229707719.0,high_tech_exports
+Guatemala,GTM,2015,249132210.0,high_tech_exports
+Guatemala,GTM,2016,259701215.0,high_tech_exports
+Guatemala,GTM,2017,246967065.0,high_tech_exports
+Guatemala,GTM,2018,255865387.0,high_tech_exports
+Guatemala,GTM,2019,241814990.0,high_tech_exports
+Guatemala,GTM,2020,300037283.0,high_tech_exports
+Guatemala,GTM,2021,332469285.0,high_tech_exports
+Guatemala,GTM,2022,369983861.0,high_tech_exports
+Guatemala,GTM,2023,376979755.0,high_tech_exports
+Guatemala,GTM,2024,365552337.0,high_tech_exports
+Guinea,GIN,2013,989751.0,high_tech_exports
+Guinea,GIN,2014,3601290.0,high_tech_exports
+Guinea,GIN,2015,2455734.0,high_tech_exports
+Guinea,GIN,2016,799556.0,high_tech_exports
+Guinea-Bissau,GNB,2015,18.0,high_tech_exports
+Guyana,GUY,2007,411706.0,high_tech_exports
+Guyana,GUY,2008,70848.0,high_tech_exports
+Guyana,GUY,2009,16213.0,high_tech_exports
+Guyana,GUY,2010,74241.0,high_tech_exports
+Guyana,GUY,2011,95679.0,high_tech_exports
+Guyana,GUY,2012,41530.0,high_tech_exports
+Guyana,GUY,2013,119766.0,high_tech_exports
+Guyana,GUY,2014,105393.0,high_tech_exports
+Guyana,GUY,2015,90066.0,high_tech_exports
+Guyana,GUY,2016,161359.0,high_tech_exports
+Guyana,GUY,2017,254735.0,high_tech_exports
+Guyana,GUY,2018,82753.0,high_tech_exports
+Guyana,GUY,2019,95124.0,high_tech_exports
+Guyana,GUY,2020,1438979.0,high_tech_exports
+Guyana,GUY,2021,139915.0,high_tech_exports
+Guyana,GUY,2022,111140.0,high_tech_exports
+Guyana,GUY,2023,9073399.0,high_tech_exports
+Guyana,GUY,2024,13317390.0,high_tech_exports
+Heavily indebted poor countries (HIPC),HPC,2014,767247371.0,high_tech_exports
+Heavily indebted poor countries (HIPC),HPC,2015,641686008.0,high_tech_exports
+Heavily indebted poor countries (HIPC),HPC,2016,613908721.0,high_tech_exports
+Heavily indebted poor countries (HIPC),HPC,2017,605254624.0,high_tech_exports
+Heavily indebted poor countries (HIPC),HPC,2018,631810902.0,high_tech_exports
+Heavily indebted poor countries (HIPC),HPC,2019,539601989.0,high_tech_exports
+Heavily indebted poor countries (HIPC),HPC,2020,326658441.0,high_tech_exports
+Heavily indebted poor countries (HIPC),HPC,2021,358119144.0,high_tech_exports
+Heavily indebted poor countries (HIPC),HPC,2022,382289714.0,high_tech_exports
+Heavily indebted poor countries (HIPC),HPC,2023,488663760.0,high_tech_exports
+Honduras,HND,2007,9817623.0,high_tech_exports
+Honduras,HND,2009,15499136.0,high_tech_exports
+Honduras,HND,2010,19523512.0,high_tech_exports
+Honduras,HND,2011,12063500.0,high_tech_exports
+Honduras,HND,2012,39629388.0,high_tech_exports
+Honduras,HND,2014,44612409.0,high_tech_exports
+Honduras,HND,2015,18698692.0,high_tech_exports
+Honduras,HND,2016,37759500.0,high_tech_exports
+Honduras,HND,2017,45740962.0,high_tech_exports
+Honduras,HND,2018,29002648.0,high_tech_exports
+Honduras,HND,2019,12597313.0,high_tech_exports
+Honduras,HND,2020,58998495.0,high_tech_exports
+Honduras,HND,2021,21992491.0,high_tech_exports
+Honduras,HND,2023,86433420.0,high_tech_exports
+Honduras,HND,2024,105462699.0,high_tech_exports
+"Hong Kong SAR, China",HKG,2007,2650471846.0,high_tech_exports
+"Hong Kong SAR, China",HKG,2008,2354314529.0,high_tech_exports
+"Hong Kong SAR, China",HKG,2009,1999987979.0,high_tech_exports
+"Hong Kong SAR, China",HKG,2010,2527687279.0,high_tech_exports
+"Hong Kong SAR, China",HKG,2011,1223153426.0,high_tech_exports
+"Hong Kong SAR, China",HKG,2012,962304721.0,high_tech_exports
+"Hong Kong SAR, China",HKG,2013,680834176.0,high_tech_exports
+"Hong Kong SAR, China",HKG,2014,540927728.0,high_tech_exports
+"Hong Kong SAR, China",HKG,2015,453118850.0,high_tech_exports
+"Hong Kong SAR, China",HKG,2016,469857067.0,high_tech_exports
+"Hong Kong SAR, China",HKG,2017,293611819492.0,high_tech_exports
+"Hong Kong SAR, China",HKG,2018,330090997861.0,high_tech_exports
+"Hong Kong SAR, China",HKG,2019,322040157458.0,high_tech_exports
+"Hong Kong SAR, China",HKG,2020,340143502997.0,high_tech_exports
+"Hong Kong SAR, China",HKG,2021,431668056504.0,high_tech_exports
+"Hong Kong SAR, China",HKG,2022,404935377075.0,high_tech_exports
+"Hong Kong SAR, China",HKG,2023,369163546379.0,high_tech_exports
+"Hong Kong SAR, China",HKG,2024,422347931252.0,high_tech_exports
+Hungary,HUN,2007,20016939000.0,high_tech_exports
+Hungary,HUN,2008,21678437000.0,high_tech_exports
+Hungary,HUN,2009,18119145000.0,high_tech_exports
+Hungary,HUN,2010,20245844000.0,high_tech_exports
+Hungary,HUN,2011,22847617000.0,high_tech_exports
+Hungary,HUN,2012,17575545657.0,high_tech_exports
+Hungary,HUN,2013,17134185796.0,high_tech_exports
+Hungary,HUN,2014,15681730021.0,high_tech_exports
+Hungary,HUN,2015,14668188045.0,high_tech_exports
+Hungary,HUN,2016,15894221309.0,high_tech_exports
+Hungary,HUN,2017,17001565128.0,high_tech_exports
+Hungary,HUN,2018,18051188622.0,high_tech_exports
+Hungary,HUN,2019,18443341363.0,high_tech_exports
+Hungary,HUN,2020,18196444682.0,high_tech_exports
+Hungary,HUN,2021,19838941890.0,high_tech_exports
+Hungary,HUN,2022,22854435493.0,high_tech_exports
+Hungary,HUN,2023,24766593885.0,high_tech_exports
+Hungary,HUN,2024,28785162217.0,high_tech_exports
+IBRD only,IBD,2009,537458047298.0,high_tech_exports
+IBRD only,IBD,2010,697335921059.0,high_tech_exports
+IBRD only,IBD,2011,780754460381.0,high_tech_exports
+IBRD only,IBD,2012,852828121502.0,high_tech_exports
+IBRD only,IBD,2013,936435624555.0,high_tech_exports
+IBRD only,IBD,2014,951245981357.0,high_tech_exports
+IBRD only,IBD,2015,947517982900.0,high_tech_exports
+IBRD only,IBD,2016,898469608055.0,high_tech_exports
+IBRD only,IBD,2017,1037394981876.0,high_tech_exports
+IBRD only,IBD,2018,1154623415696.0,high_tech_exports
+IBRD only,IBD,2019,1146090775572.0,high_tech_exports
+IBRD only,IBD,2020,1192425792605.0,high_tech_exports
+IBRD only,IBD,2021,1439430666917.0,high_tech_exports
+IBRD only,IBD,2022,1511328317987.0,high_tech_exports
+IBRD only,IBD,2023,1402315016921.0,high_tech_exports
+IBRD only,IBD,2024,1343399751650.0,high_tech_exports
+IDA & IBRD total,IBT,2012,854192152283.0,high_tech_exports
+IDA & IBRD total,IBT,2013,937835982946.0,high_tech_exports
+IDA & IBRD total,IBT,2014,952696223321.0,high_tech_exports
+IDA & IBRD total,IBT,2015,949636433612.0,high_tech_exports
+IDA & IBRD total,IBT,2016,900520382953.0,high_tech_exports
+IDA & IBRD total,IBT,2017,1039689362493.0,high_tech_exports
+IDA & IBRD total,IBT,2018,1156971607366.0,high_tech_exports
+IDA & IBRD total,IBT,2019,1148041921941.0,high_tech_exports
+IDA & IBRD total,IBT,2020,1194352517799.0,high_tech_exports
+IDA & IBRD total,IBT,2021,1441567913110.0,high_tech_exports
+IDA & IBRD total,IBT,2022,1514228127559.0,high_tech_exports
+IDA & IBRD total,IBT,2023,1406631920066.0,high_tech_exports
+IDA blend,IDB,2010,542488097.0,high_tech_exports
+IDA blend,IDB,2012,546092012.0,high_tech_exports
+IDA blend,IDB,2013,735706594.0,high_tech_exports
+IDA blend,IDB,2014,750117387.0,high_tech_exports
+IDA blend,IDB,2015,1120800176.0,high_tech_exports
+IDA blend,IDB,2016,694704256.0,high_tech_exports
+IDA blend,IDB,2017,728455063.0,high_tech_exports
+IDA blend,IDB,2018,657579133.0,high_tech_exports
+IDA blend,IDB,2019,865163300.0,high_tech_exports
+IDA blend,IDB,2020,819655182.0,high_tech_exports
+IDA blend,IDB,2021,791122251.0,high_tech_exports
+IDA blend,IDB,2022,694030002.0,high_tech_exports
+IDA blend,IDB,2023,899201167.0,high_tech_exports
+IDA only,IDX,2015,997650536.0,high_tech_exports
+IDA only,IDX,2016,1356070642.0,high_tech_exports
+IDA only,IDX,2017,1565925554.0,high_tech_exports
+IDA only,IDX,2018,1690612537.0,high_tech_exports
+IDA only,IDX,2021,1346123942.0,high_tech_exports
+IDA total,IDA,2015,2118450712.0,high_tech_exports
+IDA total,IDA,2016,2050774898.0,high_tech_exports
+IDA total,IDA,2017,2294380617.0,high_tech_exports
+IDA total,IDA,2018,2348191670.0,high_tech_exports
+IDA total,IDA,2019,1951146369.0,high_tech_exports
+IDA total,IDA,2020,1926725194.0,high_tech_exports
+IDA total,IDA,2021,2137246193.0,high_tech_exports
+IDA total,IDA,2022,2899809572.0,high_tech_exports
+IDA total,IDA,2023,4316903145.0,high_tech_exports
+Iceland,ISL,2007,774999876.0,high_tech_exports
+Iceland,ISL,2008,417158644.0,high_tech_exports
+Iceland,ISL,2009,246422112.0,high_tech_exports
+Iceland,ISL,2010,142432246.0,high_tech_exports
+Iceland,ISL,2011,157705798.0,high_tech_exports
+Iceland,ISL,2012,111300713.0,high_tech_exports
+Iceland,ISL,2013,94981022.0,high_tech_exports
+Iceland,ISL,2014,119694464.0,high_tech_exports
+Iceland,ISL,2015,111537786.0,high_tech_exports
+Iceland,ISL,2016,136817642.0,high_tech_exports
+Iceland,ISL,2017,167559775.0,high_tech_exports
+Iceland,ISL,2018,143434873.0,high_tech_exports
+Iceland,ISL,2019,305002018.0,high_tech_exports
+Iceland,ISL,2020,144580750.0,high_tech_exports
+Iceland,ISL,2021,239162849.0,high_tech_exports
+Iceland,ISL,2022,322470151.0,high_tech_exports
+Iceland,ISL,2023,453683000.0,high_tech_exports
+Iceland,ISL,2024,689254852.0,high_tech_exports
 India,IND,2009,11219528624.0,high_tech_exports
 India,IND,2010,10668887032.0,high_tech_exports
 India,IND,2011,14508694707.0,high_tech_exports
@@ -15,3 +1396,1791 @@ India,IND,2021,27447578528.0,high_tech_exports
 India,IND,2022,35784973166.0,high_tech_exports
 India,IND,2023,40942449667.0,high_tech_exports
 India,IND,2024,54140883629.0,high_tech_exports
+Indonesia,IDN,2010,7193215376.0,high_tech_exports
+Indonesia,IDN,2011,7401356876.0,high_tech_exports
+Indonesia,IDN,2012,7360679507.0,high_tech_exports
+Indonesia,IDN,2013,6567489793.0,high_tech_exports
+Indonesia,IDN,2014,6619076393.0,high_tech_exports
+Indonesia,IDN,2015,5891714980.0,high_tech_exports
+Indonesia,IDN,2016,5415731582.0,high_tech_exports
+Indonesia,IDN,2017,5971620053.0,high_tech_exports
+Indonesia,IDN,2018,6382145126.0,high_tech_exports
+Indonesia,IDN,2019,6281290684.0,high_tech_exports
+Indonesia,IDN,2020,6408750621.0,high_tech_exports
+Indonesia,IDN,2021,7492179183.0,high_tech_exports
+Indonesia,IDN,2022,10339847555.0,high_tech_exports
+Indonesia,IDN,2023,10509333468.0,high_tech_exports
+Indonesia,IDN,2024,10407239550.0,high_tech_exports
+"Iran, Islamic Rep.",IRN,2011,659194102.0,high_tech_exports
+"Iran, Islamic Rep.",IRN,2013,270444995.0,high_tech_exports
+"Iran, Islamic Rep.",IRN,2014,299157502.0,high_tech_exports
+"Iran, Islamic Rep.",IRN,2015,248619292.0,high_tech_exports
+"Iran, Islamic Rep.",IRN,2016,249202513.0,high_tech_exports
+"Iran, Islamic Rep.",IRN,2017,278924954.0,high_tech_exports
+"Iran, Islamic Rep.",IRN,2018,153102175.0,high_tech_exports
+"Iran, Islamic Rep.",IRN,2019,157768737.0,high_tech_exports
+"Iran, Islamic Rep.",IRN,2020,119892696.0,high_tech_exports
+"Iran, Islamic Rep.",IRN,2021,96091680.0,high_tech_exports
+"Iran, Islamic Rep.",IRN,2022,206223949.0,high_tech_exports
+Ireland,IRL,2007,33510907501.0,high_tech_exports
+Ireland,IRL,2008,33374983553.0,high_tech_exports
+Ireland,IRL,2009,28517661808.0,high_tech_exports
+Ireland,IRL,2010,23325036070.0,high_tech_exports
+Ireland,IRL,2011,27791424343.0,high_tech_exports
+Ireland,IRL,2012,26188451630.0,high_tech_exports
+Ireland,IRL,2013,25028070785.0,high_tech_exports
+Ireland,IRL,2014,25849514946.0,high_tech_exports
+Ireland,IRL,2015,30612422468.0,high_tech_exports
+Ireland,IRL,2016,37992126178.0,high_tech_exports
+Ireland,IRL,2017,35187488969.0,high_tech_exports
+Ireland,IRL,2018,36589471149.0,high_tech_exports
+Ireland,IRL,2019,39354392694.0,high_tech_exports
+Ireland,IRL,2020,43116907694.0,high_tech_exports
+Ireland,IRL,2021,49840175468.0,high_tech_exports
+Ireland,IRL,2022,92158964502.0,high_tech_exports
+Ireland,IRL,2023,91363721988.0,high_tech_exports
+Ireland,IRL,2024,117636882485.0,high_tech_exports
+Israel,ISR,2007,3122027000.0,high_tech_exports
+Israel,ISR,2008,9659078000.0,high_tech_exports
+Israel,ISR,2009,10540404000.0,high_tech_exports
+Israel,ISR,2010,10584549000.0,high_tech_exports
+Israel,ISR,2011,11681101000.0,high_tech_exports
+Israel,ISR,2012,11566230000.0,high_tech_exports
+Israel,ISR,2013,11744655000.0,high_tech_exports
+Israel,ISR,2014,12408558000.0,high_tech_exports
+Israel,ISR,2015,14350467000.0,high_tech_exports
+Israel,ISR,2016,12192743000.0,high_tech_exports
+Israel,ISR,2017,12057518000.0,high_tech_exports
+Israel,ISR,2018,12968810000.0,high_tech_exports
+Israel,ISR,2019,12564139000.0,high_tech_exports
+Israel,ISR,2020,12960847000.0,high_tech_exports
+Israel,ISR,2021,16092016000.0,high_tech_exports
+Israel,ISR,2022,18960759000.0,high_tech_exports
+Israel,ISR,2023,19283415000.0,high_tech_exports
+Israel,ISR,2024,19428780000.0,high_tech_exports
+Italy,ITA,2007,27823962961.0,high_tech_exports
+Italy,ITA,2008,29484983562.0,high_tech_exports
+Italy,ITA,2009,25668989067.0,high_tech_exports
+Italy,ITA,2010,29268480484.0,high_tech_exports
+Italy,ITA,2011,33756014081.0,high_tech_exports
+Italy,ITA,2012,29554731669.0,high_tech_exports
+Italy,ITA,2013,31881513868.0,high_tech_exports
+Italy,ITA,2014,32867361936.0,high_tech_exports
+Italy,ITA,2015,30092633847.0,high_tech_exports
+Italy,ITA,2016,31090352971.0,high_tech_exports
+Italy,ITA,2017,31877714689.0,high_tech_exports
+Italy,ITA,2018,32468393639.0,high_tech_exports
+Italy,ITA,2019,32553693542.0,high_tech_exports
+Italy,ITA,2020,32899224952.0,high_tech_exports
+Italy,ITA,2021,36849787531.0,high_tech_exports
+Italy,ITA,2022,45177261781.0,high_tech_exports
+Italy,ITA,2023,52167641514.0,high_tech_exports
+Italy,ITA,2024,60156857365.0,high_tech_exports
+Jamaica,JAM,2008,6447306.0,high_tech_exports
+Jamaica,JAM,2009,4303754.0,high_tech_exports
+Jamaica,JAM,2010,2935421.0,high_tech_exports
+Jamaica,JAM,2011,4141872.0,high_tech_exports
+Jamaica,JAM,2012,4638188.0,high_tech_exports
+Jamaica,JAM,2013,4359115.0,high_tech_exports
+Jamaica,JAM,2014,3313970.0,high_tech_exports
+Jamaica,JAM,2015,552512.0,high_tech_exports
+Jamaica,JAM,2016,2140280.0,high_tech_exports
+Jamaica,JAM,2017,2485946.0,high_tech_exports
+Jamaica,JAM,2018,4123124.0,high_tech_exports
+Jamaica,JAM,2019,2128180.0,high_tech_exports
+Jamaica,JAM,2020,1133039.0,high_tech_exports
+Jamaica,JAM,2021,1034853.0,high_tech_exports
+Jamaica,JAM,2022,927489.0,high_tech_exports
+Jamaica,JAM,2023,1222621.0,high_tech_exports
+Japan,JPN,2007,128611660344.0,high_tech_exports
+Japan,JPN,2008,130519449472.0,high_tech_exports
+Japan,JPN,2009,103919965322.0,high_tech_exports
+Japan,JPN,2010,130091252319.0,high_tech_exports
+Japan,JPN,2011,133397946551.0,high_tech_exports
+Japan,JPN,2012,129463812214.0,high_tech_exports
+Japan,JPN,2013,111257955701.0,high_tech_exports
+Japan,JPN,2014,107543978073.0,high_tech_exports
+Japan,JPN,2015,98394425742.0,high_tech_exports
+Japan,JPN,2016,99260695081.0,high_tech_exports
+Japan,JPN,2017,106357714667.0,high_tech_exports
+Japan,JPN,2018,110919852153.0,high_tech_exports
+Japan,JPN,2019,104081423307.0,high_tech_exports
+Japan,JPN,2020,102929600738.0,high_tech_exports
+Japan,JPN,2021,116695460286.0,high_tech_exports
+Japan,JPN,2022,113492876284.0,high_tech_exports
+Japan,JPN,2023,102601446852.0,high_tech_exports
+Japan,JPN,2024,102451366263.0,high_tech_exports
+Jordan,JOR,2007,38758059.0,high_tech_exports
+Jordan,JOR,2008,42631515.0,high_tech_exports
+Jordan,JOR,2009,50931448.0,high_tech_exports
+Jordan,JOR,2010,122345003.0,high_tech_exports
+Jordan,JOR,2011,117330936.0,high_tech_exports
+Jordan,JOR,2012,107823091.0,high_tech_exports
+Jordan,JOR,2013,82010005.0,high_tech_exports
+Jordan,JOR,2014,93168509.0,high_tech_exports
+Jordan,JOR,2015,121229996.0,high_tech_exports
+Jordan,JOR,2016,149415961.0,high_tech_exports
+Jordan,JOR,2017,83323210.0,high_tech_exports
+Jordan,JOR,2018,74306906.0,high_tech_exports
+Jordan,JOR,2019,71400168.0,high_tech_exports
+Jordan,JOR,2020,78697323.0,high_tech_exports
+Jordan,JOR,2021,109412830.0,high_tech_exports
+Jordan,JOR,2022,129255367.0,high_tech_exports
+Jordan,JOR,2023,177694397.0,high_tech_exports
+Kazakhstan,KAZ,2009,1812401770.0,high_tech_exports
+Kazakhstan,KAZ,2010,2364781921.0,high_tech_exports
+Kazakhstan,KAZ,2011,2599147008.0,high_tech_exports
+Kazakhstan,KAZ,2012,3570823080.0,high_tech_exports
+Kazakhstan,KAZ,2013,3111007262.0,high_tech_exports
+Kazakhstan,KAZ,2014,3394068818.0,high_tech_exports
+Kazakhstan,KAZ,2015,2855226725.0,high_tech_exports
+Kazakhstan,KAZ,2016,2073669213.0,high_tech_exports
+Kazakhstan,KAZ,2017,1785382621.0,high_tech_exports
+Kazakhstan,KAZ,2018,1772255489.0,high_tech_exports
+Kazakhstan,KAZ,2019,2224579104.0,high_tech_exports
+Kazakhstan,KAZ,2020,2031756167.0,high_tech_exports
+Kazakhstan,KAZ,2021,2117626840.0,high_tech_exports
+Kazakhstan,KAZ,2022,3760939727.0,high_tech_exports
+Kazakhstan,KAZ,2023,5145671171.0,high_tech_exports
+Kazakhstan,KAZ,2024,7194367300.0,high_tech_exports
+Kenya,KEN,2008,80115543.0,high_tech_exports
+Kenya,KEN,2009,98510554.0,high_tech_exports
+Kenya,KEN,2010,117847746.0,high_tech_exports
+Kenya,KEN,2013,78080483.0,high_tech_exports
+Kenya,KEN,2015,81211504.0,high_tech_exports
+Kenya,KEN,2016,136067548.0,high_tech_exports
+Kenya,KEN,2017,48618065.0,high_tech_exports
+Kenya,KEN,2018,54893824.0,high_tech_exports
+Kenya,KEN,2019,82489558.0,high_tech_exports
+Kenya,KEN,2020,85930692.0,high_tech_exports
+Kenya,KEN,2021,57056299.0,high_tech_exports
+Kenya,KEN,2022,45746966.0,high_tech_exports
+Kenya,KEN,2023,60148845.0,high_tech_exports
+Kenya,KEN,2024,66981513.0,high_tech_exports
+Kiribati,KIR,2014,38745.0,high_tech_exports
+Kiribati,KIR,2015,23849.0,high_tech_exports
+Kiribati,KIR,2016,42924.0,high_tech_exports
+Kiribati,KIR,2017,59185.0,high_tech_exports
+Kiribati,KIR,2018,57241.0,high_tech_exports
+Kiribati,KIR,2020,83778.0,high_tech_exports
+Kiribati,KIR,2021,4264.0,high_tech_exports
+"Korea, Rep.",KOR,2007,107199622808.0,high_tech_exports
+"Korea, Rep.",KOR,2008,111219694589.0,high_tech_exports
+"Korea, Rep.",KOR,2009,103766364470.0,high_tech_exports
+"Korea, Rep.",KOR,2010,132322493748.0,high_tech_exports
+"Korea, Rep.",KOR,2011,133617297921.0,high_tech_exports
+"Korea, Rep.",KOR,2012,130675945808.0,high_tech_exports
+"Korea, Rep.",KOR,2013,143485221079.0,high_tech_exports
+"Korea, Rep.",KOR,2014,149062381047.0,high_tech_exports
+"Korea, Rep.",KOR,2015,147046540245.0,high_tech_exports
+"Korea, Rep.",KOR,2016,135906055229.0,high_tech_exports
+"Korea, Rep.",KOR,2017,166656272251.0,high_tech_exports
+"Korea, Rep.",KOR,2018,192788494176.0,high_tech_exports
+"Korea, Rep.",KOR,2019,153549664196.0,high_tech_exports
+"Korea, Rep.",KOR,2020,163074029188.0,high_tech_exports
+"Korea, Rep.",KOR,2021,203986068635.0,high_tech_exports
+"Korea, Rep.",KOR,2022,209651189631.0,high_tech_exports
+"Korea, Rep.",KOR,2023,164678173896.0,high_tech_exports
+"Korea, Rep.",KOR,2024,216203069107.0,high_tech_exports
+Kuwait,KWT,2010,127947715.0,high_tech_exports
+Kuwait,KWT,2011,131447310.0,high_tech_exports
+Kuwait,KWT,2013,97598779.0,high_tech_exports
+Kuwait,KWT,2014,5504359.0,high_tech_exports
+Kuwait,KWT,2015,4071885.0,high_tech_exports
+Kuwait,KWT,2016,3815330.0,high_tech_exports
+Kuwait,KWT,2017,5445869.0,high_tech_exports
+Kuwait,KWT,2018,231418445.0,high_tech_exports
+Kuwait,KWT,2019,26496306.0,high_tech_exports
+Kuwait,KWT,2020,30598853.0,high_tech_exports
+Kuwait,KWT,2021,33548389.0,high_tech_exports
+Kuwait,KWT,2022,23822001.0,high_tech_exports
+Kuwait,KWT,2023,54309247.0,high_tech_exports
+Kuwait,KWT,2024,359676657.0,high_tech_exports
+Kyrgyz Republic,KGZ,2008,11468188.0,high_tech_exports
+Kyrgyz Republic,KGZ,2009,10988696.0,high_tech_exports
+Kyrgyz Republic,KGZ,2010,2970808.0,high_tech_exports
+Kyrgyz Republic,KGZ,2011,11894487.0,high_tech_exports
+Kyrgyz Republic,KGZ,2012,16118188.0,high_tech_exports
+Kyrgyz Republic,KGZ,2013,17235761.0,high_tech_exports
+Kyrgyz Republic,KGZ,2014,6232732.0,high_tech_exports
+Kyrgyz Republic,KGZ,2015,43740659.0,high_tech_exports
+Kyrgyz Republic,KGZ,2016,66838962.0,high_tech_exports
+Kyrgyz Republic,KGZ,2017,88906754.0,high_tech_exports
+Kyrgyz Republic,KGZ,2018,40021412.0,high_tech_exports
+Kyrgyz Republic,KGZ,2019,29752221.0,high_tech_exports
+Kyrgyz Republic,KGZ,2020,27637566.0,high_tech_exports
+Kyrgyz Republic,KGZ,2021,87115119.0,high_tech_exports
+Kyrgyz Republic,KGZ,2022,135451210.0,high_tech_exports
+Kyrgyz Republic,KGZ,2023,174265303.0,high_tech_exports
+Kyrgyz Republic,KGZ,2024,133295328.0,high_tech_exports
+Lao PDR,LAO,2010,19433467.0,high_tech_exports
+Lao PDR,LAO,2011,21093610.0,high_tech_exports
+Lao PDR,LAO,2012,11789240.0,high_tech_exports
+Lao PDR,LAO,2013,45042419.0,high_tech_exports
+Lao PDR,LAO,2014,153548987.0,high_tech_exports
+Lao PDR,LAO,2015,298095207.0,high_tech_exports
+Lao PDR,LAO,2016,275176770.0,high_tech_exports
+Lao PDR,LAO,2017,389702557.0,high_tech_exports
+Lao PDR,LAO,2018,467981187.0,high_tech_exports
+Lao PDR,LAO,2019,229427362.0,high_tech_exports
+Lao PDR,LAO,2020,235751311.0,high_tech_exports
+Lao PDR,LAO,2021,109835608.0,high_tech_exports
+Lao PDR,LAO,2022,204444295.0,high_tech_exports
+Lao PDR,LAO,2023,146953997.0,high_tech_exports
+Late-demographic dividend,LTE,2009,512941156725.0,high_tech_exports
+Late-demographic dividend,LTE,2010,650149212789.0,high_tech_exports
+Late-demographic dividend,LTE,2011,730068429227.0,high_tech_exports
+Late-demographic dividend,LTE,2012,797234455397.0,high_tech_exports
+Late-demographic dividend,LTE,2013,876030113289.0,high_tech_exports
+Late-demographic dividend,LTE,2014,889891717898.0,high_tech_exports
+Late-demographic dividend,LTE,2015,895533457201.0,high_tech_exports
+Late-demographic dividend,LTE,2016,852560363220.0,high_tech_exports
+Late-demographic dividend,LTE,2017,946895878309.0,high_tech_exports
+Late-demographic dividend,LTE,2018,1055719595385.0,high_tech_exports
+Late-demographic dividend,LTE,2019,1043446860142.0,high_tech_exports
+Late-demographic dividend,LTE,2020,1102118790090.0,high_tech_exports
+Late-demographic dividend,LTE,2021,1340779219709.0,high_tech_exports
+Late-demographic dividend,LTE,2022,1422941473306.0,high_tech_exports
+Late-demographic dividend,LTE,2023,1320301809707.0,high_tech_exports
+Late-demographic dividend,LTE,2024,1262300272785.0,high_tech_exports
+Latin America & Caribbean,LCN,2010,64274151183.0,high_tech_exports
+Latin America & Caribbean,LCN,2011,68045866037.0,high_tech_exports
+Latin America & Caribbean,LCN,2012,73967703535.0,high_tech_exports
+Latin America & Caribbean,LCN,2013,75340795949.0,high_tech_exports
+Latin America & Caribbean,LCN,2014,77110035978.0,high_tech_exports
+Latin America & Caribbean,LCN,2015,74872878683.0,high_tech_exports
+Latin America & Caribbean,LCN,2016,78222524651.0,high_tech_exports
+Latin America & Caribbean,LCN,2017,85914874207.0,high_tech_exports
+Latin America & Caribbean,LCN,2018,90492813110.0,high_tech_exports
+Latin America & Caribbean,LCN,2019,89189411087.0,high_tech_exports
+Latin America & Caribbean,LCN,2020,82164456346.0,high_tech_exports
+Latin America & Caribbean,LCN,2021,87375618831.0,high_tech_exports
+Latin America & Caribbean,LCN,2022,106017445262.0,high_tech_exports
+Latin America & Caribbean,LCN,2023,100315363934.0,high_tech_exports
+Latin America & Caribbean (excluding high income),LAC,2009,50254300981.0,high_tech_exports
+Latin America & Caribbean (excluding high income),LAC,2010,61408127546.0,high_tech_exports
+Latin America & Caribbean (excluding high income),LAC,2011,64823931525.0,high_tech_exports
+Latin America & Caribbean (excluding high income),LAC,2012,70409186878.0,high_tech_exports
+Latin America & Caribbean (excluding high income),LAC,2013,71353319451.0,high_tech_exports
+Latin America & Caribbean (excluding high income),LAC,2014,73764412232.0,high_tech_exports
+Latin America & Caribbean (excluding high income),LAC,2015,73137026503.0,high_tech_exports
+Latin America & Caribbean (excluding high income),LAC,2016,76377117529.0,high_tech_exports
+Latin America & Caribbean (excluding high income),LAC,2017,84004877474.0,high_tech_exports
+Latin America & Caribbean (excluding high income),LAC,2018,88541235346.0,high_tech_exports
+Latin America & Caribbean (excluding high income),LAC,2019,87200198243.0,high_tech_exports
+Latin America & Caribbean (excluding high income),LAC,2020,79593947706.0,high_tech_exports
+Latin America & Caribbean (excluding high income),LAC,2021,84487167389.0,high_tech_exports
+Latin America & Caribbean (excluding high income),LAC,2022,102329047719.0,high_tech_exports
+Latin America & Caribbean (excluding high income),LAC,2023,95430664874.0,high_tech_exports
+Latin America & Caribbean (excluding high income),LAC,2024,106585436774.0,high_tech_exports
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2009,52611153940.0,high_tech_exports
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2010,64273444341.0,high_tech_exports
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2011,68044454769.0,high_tech_exports
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2012,73963838377.0,high_tech_exports
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2013,75339093922.0,high_tech_exports
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2014,77107799546.0,high_tech_exports
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2015,74871612805.0,high_tech_exports
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2016,77957611793.0,high_tech_exports
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2017,85850478335.0,high_tech_exports
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2018,90468099138.0,high_tech_exports
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2019,89116193680.0,high_tech_exports
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2020,82128674867.0,high_tech_exports
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2021,87143528933.0,high_tech_exports
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2022,105994574674.0,high_tech_exports
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2023,100306717607.0,high_tech_exports
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2024,110843677091.0,high_tech_exports
+Latvia,LVA,2007,356103096.0,high_tech_exports
+Latvia,LVA,2008,430112106.0,high_tech_exports
+Latvia,LVA,2009,374743451.0,high_tech_exports
+Latvia,LVA,2010,430956978.0,high_tech_exports
+Latvia,LVA,2011,633818057.0,high_tech_exports
+Latvia,LVA,2012,777101185.0,high_tech_exports
+Latvia,LVA,2013,1082132640.0,high_tech_exports
+Latvia,LVA,2014,1329551397.0,high_tech_exports
+Latvia,LVA,2015,1292013881.0,high_tech_exports
+Latvia,LVA,2016,1203692917.0,high_tech_exports
+Latvia,LVA,2017,1250435453.0,high_tech_exports
+Latvia,LVA,2018,1447436123.0,high_tech_exports
+Latvia,LVA,2019,1472712989.0,high_tech_exports
+Latvia,LVA,2020,1837563022.0,high_tech_exports
+Latvia,LVA,2021,1946947495.0,high_tech_exports
+Latvia,LVA,2022,2056985276.0,high_tech_exports
+Latvia,LVA,2023,2140234227.0,high_tech_exports
+Latvia,LVA,2024,1903396258.0,high_tech_exports
+Least developed countries: UN classification,LDC,2015,872203483.0,high_tech_exports
+Least developed countries: UN classification,LDC,2016,1199945608.0,high_tech_exports
+Least developed countries: UN classification,LDC,2017,1361812577.0,high_tech_exports
+Least developed countries: UN classification,LDC,2018,1609629958.0,high_tech_exports
+Least developed countries: UN classification,LDC,2020,967775582.0,high_tech_exports
+Least developed countries: UN classification,LDC,2021,1146309166.0,high_tech_exports
+Least developed countries: UN classification,LDC,2022,1983977219.0,high_tech_exports
+Lebanon,LBN,2007,51312506.0,high_tech_exports
+Lebanon,LBN,2008,77065641.0,high_tech_exports
+Lebanon,LBN,2009,161873523.0,high_tech_exports
+Lebanon,LBN,2010,605196865.0,high_tech_exports
+Lebanon,LBN,2011,61167596.0,high_tech_exports
+Lebanon,LBN,2012,44885450.0,high_tech_exports
+Lebanon,LBN,2013,49912501.0,high_tech_exports
+Lebanon,LBN,2014,46483050.0,high_tech_exports
+Lebanon,LBN,2015,37657222.0,high_tech_exports
+Lebanon,LBN,2016,38914218.0,high_tech_exports
+Lebanon,LBN,2017,46015206.0,high_tech_exports
+Lebanon,LBN,2018,39532007.0,high_tech_exports
+Lebanon,LBN,2019,65240726.0,high_tech_exports
+Lebanon,LBN,2020,76215638.0,high_tech_exports
+Lebanon,LBN,2021,43838265.0,high_tech_exports
+Lebanon,LBN,2022,323842671.0,high_tech_exports
+Lebanon,LBN,2023,98096541.0,high_tech_exports
+Lebanon,LBN,2024,60851334.0,high_tech_exports
+Lesotho,LSO,2015,817863.0,high_tech_exports
+Lesotho,LSO,2016,3060332.0,high_tech_exports
+Lesotho,LSO,2017,1008052.0,high_tech_exports
+Lesotho,LSO,2018,434789.0,high_tech_exports
+Lesotho,LSO,2019,1323583.0,high_tech_exports
+Lesotho,LSO,2020,237290.0,high_tech_exports
+Lesotho,LSO,2021,535475.0,high_tech_exports
+Lesotho,LSO,2022,666218.0,high_tech_exports
+Lesotho,LSO,2023,480654.0,high_tech_exports
+Lesotho,LSO,2024,622801.0,high_tech_exports
+Liberia,LBR,2017,35034938.0,high_tech_exports
+Liberia,LBR,2018,9816795.0,high_tech_exports
+Liberia,LBR,2019,1141739.0,high_tech_exports
+Liberia,LBR,2020,3035.0,high_tech_exports
+Liberia,LBR,2021,961787.0,high_tech_exports
+Liberia,LBR,2022,859787.0,high_tech_exports
+Liberia,LBR,2023,97955.0,high_tech_exports
+Libya,LBY,2019,1125922.0,high_tech_exports
+Lithuania,LTU,2007,1277430699.0,high_tech_exports
+Lithuania,LTU,2008,1548661446.0,high_tech_exports
+Lithuania,LTU,2009,961430531.0,high_tech_exports
+Lithuania,LTU,2010,1263210387.0,high_tech_exports
+Lithuania,LTU,2011,1582168096.0,high_tech_exports
+Lithuania,LTU,2012,1712696458.0,high_tech_exports
+Lithuania,LTU,2013,1907236937.0,high_tech_exports
+Lithuania,LTU,2014,2092945195.0,high_tech_exports
+Lithuania,LTU,2015,1919844678.0,high_tech_exports
+Lithuania,LTU,2016,1962936712.0,high_tech_exports
+Lithuania,LTU,2017,2317776578.0,high_tech_exports
+Lithuania,LTU,2018,2516321201.0,high_tech_exports
+Lithuania,LTU,2019,2527082809.0,high_tech_exports
+Lithuania,LTU,2020,2619281589.0,high_tech_exports
+Lithuania,LTU,2021,3107242456.0,high_tech_exports
+Lithuania,LTU,2022,3618309366.0,high_tech_exports
+Lithuania,LTU,2023,3740035230.0,high_tech_exports
+Lithuania,LTU,2024,4181003497.0,high_tech_exports
+Low & middle income,LMY,2012,826585791443.0,high_tech_exports
+Low & middle income,LMY,2013,905101338968.0,high_tech_exports
+Low & middle income,LMY,2014,915593268182.0,high_tech_exports
+Low & middle income,LMY,2015,913367789275.0,high_tech_exports
+Low & middle income,LMY,2016,862844726288.0,high_tech_exports
+Low & middle income,LMY,2017,1000412440636.0,high_tech_exports
+Low & middle income,LMY,2018,1113502907968.0,high_tech_exports
+Low & middle income,LMY,2019,1105425350964.0,high_tech_exports
+Low & middle income,LMY,2020,1155022721782.0,high_tech_exports
+Low & middle income,LMY,2021,1392477156938.0,high_tech_exports
+Low & middle income,LMY,2022,1464429364213.0,high_tech_exports
+Low & middle income,LMY,2023,1350866970042.0,high_tech_exports
+Luxembourg,LUX,2007,1411416358.0,high_tech_exports
+Luxembourg,LUX,2008,1146735631.0,high_tech_exports
+Luxembourg,LUX,2009,1044211102.0,high_tech_exports
+Luxembourg,LUX,2010,963101610.0,high_tech_exports
+Luxembourg,LUX,2011,1136384437.0,high_tech_exports
+Luxembourg,LUX,2012,925505869.0,high_tech_exports
+Luxembourg,LUX,2013,743286957.0,high_tech_exports
+Luxembourg,LUX,2014,679505046.0,high_tech_exports
+Luxembourg,LUX,2015,702205301.0,high_tech_exports
+Luxembourg,LUX,2016,811598442.0,high_tech_exports
+Luxembourg,LUX,2017,623101763.0,high_tech_exports
+Luxembourg,LUX,2018,858272049.0,high_tech_exports
+Luxembourg,LUX,2019,790998624.0,high_tech_exports
+Luxembourg,LUX,2020,618381650.0,high_tech_exports
+Luxembourg,LUX,2021,806654895.0,high_tech_exports
+Luxembourg,LUX,2022,820151287.0,high_tech_exports
+Luxembourg,LUX,2023,792916097.0,high_tech_exports
+Luxembourg,LUX,2024,635122294.0,high_tech_exports
+"Macao SAR, China",MAC,2007,0.0,high_tech_exports
+"Macao SAR, China",MAC,2008,0.0,high_tech_exports
+"Macao SAR, China",MAC,2009,0.0,high_tech_exports
+"Macao SAR, China",MAC,2010,0.0,high_tech_exports
+"Macao SAR, China",MAC,2011,0.0,high_tech_exports
+"Macao SAR, China",MAC,2012,0.0,high_tech_exports
+"Macao SAR, China",MAC,2013,0.0,high_tech_exports
+"Macao SAR, China",MAC,2014,38294.0,high_tech_exports
+"Macao SAR, China",MAC,2015,0.0,high_tech_exports
+"Macao SAR, China",MAC,2016,0.0,high_tech_exports
+"Macao SAR, China",MAC,2017,4766535.0,high_tech_exports
+"Macao SAR, China",MAC,2018,0.0,high_tech_exports
+"Macao SAR, China",MAC,2019,0.0,high_tech_exports
+"Macao SAR, China",MAC,2020,0.0,high_tech_exports
+"Macao SAR, China",MAC,2021,0.0,high_tech_exports
+"Macao SAR, China",MAC,2022,0.0,high_tech_exports
+"Macao SAR, China",MAC,2023,0.0,high_tech_exports
+"Macao SAR, China",MAC,2024,0.0,high_tech_exports
+Madagascar,MDG,2007,9295683.0,high_tech_exports
+Madagascar,MDG,2008,80367513.0,high_tech_exports
+Madagascar,MDG,2009,11497504.0,high_tech_exports
+Madagascar,MDG,2010,18882374.0,high_tech_exports
+Madagascar,MDG,2011,65670723.0,high_tech_exports
+Madagascar,MDG,2012,6916909.0,high_tech_exports
+Madagascar,MDG,2013,46778145.0,high_tech_exports
+Madagascar,MDG,2014,11096042.0,high_tech_exports
+Madagascar,MDG,2015,12823723.0,high_tech_exports
+Madagascar,MDG,2016,10870921.0,high_tech_exports
+Madagascar,MDG,2017,9810822.0,high_tech_exports
+Madagascar,MDG,2018,8235322.0,high_tech_exports
+Madagascar,MDG,2019,7250779.0,high_tech_exports
+Madagascar,MDG,2020,3274143.0,high_tech_exports
+Madagascar,MDG,2021,3063735.0,high_tech_exports
+Madagascar,MDG,2022,3306828.0,high_tech_exports
+Madagascar,MDG,2023,3982231.0,high_tech_exports
+Madagascar,MDG,2024,7912647.0,high_tech_exports
+Malawi,MWI,2008,2124316.0,high_tech_exports
+Malawi,MWI,2009,3765879.0,high_tech_exports
+Malawi,MWI,2010,1802093.0,high_tech_exports
+Malawi,MWI,2011,22804360.0,high_tech_exports
+Malawi,MWI,2012,1663907.0,high_tech_exports
+Malawi,MWI,2013,10906009.0,high_tech_exports
+Malawi,MWI,2014,9986124.0,high_tech_exports
+Malawi,MWI,2015,1895328.0,high_tech_exports
+Malawi,MWI,2016,2983847.0,high_tech_exports
+Malawi,MWI,2017,1072475.0,high_tech_exports
+Malawi,MWI,2018,1170462.0,high_tech_exports
+Malawi,MWI,2019,4011025.0,high_tech_exports
+Malawi,MWI,2020,1317730.0,high_tech_exports
+Malawi,MWI,2021,4625003.0,high_tech_exports
+Malawi,MWI,2022,2422189.0,high_tech_exports
+Malawi,MWI,2023,4133308.0,high_tech_exports
+Malawi,MWI,2024,1242498.0,high_tech_exports
+Malaysia,MYS,2009,56043588431.0,high_tech_exports
+Malaysia,MYS,2010,66075248917.0,high_tech_exports
+Malaysia,MYS,2011,66767865284.0,high_tech_exports
+Malaysia,MYS,2012,66601865553.0,high_tech_exports
+Malaysia,MYS,2013,67098769337.0,high_tech_exports
+Malaysia,MYS,2014,70953123101.0,high_tech_exports
+Malaysia,MYS,2015,64470973254.0,high_tech_exports
+Malaysia,MYS,2016,63205038631.0,high_tech_exports
+Malaysia,MYS,2017,74126053407.0,high_tech_exports
+Malaysia,MYS,2018,90503212029.0,high_tech_exports
+Malaysia,MYS,2019,86902999434.0,high_tech_exports
+Malaysia,MYS,2020,92101649422.0,high_tech_exports
+Malaysia,MYS,2021,108684889920.0,high_tech_exports
+Malaysia,MYS,2022,136826796904.0,high_tech_exports
+Malaysia,MYS,2023,127032168259.0,high_tech_exports
+Malaysia,MYS,2024,134785868653.0,high_tech_exports
+Maldives,MDV,2016,120.0,high_tech_exports
+Maldives,MDV,2017,708.0,high_tech_exports
+Maldives,MDV,2020,2793.0,high_tech_exports
+Maldives,MDV,2021,10421.0,high_tech_exports
+Maldives,MDV,2022,37875.0,high_tech_exports
+Maldives,MDV,2023,646.0,high_tech_exports
+Maldives,MDV,2024,26.0,high_tech_exports
+Mali,MLI,2008,3373034.0,high_tech_exports
+Mali,MLI,2010,3204182.0,high_tech_exports
+Mali,MLI,2011,7320665.0,high_tech_exports
+Mali,MLI,2012,3974159.0,high_tech_exports
+Mali,MLI,2016,10105788.0,high_tech_exports
+Mali,MLI,2017,3017420.0,high_tech_exports
+Mali,MLI,2018,10404137.0,high_tech_exports
+Mali,MLI,2019,11053681.0,high_tech_exports
+Mali,MLI,2020,4210604.0,high_tech_exports
+Mali,MLI,2021,27328165.0,high_tech_exports
+Mali,MLI,2022,20530609.0,high_tech_exports
+Mali,MLI,2023,13859632.0,high_tech_exports
+Malta,MLT,2007,1491152030.0,high_tech_exports
+Malta,MLT,2008,1346412378.0,high_tech_exports
+Malta,MLT,2009,1006410358.0,high_tech_exports
+Malta,MLT,2010,1185075425.0,high_tech_exports
+Malta,MLT,2011,1315205837.0,high_tech_exports
+Malta,MLT,2012,1272189923.0,high_tech_exports
+Malta,MLT,2013,1016402096.0,high_tech_exports
+Malta,MLT,2014,856958447.0,high_tech_exports
+Malta,MLT,2015,634073649.0,high_tech_exports
+Malta,MLT,2016,582916892.0,high_tech_exports
+Malta,MLT,2017,650667575.0,high_tech_exports
+Malta,MLT,2018,760310070.0,high_tech_exports
+Malta,MLT,2019,754560031.0,high_tech_exports
+Malta,MLT,2020,844223212.0,high_tech_exports
+Malta,MLT,2021,763239296.0,high_tech_exports
+Malta,MLT,2022,1015509185.0,high_tech_exports
+Malta,MLT,2023,1234225995.0,high_tech_exports
+Malta,MLT,2024,1305435544.0,high_tech_exports
+Mauritania,MRT,2016,44.0,high_tech_exports
+Mauritania,MRT,2019,3399.0,high_tech_exports
+Mauritania,MRT,2020,1190218.0,high_tech_exports
+Mauritania,MRT,2021,1380718.0,high_tech_exports
+Mauritania,MRT,2022,1093142.0,high_tech_exports
+Mauritania,MRT,2023,3637891.0,high_tech_exports
+Mauritania,MRT,2024,1999163.0,high_tech_exports
+Mauritius,MUS,2008,102798711.0,high_tech_exports
+Mauritius,MUS,2009,22748807.0,high_tech_exports
+Mauritius,MUS,2010,6212760.0,high_tech_exports
+Mauritius,MUS,2011,9788104.0,high_tech_exports
+Mauritius,MUS,2012,10637134.0,high_tech_exports
+Mauritius,MUS,2013,6397088.0,high_tech_exports
+Mauritius,MUS,2014,354999.0,high_tech_exports
+Mauritius,MUS,2015,1289226.0,high_tech_exports
+Mauritius,MUS,2016,1053133.0,high_tech_exports
+Mauritius,MUS,2017,28412077.0,high_tech_exports
+Mauritius,MUS,2018,31292625.0,high_tech_exports
+Mauritius,MUS,2019,24299494.0,high_tech_exports
+Mauritius,MUS,2020,20091030.0,high_tech_exports
+Mauritius,MUS,2021,2679317.0,high_tech_exports
+Mauritius,MUS,2022,16986363.0,high_tech_exports
+Mauritius,MUS,2023,6408555.0,high_tech_exports
+Mauritius,MUS,2024,7205275.0,high_tech_exports
+Mexico,MEX,2008,43764789930.0,high_tech_exports
+Mexico,MEX,2009,38927526530.0,high_tech_exports
+Mexico,MEX,2010,49221673862.0,high_tech_exports
+Mexico,MEX,2011,52264964480.0,high_tech_exports
+Mexico,MEX,2012,57555129440.0,high_tech_exports
+Mexico,MEX,2013,58518033081.0,high_tech_exports
+Mexico,MEX,2014,61566553721.0,high_tech_exports
+Mexico,MEX,2015,60222704580.0,high_tech_exports
+Mexico,MEX,2016,62489596572.0,high_tech_exports
+Mexico,MEX,2017,69637771602.0,high_tech_exports
+Mexico,MEX,2018,74827258646.0,high_tech_exports
+Mexico,MEX,2019,75166404372.0,high_tech_exports
+Mexico,MEX,2020,71010208559.0,high_tech_exports
+Mexico,MEX,2021,74981570074.0,high_tech_exports
+Mexico,MEX,2022,91195069526.0,high_tech_exports
+Mexico,MEX,2023,84000931839.0,high_tech_exports
+Mexico,MEX,2024,94523732432.0,high_tech_exports
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2013,15416129874.0,high_tech_exports
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2014,17019364849.0,high_tech_exports
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2015,18607178224.0,high_tech_exports
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2016,16044459909.0,high_tech_exports
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2017,15960258310.0,high_tech_exports
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2018,17535315992.0,high_tech_exports
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2019,17416583966.0,high_tech_exports
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2020,19273743707.0,high_tech_exports
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2021,24153110885.0,high_tech_exports
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2022,28737412430.0,high_tech_exports
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2023,29102131837.0,high_tech_exports
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2009,1337842576.0,high_tech_exports
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2015,2178102364.0,high_tech_exports
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2019,2880407833.0,high_tech_exports
+Middle income,MIC,2010,673831640332.0,high_tech_exports
+Middle income,MIC,2011,755467906553.0,high_tech_exports
+Middle income,MIC,2012,826272772797.0,high_tech_exports
+Middle income,MIC,2013,904876830790.0,high_tech_exports
+Middle income,MIC,2014,915419514827.0,high_tech_exports
+Middle income,MIC,2015,913210431895.0,high_tech_exports
+Middle income,MIC,2016,862768968690.0,high_tech_exports
+Middle income,MIC,2017,1000247618461.0,high_tech_exports
+Middle income,MIC,2018,1113372725857.0,high_tech_exports
+Middle income,MIC,2019,1105217081645.0,high_tech_exports
+Middle income,MIC,2020,1154963295216.0,high_tech_exports
+Middle income,MIC,2021,1392382564112.0,high_tech_exports
+Middle income,MIC,2022,1464309957178.0,high_tech_exports
+Middle income,MIC,2023,1350787664193.0,high_tech_exports
+Moldova,MDA,2009,10339752.0,high_tech_exports
+Moldova,MDA,2010,20486361.0,high_tech_exports
+Moldova,MDA,2011,19854270.0,high_tech_exports
+Moldova,MDA,2012,26511802.0,high_tech_exports
+Moldova,MDA,2013,16758559.0,high_tech_exports
+Moldova,MDA,2014,26537316.0,high_tech_exports
+Moldova,MDA,2015,20726514.0,high_tech_exports
+Moldova,MDA,2016,15491763.0,high_tech_exports
+Moldova,MDA,2017,30060831.0,high_tech_exports
+Moldova,MDA,2018,18848598.0,high_tech_exports
+Moldova,MDA,2019,24947389.0,high_tech_exports
+Moldova,MDA,2020,18904904.0,high_tech_exports
+Moldova,MDA,2021,21773455.0,high_tech_exports
+Moldova,MDA,2022,22595261.0,high_tech_exports
+Moldova,MDA,2023,28885013.0,high_tech_exports
+Moldova,MDA,2024,30665848.0,high_tech_exports
+Mongolia,MNG,2007,7109238.0,high_tech_exports
+Mongolia,MNG,2013,22669722.0,high_tech_exports
+Mongolia,MNG,2014,33796542.0,high_tech_exports
+Mongolia,MNG,2015,3152908.0,high_tech_exports
+Mongolia,MNG,2016,35523918.0,high_tech_exports
+Mongolia,MNG,2017,3779196.0,high_tech_exports
+Mongolia,MNG,2018,6763247.0,high_tech_exports
+Mongolia,MNG,2019,39589731.0,high_tech_exports
+Mongolia,MNG,2020,3052935.0,high_tech_exports
+Mongolia,MNG,2021,25335204.0,high_tech_exports
+Mongolia,MNG,2022,51137809.0,high_tech_exports
+Mongolia,MNG,2023,58656463.0,high_tech_exports
+Montenegro,MNE,2008,6277349.0,high_tech_exports
+Montenegro,MNE,2009,16652966.0,high_tech_exports
+Montenegro,MNE,2010,8629674.0,high_tech_exports
+Montenegro,MNE,2011,8063951.0,high_tech_exports
+Montenegro,MNE,2012,9889196.0,high_tech_exports
+Montenegro,MNE,2013,6909504.0,high_tech_exports
+Montenegro,MNE,2014,11118362.0,high_tech_exports
+Montenegro,MNE,2015,11848593.0,high_tech_exports
+Montenegro,MNE,2016,5165280.0,high_tech_exports
+Montenegro,MNE,2017,5133170.0,high_tech_exports
+Montenegro,MNE,2018,4246457.0,high_tech_exports
+Montenegro,MNE,2019,9697705.0,high_tech_exports
+Montenegro,MNE,2020,9960411.0,high_tech_exports
+Montenegro,MNE,2021,13067233.0,high_tech_exports
+Montenegro,MNE,2022,14413066.0,high_tech_exports
+Montenegro,MNE,2023,15199424.0,high_tech_exports
+Montenegro,MNE,2024,33518821.0,high_tech_exports
+Morocco,MAR,2015,564402063.0,high_tech_exports
+Morocco,MAR,2016,602597980.0,high_tech_exports
+Morocco,MAR,2017,691266526.0,high_tech_exports
+Morocco,MAR,2018,836699067.0,high_tech_exports
+Morocco,MAR,2019,1017946687.0,high_tech_exports
+Morocco,MAR,2020,850002482.0,high_tech_exports
+Morocco,MAR,2021,1132107354.0,high_tech_exports
+Morocco,MAR,2022,1392530221.0,high_tech_exports
+Morocco,MAR,2023,1723700823.0,high_tech_exports
+Mozambique,MOZ,2012,104748498.0,high_tech_exports
+Mozambique,MOZ,2013,82425059.0,high_tech_exports
+Mozambique,MOZ,2014,44098229.0,high_tech_exports
+Mozambique,MOZ,2015,31400311.0,high_tech_exports
+Mozambique,MOZ,2016,12215239.0,high_tech_exports
+Mozambique,MOZ,2017,32332952.0,high_tech_exports
+Mozambique,MOZ,2018,27233066.0,high_tech_exports
+Mozambique,MOZ,2019,4329718.0,high_tech_exports
+Mozambique,MOZ,2020,2250366.0,high_tech_exports
+Mozambique,MOZ,2021,8017648.0,high_tech_exports
+Mozambique,MOZ,2022,18227789.0,high_tech_exports
+Mozambique,MOZ,2023,16632000.0,high_tech_exports
+Mozambique,MOZ,2024,13740731.0,high_tech_exports
+Myanmar,MMR,2010,58189.0,high_tech_exports
+Myanmar,MMR,2011,3743377.0,high_tech_exports
+Myanmar,MMR,2012,15467021.0,high_tech_exports
+Myanmar,MMR,2013,6071366.0,high_tech_exports
+Myanmar,MMR,2014,15846765.0,high_tech_exports
+Myanmar,MMR,2015,9486539.0,high_tech_exports
+Myanmar,MMR,2016,252834722.0,high_tech_exports
+Myanmar,MMR,2017,285995158.0,high_tech_exports
+Myanmar,MMR,2018,325332206.0,high_tech_exports
+Myanmar,MMR,2019,219420966.0,high_tech_exports
+Myanmar,MMR,2020,225716430.0,high_tech_exports
+Myanmar,MMR,2021,305581286.0,high_tech_exports
+Myanmar,MMR,2022,200938589.0,high_tech_exports
+Myanmar,MMR,2023,190414450.0,high_tech_exports
+Myanmar,MMR,2024,276680774.0,high_tech_exports
+Namibia,NAM,2007,86882853.0,high_tech_exports
+Namibia,NAM,2008,24463166.0,high_tech_exports
+Namibia,NAM,2009,44986748.0,high_tech_exports
+Namibia,NAM,2010,50571766.0,high_tech_exports
+Namibia,NAM,2011,48214196.0,high_tech_exports
+Namibia,NAM,2012,108461161.0,high_tech_exports
+Namibia,NAM,2013,72391902.0,high_tech_exports
+Namibia,NAM,2014,114166739.0,high_tech_exports
+Namibia,NAM,2015,6257803.0,high_tech_exports
+Namibia,NAM,2016,24272101.0,high_tech_exports
+Namibia,NAM,2017,2162374.0,high_tech_exports
+Namibia,NAM,2018,2888325.0,high_tech_exports
+Namibia,NAM,2019,169247.0,high_tech_exports
+Namibia,NAM,2020,181587.0,high_tech_exports
+Namibia,NAM,2021,639994.0,high_tech_exports
+Namibia,NAM,2022,764250.0,high_tech_exports
+Namibia,NAM,2023,837552.0,high_tech_exports
+Namibia,NAM,2024,941515.0,high_tech_exports
+Nepal,NPL,2009,2526185.0,high_tech_exports
+Nepal,NPL,2010,4313163.0,high_tech_exports
+Nepal,NPL,2011,2783697.0,high_tech_exports
+Nepal,NPL,2012,816353.0,high_tech_exports
+Nepal,NPL,2013,1912532.0,high_tech_exports
+Nepal,NPL,2014,4401482.0,high_tech_exports
+Nepal,NPL,2015,2850013.0,high_tech_exports
+Nepal,NPL,2016,4241552.0,high_tech_exports
+Nepal,NPL,2017,5993524.0,high_tech_exports
+Nepal,NPL,2018,3263597.0,high_tech_exports
+Nepal,NPL,2019,5285142.0,high_tech_exports
+Nepal,NPL,2020,9513473.0,high_tech_exports
+Nepal,NPL,2021,6433383.0,high_tech_exports
+Nepal,NPL,2022,3815787.0,high_tech_exports
+Netherlands,NLD,2007,83812029231.0,high_tech_exports
+Netherlands,NLD,2008,78409728585.0,high_tech_exports
+Netherlands,NLD,2009,67945347790.0,high_tech_exports
+Netherlands,NLD,2010,77595336626.0,high_tech_exports
+Netherlands,NLD,2011,86024475895.0,high_tech_exports
+Netherlands,NLD,2012,81513741828.0,high_tech_exports
+Netherlands,NLD,2013,80936819220.0,high_tech_exports
+Netherlands,NLD,2014,84488370148.0,high_tech_exports
+Netherlands,NLD,2015,69778885270.0,high_tech_exports
+Netherlands,NLD,2016,71059988656.0,high_tech_exports
+Netherlands,NLD,2017,77793879014.0,high_tech_exports
+Netherlands,NLD,2018,85620091095.0,high_tech_exports
+Netherlands,NLD,2019,87057975323.0,high_tech_exports
+Netherlands,NLD,2020,87232912188.0,high_tech_exports
+Netherlands,NLD,2021,101413257497.0,high_tech_exports
+Netherlands,NLD,2022,98441621634.0,high_tech_exports
+Netherlands,NLD,2023,107768604133.0,high_tech_exports
+Netherlands,NLD,2024,103035133130.0,high_tech_exports
+New Caledonia,NCL,2008,5592597.0,high_tech_exports
+New Caledonia,NCL,2009,141282997.0,high_tech_exports
+New Caledonia,NCL,2010,6491337.0,high_tech_exports
+New Caledonia,NCL,2011,160695822.0,high_tech_exports
+New Caledonia,NCL,2012,85540786.0,high_tech_exports
+New Caledonia,NCL,2013,99288066.0,high_tech_exports
+New Caledonia,NCL,2014,137707109.0,high_tech_exports
+New Caledonia,NCL,2015,38232165.0,high_tech_exports
+New Zealand,NZL,2007,666691693.0,high_tech_exports
+New Zealand,NZL,2008,638301208.0,high_tech_exports
+New Zealand,NZL,2009,521238449.0,high_tech_exports
+New Zealand,NZL,2010,616514283.0,high_tech_exports
+New Zealand,NZL,2011,729698249.0,high_tech_exports
+New Zealand,NZL,2012,762196446.0,high_tech_exports
+New Zealand,NZL,2013,775321384.0,high_tech_exports
+New Zealand,NZL,2014,699116173.0,high_tech_exports
+New Zealand,NZL,2015,657060269.0,high_tech_exports
+New Zealand,NZL,2016,640136073.0,high_tech_exports
+New Zealand,NZL,2017,564057385.0,high_tech_exports
+New Zealand,NZL,2018,605401280.0,high_tech_exports
+New Zealand,NZL,2019,572755338.0,high_tech_exports
+New Zealand,NZL,2020,589049116.0,high_tech_exports
+New Zealand,NZL,2021,673724583.0,high_tech_exports
+New Zealand,NZL,2022,826243764.0,high_tech_exports
+New Zealand,NZL,2023,823530843.0,high_tech_exports
+New Zealand,NZL,2024,839952800.0,high_tech_exports
+Nicaragua,NIC,2007,5557883.0,high_tech_exports
+Nicaragua,NIC,2008,8213328.0,high_tech_exports
+Nicaragua,NIC,2009,7447275.0,high_tech_exports
+Nicaragua,NIC,2010,6223783.0,high_tech_exports
+Nicaragua,NIC,2011,7559400.0,high_tech_exports
+Nicaragua,NIC,2012,4344649.0,high_tech_exports
+Nicaragua,NIC,2013,7424951.0,high_tech_exports
+Nicaragua,NIC,2014,9951105.0,high_tech_exports
+Nicaragua,NIC,2015,11891363.0,high_tech_exports
+Nicaragua,NIC,2016,17029801.0,high_tech_exports
+Nicaragua,NIC,2017,12612402.0,high_tech_exports
+Nicaragua,NIC,2018,14953054.0,high_tech_exports
+Nicaragua,NIC,2019,24126467.0,high_tech_exports
+Nicaragua,NIC,2020,9890059.0,high_tech_exports
+Nicaragua,NIC,2021,30355921.0,high_tech_exports
+Nicaragua,NIC,2022,37239155.0,high_tech_exports
+Nicaragua,NIC,2023,22949838.0,high_tech_exports
+Nicaragua,NIC,2024,16586838.0,high_tech_exports
+Niger,NER,2009,4864197.0,high_tech_exports
+Niger,NER,2010,4573268.0,high_tech_exports
+Niger,NER,2011,3285632.0,high_tech_exports
+Niger,NER,2012,4737341.0,high_tech_exports
+Niger,NER,2013,53489209.0,high_tech_exports
+Niger,NER,2014,72921911.0,high_tech_exports
+Niger,NER,2015,11881005.0,high_tech_exports
+Niger,NER,2016,4109929.0,high_tech_exports
+Niger,NER,2017,17744305.0,high_tech_exports
+Niger,NER,2018,5845178.0,high_tech_exports
+Niger,NER,2019,1838136.0,high_tech_exports
+Niger,NER,2020,8771623.0,high_tech_exports
+Niger,NER,2021,12797212.0,high_tech_exports
+Niger,NER,2022,5924134.0,high_tech_exports
+Niger,NER,2023,2603432.0,high_tech_exports
+Niger,NER,2024,6297439.0,high_tech_exports
+Nigeria,NGA,2009,47289187.0,high_tech_exports
+Nigeria,NGA,2010,63081914.0,high_tech_exports
+Nigeria,NGA,2011,40538812.0,high_tech_exports
+Nigeria,NGA,2012,77755370.0,high_tech_exports
+Nigeria,NGA,2013,91782074.0,high_tech_exports
+Nigeria,NGA,2014,140225736.0,high_tech_exports
+Nigeria,NGA,2015,495095302.0,high_tech_exports
+Nigeria,NGA,2016,7388348.0,high_tech_exports
+Nigeria,NGA,2017,18315636.0,high_tech_exports
+Nigeria,NGA,2018,41645089.0,high_tech_exports
+Nigeria,NGA,2019,85424677.0,high_tech_exports
+Nigeria,NGA,2020,190326678.0,high_tech_exports
+Nigeria,NGA,2021,195947207.0,high_tech_exports
+Nigeria,NGA,2022,76668152.0,high_tech_exports
+Nigeria,NGA,2023,65160240.0,high_tech_exports
+Nigeria,NGA,2024,50082370.0,high_tech_exports
+North America,NAC,2007,271196984350.0,high_tech_exports
+North America,NAC,2008,273264688346.0,high_tech_exports
+North America,NAC,2009,176624630429.0,high_tech_exports
+North America,NAC,2010,192701817287.0,high_tech_exports
+North America,NAC,2011,194060991260.0,high_tech_exports
+North America,NAC,2012,202272021180.0,high_tech_exports
+North America,NAC,2013,201493946025.0,high_tech_exports
+North America,NAC,2014,204819813945.0,high_tech_exports
+North America,NAC,2015,203565472010.0,high_tech_exports
+North America,NAC,2016,200187994468.0,high_tech_exports
+North America,NAC,2017,181541904524.0,high_tech_exports
+North America,NAC,2018,184376941224.0,high_tech_exports
+North America,NAC,2019,190818733122.0,high_tech_exports
+North America,NAC,2020,172318831958.0,high_tech_exports
+North America,NAC,2021,204502140174.0,high_tech_exports
+North America,NAC,2022,228773022640.0,high_tech_exports
+North America,NAC,2023,250046703770.0,high_tech_exports
+North America,NAC,2024,268914110584.0,high_tech_exports
+North Macedonia,MKD,2007,23250278.0,high_tech_exports
+North Macedonia,MKD,2008,38587386.0,high_tech_exports
+North Macedonia,MKD,2009,53493337.0,high_tech_exports
+North Macedonia,MKD,2010,81123621.0,high_tech_exports
+North Macedonia,MKD,2011,129992844.0,high_tech_exports
+North Macedonia,MKD,2012,117340027.0,high_tech_exports
+North Macedonia,MKD,2013,122676418.0,high_tech_exports
+North Macedonia,MKD,2014,130746178.0,high_tech_exports
+North Macedonia,MKD,2015,125087129.0,high_tech_exports
+North Macedonia,MKD,2016,113781430.0,high_tech_exports
+North Macedonia,MKD,2017,186205169.0,high_tech_exports
+North Macedonia,MKD,2018,234169973.0,high_tech_exports
+North Macedonia,MKD,2019,252769719.0,high_tech_exports
+North Macedonia,MKD,2020,232386915.0,high_tech_exports
+North Macedonia,MKD,2021,276603713.0,high_tech_exports
+North Macedonia,MKD,2022,288192179.0,high_tech_exports
+North Macedonia,MKD,2023,387658985.0,high_tech_exports
+North Macedonia,MKD,2024,431775125.0,high_tech_exports
+Norway,NOR,2007,4446013282.0,high_tech_exports
+Norway,NOR,2008,5404015530.0,high_tech_exports
+Norway,NOR,2009,4893704319.0,high_tech_exports
+Norway,NOR,2010,4943819869.0,high_tech_exports
+Norway,NOR,2011,5379991584.0,high_tech_exports
+Norway,NOR,2012,5157077194.0,high_tech_exports
+Norway,NOR,2013,5372322266.0,high_tech_exports
+Norway,NOR,2014,5698284176.0,high_tech_exports
+Norway,NOR,2015,5035663952.0,high_tech_exports
+Norway,NOR,2016,4312063971.0,high_tech_exports
+Norway,NOR,2017,4265636721.0,high_tech_exports
+Norway,NOR,2018,4318612767.0,high_tech_exports
+Norway,NOR,2019,4610745766.0,high_tech_exports
+Norway,NOR,2020,4069222591.0,high_tech_exports
+Norway,NOR,2021,4733483567.0,high_tech_exports
+Norway,NOR,2022,5205063513.0,high_tech_exports
+Norway,NOR,2023,5969103927.0,high_tech_exports
+Norway,NOR,2024,6446039526.0,high_tech_exports
+OECD members,OED,2007,1190041742383.0,high_tech_exports
+OECD members,OED,2008,1295904888716.0,high_tech_exports
+OECD members,OED,2009,1054245542515.0,high_tech_exports
+OECD members,OED,2010,1202522472275.0,high_tech_exports
+OECD members,OED,2011,1300336241280.0,high_tech_exports
+OECD members,OED,2012,1286402535387.0,high_tech_exports
+OECD members,OED,2013,1311054325910.0,high_tech_exports
+OECD members,OED,2014,1348283659212.0,high_tech_exports
+OECD members,OED,2015,1270040419717.0,high_tech_exports
+OECD members,OED,2016,1279260538074.0,high_tech_exports
+OECD members,OED,2017,1279358670064.0,high_tech_exports
+OECD members,OED,2018,1369811568426.0,high_tech_exports
+OECD members,OED,2019,1343292561985.0,high_tech_exports
+OECD members,OED,2020,1259973095864.0,high_tech_exports
+OECD members,OED,2021,1488770255828.0,high_tech_exports
+OECD members,OED,2022,1729209310552.0,high_tech_exports
+OECD members,OED,2023,1730845500984.0,high_tech_exports
+OECD members,OED,2024,1856153866701.0,high_tech_exports
+Oman,OMN,2012,167104199.0,high_tech_exports
+Oman,OMN,2013,159946801.0,high_tech_exports
+Oman,OMN,2014,230872195.0,high_tech_exports
+Oman,OMN,2015,138986749.0,high_tech_exports
+Oman,OMN,2016,50129889.0,high_tech_exports
+Oman,OMN,2017,48362452.0,high_tech_exports
+Oman,OMN,2018,73302556.0,high_tech_exports
+Oman,OMN,2019,77192098.0,high_tech_exports
+Oman,OMN,2020,589224440.0,high_tech_exports
+Oman,OMN,2021,662031837.0,high_tech_exports
+Oman,OMN,2022,784366169.0,high_tech_exports
+Oman,OMN,2023,441801906.0,high_tech_exports
+Other small states,OSS,2014,3829837100.0,high_tech_exports
+Other small states,OSS,2016,2973179845.0,high_tech_exports
+Other small states,OSS,2017,2954926327.0,high_tech_exports
+Other small states,OSS,2018,2964375965.0,high_tech_exports
+Other small states,OSS,2019,2978419477.0,high_tech_exports
+Other small states,OSS,2020,3272696485.0,high_tech_exports
+Other small states,OSS,2021,3875574182.0,high_tech_exports
+Other small states,OSS,2022,3912262150.0,high_tech_exports
+Other small states,OSS,2023,4023217751.0,high_tech_exports
+Pakistan,PAK,2008,279153357.0,high_tech_exports
+Pakistan,PAK,2009,233461231.0,high_tech_exports
+Pakistan,PAK,2010,268289997.0,high_tech_exports
+Pakistan,PAK,2011,324894440.0,high_tech_exports
+Pakistan,PAK,2012,316859945.0,high_tech_exports
+Pakistan,PAK,2013,354220539.0,high_tech_exports
+Pakistan,PAK,2014,264492176.0,high_tech_exports
+Pakistan,PAK,2015,266537589.0,high_tech_exports
+Pakistan,PAK,2016,311291838.0,high_tech_exports
+Pakistan,PAK,2017,360255508.0,high_tech_exports
+Pakistan,PAK,2018,374563536.0,high_tech_exports
+Pakistan,PAK,2019,396194498.0,high_tech_exports
+Pakistan,PAK,2020,309393322.0,high_tech_exports
+Pakistan,PAK,2021,318590723.0,high_tech_exports
+Pakistan,PAK,2022,329716126.0,high_tech_exports
+Pakistan,PAK,2023,384348995.0,high_tech_exports
+Pakistan,PAK,2024,535223179.0,high_tech_exports
+Palau,PLW,2014,1144672.0,high_tech_exports
+Palau,PLW,2015,2231245.0,high_tech_exports
+Palau,PLW,2016,3509603.0,high_tech_exports
+Palau,PLW,2017,1277066.0,high_tech_exports
+Palau,PLW,2018,401590.0,high_tech_exports
+Panama,PAN,2008,1108988.0,high_tech_exports
+Panama,PAN,2009,900031.0,high_tech_exports
+Panama,PAN,2010,696662.0,high_tech_exports
+Panama,PAN,2011,1430455.0,high_tech_exports
+Panama,PAN,2012,464508.0,high_tech_exports
+Panama,PAN,2013,50963.0,high_tech_exports
+Panama,PAN,2014,231391.0,high_tech_exports
+Panama,PAN,2015,457.0,high_tech_exports
+Panama,PAN,2016,822563.0,high_tech_exports
+Panama,PAN,2017,182494.0,high_tech_exports
+Panama,PAN,2018,88765.0,high_tech_exports
+Panama,PAN,2019,255848.0,high_tech_exports
+Panama,PAN,2020,694221.0,high_tech_exports
+Panama,PAN,2021,333800.0,high_tech_exports
+Panama,PAN,2022,333696.0,high_tech_exports
+Panama,PAN,2023,1339544.0,high_tech_exports
+Panama,PAN,2024,1862786.0,high_tech_exports
+Papua New Guinea,PNG,2011,65906268.0,high_tech_exports
+Papua New Guinea,PNG,2012,15613328.0,high_tech_exports
+Papua New Guinea,PNG,2019,46982983.0,high_tech_exports
+Papua New Guinea,PNG,2020,61780229.0,high_tech_exports
+Papua New Guinea,PNG,2021,86295937.0,high_tech_exports
+Papua New Guinea,PNG,2022,15750403.0,high_tech_exports
+Papua New Guinea,PNG,2023,18779129.0,high_tech_exports
+Paraguay,PRY,2007,26187347.0,high_tech_exports
+Paraguay,PRY,2008,39796552.0,high_tech_exports
+Paraguay,PRY,2009,40885859.0,high_tech_exports
+Paraguay,PRY,2010,41672586.0,high_tech_exports
+Paraguay,PRY,2011,59113184.0,high_tech_exports
+Paraguay,PRY,2012,56616781.0,high_tech_exports
+Paraguay,PRY,2013,66156748.0,high_tech_exports
+Paraguay,PRY,2014,62065735.0,high_tech_exports
+Paraguay,PRY,2015,50417840.0,high_tech_exports
+Paraguay,PRY,2016,60873341.0,high_tech_exports
+Paraguay,PRY,2017,62253533.0,high_tech_exports
+Paraguay,PRY,2018,102336649.0,high_tech_exports
+Paraguay,PRY,2019,76176090.0,high_tech_exports
+Paraguay,PRY,2020,54397925.0,high_tech_exports
+Paraguay,PRY,2021,103189077.0,high_tech_exports
+Paraguay,PRY,2022,179235119.0,high_tech_exports
+Paraguay,PRY,2023,162697885.0,high_tech_exports
+Paraguay,PRY,2024,185603383.0,high_tech_exports
+Peru,PER,2008,121648831.0,high_tech_exports
+Peru,PER,2009,121323413.0,high_tech_exports
+Peru,PER,2010,427994492.0,high_tech_exports
+Peru,PER,2011,322873522.0,high_tech_exports
+Peru,PER,2012,355039046.0,high_tech_exports
+Peru,PER,2013,355131400.0,high_tech_exports
+Peru,PER,2014,206108972.0,high_tech_exports
+Peru,PER,2015,302441321.0,high_tech_exports
+Peru,PER,2016,186687352.0,high_tech_exports
+Peru,PER,2017,211714389.0,high_tech_exports
+Peru,PER,2018,210905058.0,high_tech_exports
+Peru,PER,2019,179192646.0,high_tech_exports
+Peru,PER,2020,172740806.0,high_tech_exports
+Peru,PER,2021,222582995.0,high_tech_exports
+Peru,PER,2022,263430270.0,high_tech_exports
+Peru,PER,2023,264161339.0,high_tech_exports
+Peru,PER,2024,286206778.0,high_tech_exports
+Philippines,PHL,2017,33502538621.0,high_tech_exports
+Philippines,PHL,2018,33903662791.0,high_tech_exports
+Philippines,PHL,2019,35825986531.0,high_tech_exports
+Philippines,PHL,2020,34896354090.0,high_tech_exports
+Philippines,PHL,2021,38194465821.0,high_tech_exports
+Philippines,PHL,2022,41726956647.0,high_tech_exports
+Philippines,PHL,2023,37090950135.0,high_tech_exports
+Philippines,PHL,2024,34360137210.0,high_tech_exports
+Poland,POL,2007,4362127682.0,high_tech_exports
+Poland,POL,2008,7363448740.0,high_tech_exports
+Poland,POL,2009,7803885489.0,high_tech_exports
+Poland,POL,2010,9591093862.0,high_tech_exports
+Poland,POL,2011,9700758960.0,high_tech_exports
+Poland,POL,2012,10728842468.0,high_tech_exports
+Poland,POL,2013,13662050275.0,high_tech_exports
+Poland,POL,2014,16757316984.0,high_tech_exports
+Poland,POL,2015,16502308101.0,high_tech_exports
+Poland,POL,2016,16888118842.0,high_tech_exports
+Poland,POL,2017,18837376641.0,high_tech_exports
+Poland,POL,2018,21763148628.0,high_tech_exports
+Poland,POL,2019,19830978892.0,high_tech_exports
+Poland,POL,2020,19970865152.0,high_tech_exports
+Poland,POL,2021,23837274338.0,high_tech_exports
+Poland,POL,2022,33137532120.0,high_tech_exports
+Poland,POL,2023,36255539615.0,high_tech_exports
+Poland,POL,2024,40109557279.0,high_tech_exports
+Portugal,PRT,2007,3502617645.0,high_tech_exports
+Portugal,PRT,2008,3575493699.0,high_tech_exports
+Portugal,PRT,2009,1617971205.0,high_tech_exports
+Portugal,PRT,2010,1498647775.0,high_tech_exports
+Portugal,PRT,2011,1830313490.0,high_tech_exports
+Portugal,PRT,2012,1919376035.0,high_tech_exports
+Portugal,PRT,2013,2135835442.0,high_tech_exports
+Portugal,PRT,2014,2314872279.0,high_tech_exports
+Portugal,PRT,2015,2095894950.0,high_tech_exports
+Portugal,PRT,2016,2457361282.0,high_tech_exports
+Portugal,PRT,2017,2816256592.0,high_tech_exports
+Portugal,PRT,2018,2978019017.0,high_tech_exports
+Portugal,PRT,2019,3594840031.0,high_tech_exports
+Portugal,PRT,2020,3366105196.0,high_tech_exports
+Portugal,PRT,2021,3561400342.0,high_tech_exports
+Portugal,PRT,2022,4279022517.0,high_tech_exports
+Portugal,PRT,2023,4210059440.0,high_tech_exports
+Portugal,PRT,2024,4134796922.0,high_tech_exports
+Post-demographic dividend,PST,2007,1254105077366.0,high_tech_exports
+Post-demographic dividend,PST,2008,1321083557777.0,high_tech_exports
+Post-demographic dividend,PST,2009,1064464504127.0,high_tech_exports
+Post-demographic dividend,PST,2010,1236214397344.0,high_tech_exports
+Post-demographic dividend,PST,2011,1323930639718.0,high_tech_exports
+Post-demographic dividend,PST,2012,1308490569408.0,high_tech_exports
+Post-demographic dividend,PST,2013,1332309432958.0,high_tech_exports
+Post-demographic dividend,PST,2014,1362131159722.0,high_tech_exports
+Post-demographic dividend,PST,2015,1275399986334.0,high_tech_exports
+Post-demographic dividend,PST,2016,1273714717147.0,high_tech_exports
+Post-demographic dividend,PST,2017,1570847171395.0,high_tech_exports
+Post-demographic dividend,PST,2018,1696371244839.0,high_tech_exports
+Post-demographic dividend,PST,2019,1656172103674.0,high_tech_exports
+Post-demographic dividend,PST,2020,1600088979266.0,high_tech_exports
+Post-demographic dividend,PST,2021,1932944810123.0,high_tech_exports
+Post-demographic dividend,PST,2022,2095304910498.0,high_tech_exports
+Post-demographic dividend,PST,2023,2044848682310.0,high_tech_exports
+Post-demographic dividend,PST,2024,2207606851659.0,high_tech_exports
+Pre-demographic dividend,PRE,2015,1150434010.0,high_tech_exports
+Pre-demographic dividend,PRE,2016,750218969.0,high_tech_exports
+Pre-demographic dividend,PRE,2017,631245524.0,high_tech_exports
+Pre-demographic dividend,PRE,2018,662369116.0,high_tech_exports
+Pre-demographic dividend,PRE,2019,674633282.0,high_tech_exports
+Pre-demographic dividend,PRE,2020,516658283.0,high_tech_exports
+Pre-demographic dividend,PRE,2021,536917108.0,high_tech_exports
+Pre-demographic dividend,PRE,2022,473834451.0,high_tech_exports
+Pre-demographic dividend,PRE,2023,527989330.0,high_tech_exports
+Qatar,QAT,2009,950861.0,high_tech_exports
+Qatar,QAT,2011,112596.0,high_tech_exports
+Qatar,QAT,2012,63779825.0,high_tech_exports
+Qatar,QAT,2013,50968303.0,high_tech_exports
+Qatar,QAT,2014,33371.0,high_tech_exports
+Qatar,QAT,2015,96835993.0,high_tech_exports
+Qatar,QAT,2016,62631.0,high_tech_exports
+Qatar,QAT,2017,292250.0,high_tech_exports
+Qatar,QAT,2018,155450581.0,high_tech_exports
+Qatar,QAT,2019,122141.0,high_tech_exports
+Qatar,QAT,2020,466395732.0,high_tech_exports
+Qatar,QAT,2021,147790556.0,high_tech_exports
+Qatar,QAT,2022,270331668.0,high_tech_exports
+Qatar,QAT,2023,245655998.0,high_tech_exports
+Qatar,QAT,2024,308181126.0,high_tech_exports
+Romania,ROU,2007,1426932274.0,high_tech_exports
+Romania,ROU,2008,2632265882.0,high_tech_exports
+Romania,ROU,2009,3349425457.0,high_tech_exports
+Romania,ROU,2010,4856879314.0,high_tech_exports
+Romania,ROU,2011,5673719716.0,high_tech_exports
+Romania,ROU,2012,3649892920.0,high_tech_exports
+Romania,ROU,2013,3679011313.0,high_tech_exports
+Romania,ROU,2014,4471798730.0,high_tech_exports
+Romania,ROU,2015,4436062615.0,high_tech_exports
+Romania,ROU,2016,5254489145.0,high_tech_exports
+Romania,ROU,2017,5558598945.0,high_tech_exports
+Romania,ROU,2018,6636993376.0,high_tech_exports
+Romania,ROU,2019,6994471752.0,high_tech_exports
+Romania,ROU,2020,6984619201.0,high_tech_exports
+Romania,ROU,2021,8026993060.0,high_tech_exports
+Romania,ROU,2022,8531975344.0,high_tech_exports
+Romania,ROU,2023,9724366747.0,high_tech_exports
+Romania,ROU,2024,10710427442.0,high_tech_exports
+Russian Federation,RUS,2007,4336664850.0,high_tech_exports
+Russian Federation,RUS,2008,5491417754.0,high_tech_exports
+Russian Federation,RUS,2009,4780780606.0,high_tech_exports
+Russian Federation,RUS,2010,5291117660.0,high_tech_exports
+Russian Federation,RUS,2011,5753483733.0,high_tech_exports
+Russian Federation,RUS,2012,7731024109.0,high_tech_exports
+Russian Federation,RUS,2013,9223725735.0,high_tech_exports
+Russian Federation,RUS,2014,10431810993.0,high_tech_exports
+Russian Federation,RUS,2015,11478187273.0,high_tech_exports
+Russian Federation,RUS,2016,11237691896.0,high_tech_exports
+Russian Federation,RUS,2017,10385740894.0,high_tech_exports
+Russian Federation,RUS,2018,10107859553.0,high_tech_exports
+Russian Federation,RUS,2019,10783402806.0,high_tech_exports
+Russian Federation,RUS,2020,6567475904.0,high_tech_exports
+Russian Federation,RUS,2021,10598637533.0,high_tech_exports
+Rwanda,RWA,2009,14886450.0,high_tech_exports
+Rwanda,RWA,2010,1238517.0,high_tech_exports
+Rwanda,RWA,2011,3358273.0,high_tech_exports
+Rwanda,RWA,2012,1097405.0,high_tech_exports
+Rwanda,RWA,2013,2392667.0,high_tech_exports
+Rwanda,RWA,2014,6763641.0,high_tech_exports
+Rwanda,RWA,2015,8666022.0,high_tech_exports
+Rwanda,RWA,2016,5547310.0,high_tech_exports
+Rwanda,RWA,2017,3552188.0,high_tech_exports
+Rwanda,RWA,2018,3510626.0,high_tech_exports
+Rwanda,RWA,2019,6910595.0,high_tech_exports
+Rwanda,RWA,2020,5221136.0,high_tech_exports
+Rwanda,RWA,2021,9522923.0,high_tech_exports
+Rwanda,RWA,2022,6797226.0,high_tech_exports
+Samoa,WSM,2009,183567.0,high_tech_exports
+Samoa,WSM,2010,591648.0,high_tech_exports
+Samoa,WSM,2011,365806.0,high_tech_exports
+Samoa,WSM,2012,114963.0,high_tech_exports
+Samoa,WSM,2013,210850.0,high_tech_exports
+Samoa,WSM,2014,429830.0,high_tech_exports
+Samoa,WSM,2015,148078.0,high_tech_exports
+Samoa,WSM,2016,171154.0,high_tech_exports
+Samoa,WSM,2017,74642.0,high_tech_exports
+Samoa,WSM,2018,142119.0,high_tech_exports
+Samoa,WSM,2019,105678.0,high_tech_exports
+Samoa,WSM,2021,53764.0,high_tech_exports
+Samoa,WSM,2022,36152.0,high_tech_exports
+Samoa,WSM,2023,396638.0,high_tech_exports
+Samoa,WSM,2024,12678894.0,high_tech_exports
+Sao Tome and Principe,STP,2011,4359.0,high_tech_exports
+Sao Tome and Principe,STP,2012,101787.0,high_tech_exports
+Sao Tome and Principe,STP,2013,117701.0,high_tech_exports
+Sao Tome and Principe,STP,2014,4081.0,high_tech_exports
+Sao Tome and Principe,STP,2015,222420.0,high_tech_exports
+Sao Tome and Principe,STP,2016,739677.0,high_tech_exports
+Sao Tome and Principe,STP,2017,386566.0,high_tech_exports
+Sao Tome and Principe,STP,2018,1332857.0,high_tech_exports
+Sao Tome and Principe,STP,2019,191951.0,high_tech_exports
+Sao Tome and Principe,STP,2020,139614.0,high_tech_exports
+Sao Tome and Principe,STP,2021,78068.0,high_tech_exports
+Sao Tome and Principe,STP,2022,15026.0,high_tech_exports
+Sao Tome and Principe,STP,2023,70979.0,high_tech_exports
+Saudi Arabia,SAU,2007,131262705.0,high_tech_exports
+Saudi Arabia,SAU,2008,180686088.0,high_tech_exports
+Saudi Arabia,SAU,2009,210190656.0,high_tech_exports
+Saudi Arabia,SAU,2010,202105315.0,high_tech_exports
+Saudi Arabia,SAU,2011,213847737.0,high_tech_exports
+Saudi Arabia,SAU,2012,258048046.0,high_tech_exports
+Saudi Arabia,SAU,2013,289615029.0,high_tech_exports
+Saudi Arabia,SAU,2014,254738828.0,high_tech_exports
+Saudi Arabia,SAU,2015,278134035.0,high_tech_exports
+Saudi Arabia,SAU,2016,421285338.0,high_tech_exports
+Saudi Arabia,SAU,2017,261725661.0,high_tech_exports
+Saudi Arabia,SAU,2018,253106477.0,high_tech_exports
+Saudi Arabia,SAU,2019,272166034.0,high_tech_exports
+Saudi Arabia,SAU,2020,218849973.0,high_tech_exports
+Saudi Arabia,SAU,2021,158426077.0,high_tech_exports
+Saudi Arabia,SAU,2022,172650607.0,high_tech_exports
+Saudi Arabia,SAU,2023,261804808.0,high_tech_exports
+Saudi Arabia,SAU,2024,243366621.0,high_tech_exports
+Senegal,SEN,2008,48947206.0,high_tech_exports
+Senegal,SEN,2009,105118316.0,high_tech_exports
+Senegal,SEN,2010,14627178.0,high_tech_exports
+Senegal,SEN,2011,9078755.0,high_tech_exports
+Senegal,SEN,2012,8594912.0,high_tech_exports
+Senegal,SEN,2013,11616694.0,high_tech_exports
+Senegal,SEN,2014,14570001.0,high_tech_exports
+Senegal,SEN,2015,28135985.0,high_tech_exports
+Senegal,SEN,2016,23026460.0,high_tech_exports
+Senegal,SEN,2017,18853043.0,high_tech_exports
+Senegal,SEN,2018,28155690.0,high_tech_exports
+Senegal,SEN,2019,9427038.0,high_tech_exports
+Senegal,SEN,2020,7556051.0,high_tech_exports
+Senegal,SEN,2021,26333300.0,high_tech_exports
+Senegal,SEN,2022,37258335.0,high_tech_exports
+Senegal,SEN,2023,22544982.0,high_tech_exports
+Senegal,SEN,2024,42778220.0,high_tech_exports
+Serbia,SRB,2007,264518037.0,high_tech_exports
+Serbia,SRB,2008,318687315.0,high_tech_exports
+Serbia,SRB,2009,294006497.0,high_tech_exports
+Serbia,SRB,2010,309560624.0,high_tech_exports
+Serbia,SRB,2011,326761179.0,high_tech_exports
+Serbia,SRB,2012,462575930.0,high_tech_exports
+Serbia,SRB,2013,439359785.0,high_tech_exports
+Serbia,SRB,2014,450081838.0,high_tech_exports
+Serbia,SRB,2015,392491901.0,high_tech_exports
+Serbia,SRB,2016,408738236.0,high_tech_exports
+Serbia,SRB,2017,399853208.0,high_tech_exports
+Serbia,SRB,2018,463875160.0,high_tech_exports
+Serbia,SRB,2019,514413657.0,high_tech_exports
+Serbia,SRB,2020,710934754.0,high_tech_exports
+Serbia,SRB,2021,927101298.0,high_tech_exports
+Serbia,SRB,2022,1087552014.0,high_tech_exports
+Serbia,SRB,2023,1358732901.0,high_tech_exports
+Serbia,SRB,2024,1526799973.0,high_tech_exports
+Seychelles,SYC,2013,3577815.0,high_tech_exports
+Seychelles,SYC,2014,2061796.0,high_tech_exports
+Seychelles,SYC,2015,1372918.0,high_tech_exports
+Seychelles,SYC,2016,1062096.0,high_tech_exports
+Seychelles,SYC,2017,35294430.0,high_tech_exports
+Seychelles,SYC,2018,5531342.0,high_tech_exports
+Seychelles,SYC,2019,1946698.0,high_tech_exports
+Seychelles,SYC,2020,1315183.0,high_tech_exports
+Seychelles,SYC,2021,784869.0,high_tech_exports
+Seychelles,SYC,2022,8462099.0,high_tech_exports
+Seychelles,SYC,2023,711.0,high_tech_exports
+Seychelles,SYC,2024,1082.0,high_tech_exports
+Sierra Leone,SLE,2014,2251.0,high_tech_exports
+Sierra Leone,SLE,2015,553.0,high_tech_exports
+Sierra Leone,SLE,2016,1150.0,high_tech_exports
+Sierra Leone,SLE,2017,1349.0,high_tech_exports
+Sierra Leone,SLE,2018,379079.0,high_tech_exports
+Singapore,SGP,2007,109551455435.0,high_tech_exports
+Singapore,SGP,2008,123694088415.0,high_tech_exports
+Singapore,SGP,2009,99697714507.0,high_tech_exports
+Singapore,SGP,2010,131632426274.0,high_tech_exports
+Singapore,SGP,2011,132167663861.0,high_tech_exports
+Singapore,SGP,2012,136470490579.0,high_tech_exports
+Singapore,SGP,2013,143355891818.0,high_tech_exports
+Singapore,SGP,2014,144947459770.0,high_tech_exports
+Singapore,SGP,2015,138752871056.0,high_tech_exports
+Singapore,SGP,2016,134940438968.0,high_tech_exports
+Singapore,SGP,2017,146697405227.0,high_tech_exports
+Singapore,SGP,2018,154892664515.0,high_tech_exports
+Singapore,SGP,2019,150056312130.0,high_tech_exports
+Singapore,SGP,2020,159939927691.0,high_tech_exports
+Singapore,SGP,2021,192223598135.0,high_tech_exports
+Singapore,SGP,2022,213832968911.0,high_tech_exports
+Singapore,SGP,2023,197387649519.0,high_tech_exports
+Singapore,SGP,2024,223592699065.0,high_tech_exports
+Slovak Republic,SVK,2007,2685615368.0,high_tech_exports
+Slovak Republic,SVK,2008,3057611776.0,high_tech_exports
+Slovak Republic,SVK,2009,3058542733.0,high_tech_exports
+Slovak Republic,SVK,2010,4117586378.0,high_tech_exports
+Slovak Republic,SVK,2011,5015333938.0,high_tech_exports
+Slovak Republic,SVK,2012,6429707770.0,high_tech_exports
+Slovak Republic,SVK,2013,8084068922.0,high_tech_exports
+Slovak Republic,SVK,2014,8401870343.0,high_tech_exports
+Slovak Republic,SVK,2015,7465236079.0,high_tech_exports
+Slovak Republic,SVK,2016,7474395968.0,high_tech_exports
+Slovak Republic,SVK,2017,8807968041.0,high_tech_exports
+Slovak Republic,SVK,2018,8650250737.0,high_tech_exports
+Slovak Republic,SVK,2019,8049156331.0,high_tech_exports
+Slovak Republic,SVK,2020,7860143292.0,high_tech_exports
+Slovak Republic,SVK,2021,8421902423.0,high_tech_exports
+Slovak Republic,SVK,2022,7989914994.0,high_tech_exports
+Slovak Republic,SVK,2023,10210993543.0,high_tech_exports
+Slovak Republic,SVK,2024,10848949470.0,high_tech_exports
+Slovenia,SVN,2007,1322363319.0,high_tech_exports
+Slovenia,SVN,2008,1647932996.0,high_tech_exports
+Slovenia,SVN,2009,1331688478.0,high_tech_exports
+Slovenia,SVN,2010,1259925784.0,high_tech_exports
+Slovenia,SVN,2011,1499878902.0,high_tech_exports
+Slovenia,SVN,2012,1492657882.0,high_tech_exports
+Slovenia,SVN,2013,1586846781.0,high_tech_exports
+Slovenia,SVN,2014,1622650470.0,high_tech_exports
+Slovenia,SVN,2015,1552490057.0,high_tech_exports
+Slovenia,SVN,2016,1672142442.0,high_tech_exports
+Slovenia,SVN,2017,1755022210.0,high_tech_exports
+Slovenia,SVN,2018,2091045196.0,high_tech_exports
+Slovenia,SVN,2019,2333300643.0,high_tech_exports
+Slovenia,SVN,2020,2542920750.0,high_tech_exports
+Slovenia,SVN,2021,2476347678.0,high_tech_exports
+Slovenia,SVN,2022,3924918658.0,high_tech_exports
+Slovenia,SVN,2023,4206749873.0,high_tech_exports
+Slovenia,SVN,2024,4857826350.0,high_tech_exports
+Small states,SST,2014,3859702432.0,high_tech_exports
+Small states,SST,2016,3008434909.0,high_tech_exports
+Small states,SST,2017,3006620300.0,high_tech_exports
+Small states,SST,2018,2994703820.0,high_tech_exports
+Small states,SST,2019,3041292357.0,high_tech_exports
+Small states,SST,2020,3327105861.0,high_tech_exports
+Small states,SST,2021,3908252703.0,high_tech_exports
+Small states,SST,2022,3972354558.0,high_tech_exports
+Small states,SST,2023,4069508006.0,high_tech_exports
+Solomon Islands,SLB,2015,193415.0,high_tech_exports
+Solomon Islands,SLB,2016,525542.0,high_tech_exports
+Solomon Islands,SLB,2017,305203.0,high_tech_exports
+Solomon Islands,SLB,2018,171263.0,high_tech_exports
+South Africa,ZAF,2007,1933150392.0,high_tech_exports
+South Africa,ZAF,2008,2089264358.0,high_tech_exports
+South Africa,ZAF,2009,1483141300.0,high_tech_exports
+South Africa,ZAF,2010,2498966663.0,high_tech_exports
+South Africa,ZAF,2011,2745990089.0,high_tech_exports
+South Africa,ZAF,2012,2861275747.0,high_tech_exports
+South Africa,ZAF,2013,2615633129.0,high_tech_exports
+South Africa,ZAF,2014,2807326935.0,high_tech_exports
+South Africa,ZAF,2015,2810596503.0,high_tech_exports
+South Africa,ZAF,2016,2398089362.0,high_tech_exports
+South Africa,ZAF,2017,2198581396.0,high_tech_exports
+South Africa,ZAF,2018,2091970957.0,high_tech_exports
+South Africa,ZAF,2019,1833309591.0,high_tech_exports
+South Africa,ZAF,2020,1835319303.0,high_tech_exports
+South Africa,ZAF,2021,2418464070.0,high_tech_exports
+South Africa,ZAF,2022,2494861682.0,high_tech_exports
+South Africa,ZAF,2023,2215402355.0,high_tech_exports
+South Africa,ZAF,2024,2453906343.0,high_tech_exports
+South Asia,SAS,2009,11313611351.0,high_tech_exports
+South Asia,SAS,2010,10773586216.0,high_tech_exports
+South Asia,SAS,2011,14627203136.0,high_tech_exports
+South Asia,SAS,2012,14048257618.0,high_tech_exports
+South Asia,SAS,2013,18088556068.0,high_tech_exports
+South Asia,SAS,2015,14748453386.0,high_tech_exports
+South Asia,SAS,2016,14422300224.0,high_tech_exports
+South Asia,SAS,2017,15352013617.0,high_tech_exports
+South Asia,SAS,2018,20404909813.0,high_tech_exports
+South Asia,SAS,2019,23567503343.0,high_tech_exports
+South Asia,SAS,2020,21676606409.0,high_tech_exports
+South Asia,SAS,2021,27548350660.0,high_tech_exports
+South Asia,SAS,2022,35892218438.0,high_tech_exports
+South Asia,SAS,2023,41054859410.0,high_tech_exports
+South Asia (IDA & IBRD),TSA,2009,11313611351.0,high_tech_exports
+South Asia (IDA & IBRD),TSA,2010,10773586216.0,high_tech_exports
+South Asia (IDA & IBRD),TSA,2011,14627203136.0,high_tech_exports
+South Asia (IDA & IBRD),TSA,2012,14048257618.0,high_tech_exports
+South Asia (IDA & IBRD),TSA,2013,18088556068.0,high_tech_exports
+South Asia (IDA & IBRD),TSA,2015,14748453386.0,high_tech_exports
+South Asia (IDA & IBRD),TSA,2016,14422300224.0,high_tech_exports
+South Asia (IDA & IBRD),TSA,2017,15352013617.0,high_tech_exports
+South Asia (IDA & IBRD),TSA,2018,20404909813.0,high_tech_exports
+South Asia (IDA & IBRD),TSA,2019,23567503343.0,high_tech_exports
+South Asia (IDA & IBRD),TSA,2020,21676606409.0,high_tech_exports
+South Asia (IDA & IBRD),TSA,2021,27548350660.0,high_tech_exports
+South Asia (IDA & IBRD),TSA,2022,35892218438.0,high_tech_exports
+South Asia (IDA & IBRD),TSA,2023,41054859410.0,high_tech_exports
+Spain,ESP,2007,10520143620.0,high_tech_exports
+Spain,ESP,2008,11253501247.0,high_tech_exports
+Spain,ESP,2009,10376050434.0,high_tech_exports
+Spain,ESP,2010,11505353187.0,high_tech_exports
+Spain,ESP,2011,13556130443.0,high_tech_exports
+Spain,ESP,2012,13769965368.0,high_tech_exports
+Spain,ESP,2013,14480413179.0,high_tech_exports
+Spain,ESP,2014,14666986404.0,high_tech_exports
+Spain,ESP,2015,13111339617.0,high_tech_exports
+Spain,ESP,2016,15601713039.0,high_tech_exports
+Spain,ESP,2017,14946962289.0,high_tech_exports
+Spain,ESP,2018,15484719194.0,high_tech_exports
+Spain,ESP,2019,15037416553.0,high_tech_exports
+Spain,ESP,2020,15726202393.0,high_tech_exports
+Spain,ESP,2021,23457225215.0,high_tech_exports
+Spain,ESP,2022,33298624237.0,high_tech_exports
+Spain,ESP,2023,25806027599.0,high_tech_exports
+Spain,ESP,2024,23796613238.0,high_tech_exports
+Sri Lanka,LKA,2008,103072721.0,high_tech_exports
+Sri Lanka,LKA,2009,46943092.0,high_tech_exports
+Sri Lanka,LKA,2010,62430443.0,high_tech_exports
+Sri Lanka,LKA,2011,71718329.0,high_tech_exports
+Sri Lanka,LKA,2012,60090878.0,high_tech_exports
+Sri Lanka,LKA,2013,72418950.0,high_tech_exports
+Sri Lanka,LKA,2014,71136595.0,high_tech_exports
+Sri Lanka,LKA,2015,63227842.0,high_tech_exports
+Sri Lanka,LKA,2016,67493927.0,high_tech_exports
+Sri Lanka,LKA,2017,79028241.0,high_tech_exports
+Sri Lanka,LKA,2019,90992885.0,high_tech_exports
+Sri Lanka,LKA,2020,83151264.0,high_tech_exports
+Sri Lanka,LKA,2021,94328328.0,high_tech_exports
+Sri Lanka,LKA,2022,103356170.0,high_tech_exports
+Sri Lanka,LKA,2023,112381343.0,high_tech_exports
+Sri Lanka,LKA,2024,120784984.0,high_tech_exports
+St. Kitts and Nevis,KNA,2009,7420.0,high_tech_exports
+St. Kitts and Nevis,KNA,2010,302278.0,high_tech_exports
+St. Kitts and Nevis,KNA,2011,34590.0,high_tech_exports
+St. Kitts and Nevis,KNA,2012,12585339.0,high_tech_exports
+St. Kitts and Nevis,KNA,2013,10761053.0,high_tech_exports
+St. Kitts and Nevis,KNA,2014,7944481.0,high_tech_exports
+St. Kitts and Nevis,KNA,2015,4863483.0,high_tech_exports
+St. Kitts and Nevis,KNA,2016,5702669.0,high_tech_exports
+St. Kitts and Nevis,KNA,2017,6842005.0,high_tech_exports
+St. Lucia,LCA,2012,1513358.0,high_tech_exports
+St. Lucia,LCA,2013,2882323.0,high_tech_exports
+St. Lucia,LCA,2014,2100682.0,high_tech_exports
+St. Lucia,LCA,2015,2083157.0,high_tech_exports
+St. Lucia,LCA,2016,4560981.0,high_tech_exports
+St. Lucia,LCA,2017,3921940.0,high_tech_exports
+St. Lucia,LCA,2018,9947111.0,high_tech_exports
+St. Lucia,LCA,2019,5341840.0,high_tech_exports
+St. Lucia,LCA,2020,2887310.0,high_tech_exports
+St. Vincent and the Grenadines,VCT,2009,44381.0,high_tech_exports
+St. Vincent and the Grenadines,VCT,2010,8505.0,high_tech_exports
+St. Vincent and the Grenadines,VCT,2011,1400.0,high_tech_exports
+St. Vincent and the Grenadines,VCT,2012,2654.0,high_tech_exports
+St. Vincent and the Grenadines,VCT,2013,11120.0,high_tech_exports
+St. Vincent and the Grenadines,VCT,2014,2093.0,high_tech_exports
+St. Vincent and the Grenadines,VCT,2015,0.0,high_tech_exports
+St. Vincent and the Grenadines,VCT,2016,186.0,high_tech_exports
+St. Vincent and the Grenadines,VCT,2017,55.0,high_tech_exports
+St. Vincent and the Grenadines,VCT,2018,111.0,high_tech_exports
+St. Vincent and the Grenadines,VCT,2019,1120027.0,high_tech_exports
+St. Vincent and the Grenadines,VCT,2020,0.0,high_tech_exports
+St. Vincent and the Grenadines,VCT,2021,146.0,high_tech_exports
+St. Vincent and the Grenadines,VCT,2022,191441.0,high_tech_exports
+St. Vincent and the Grenadines,VCT,2023,535939.0,high_tech_exports
+Sub-Saharan Africa,SSF,2013,3502115928.0,high_tech_exports
+Sub-Saharan Africa,SSF,2014,3865346797.0,high_tech_exports
+Sub-Saharan Africa,SSF,2015,4199180779.0,high_tech_exports
+Sub-Saharan Africa,SSF,2016,3355151153.0,high_tech_exports
+Sub-Saharan Africa,SSF,2017,3070252948.0,high_tech_exports
+Sub-Saharan Africa,SSF,2018,3018401977.0,high_tech_exports
+Sub-Saharan Africa,SSF,2019,2711379863.0,high_tech_exports
+Sub-Saharan Africa,SSF,2020,2510401892.0,high_tech_exports
+Sub-Saharan Africa,SSF,2021,3075531283.0,high_tech_exports
+Sub-Saharan Africa,SSF,2022,3160951700.0,high_tech_exports
+Sub-Saharan Africa,SSF,2023,2861159244.0,high_tech_exports
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2013,3502115928.0,high_tech_exports
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2014,3865346797.0,high_tech_exports
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2015,4199180779.0,high_tech_exports
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2016,3355151153.0,high_tech_exports
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2017,3070252948.0,high_tech_exports
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2018,3018401977.0,high_tech_exports
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2019,2711379863.0,high_tech_exports
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2020,2510401892.0,high_tech_exports
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2021,3075531283.0,high_tech_exports
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2022,3160951700.0,high_tech_exports
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2023,2861159244.0,high_tech_exports
+Sub-Saharan Africa (excluding high income),SSA,2014,3839054087.0,high_tech_exports
+Sub-Saharan Africa (excluding high income),SSA,2015,4182181372.0,high_tech_exports
+Sub-Saharan Africa (excluding high income),SSA,2016,3343582758.0,high_tech_exports
+Sub-Saharan Africa (excluding high income),SSA,2017,3027021118.0,high_tech_exports
+Sub-Saharan Africa (excluding high income),SSA,2018,3002966986.0,high_tech_exports
+Sub-Saharan Africa (excluding high income),SSA,2019,2665359277.0,high_tech_exports
+Sub-Saharan Africa (excluding high income),SSA,2020,2465881845.0,high_tech_exports
+Sub-Saharan Africa (excluding high income),SSA,2021,3049964340.0,high_tech_exports
+Sub-Saharan Africa (excluding high income),SSA,2022,3143471790.0,high_tech_exports
+Sub-Saharan Africa (excluding high income),SSA,2023,2851303271.0,high_tech_exports
+Sudan,SDN,2012,6500.0,high_tech_exports
+Sudan,SDN,2013,1401074.0,high_tech_exports
+Sudan,SDN,2014,1230308.0,high_tech_exports
+Sudan,SDN,2015,1014184.0,high_tech_exports
+Sudan,SDN,2016,1526016.0,high_tech_exports
+Sudan,SDN,2017,549176.0,high_tech_exports
+Sudan,SDN,2018,869554.0,high_tech_exports
+Suriname,SUR,2010,5516346.0,high_tech_exports
+Suriname,SUR,2011,5886909.0,high_tech_exports
+Suriname,SUR,2012,11673958.0,high_tech_exports
+Suriname,SUR,2013,4466089.0,high_tech_exports
+Suriname,SUR,2014,7305535.0,high_tech_exports
+Suriname,SUR,2015,2471125.0,high_tech_exports
+Suriname,SUR,2016,2519616.0,high_tech_exports
+Suriname,SUR,2017,3001093.0,high_tech_exports
+Suriname,SUR,2018,1169001.0,high_tech_exports
+Suriname,SUR,2019,2914166.0,high_tech_exports
+Suriname,SUR,2020,2807564.0,high_tech_exports
+Suriname,SUR,2021,5291087.0,high_tech_exports
+Suriname,SUR,2022,29030501.0,high_tech_exports
+Suriname,SUR,2023,5300351.0,high_tech_exports
+Suriname,SUR,2024,13290018.0,high_tech_exports
+Sweden,SWE,2007,21938427989.0,high_tech_exports
+Sweden,SWE,2008,23713778281.0,high_tech_exports
+Sweden,SWE,2009,18595606024.0,high_tech_exports
+Sweden,SWE,2010,22906423844.0,high_tech_exports
+Sweden,SWE,2011,25829989917.0,high_tech_exports
+Sweden,SWE,2012,22170259994.0,high_tech_exports
+Sweden,SWE,2013,21883049806.0,high_tech_exports
+Sweden,SWE,2014,21308037662.0,high_tech_exports
+Sweden,SWE,2015,18916107685.0,high_tech_exports
+Sweden,SWE,2016,18699490249.0,high_tech_exports
+Sweden,SWE,2017,17107877138.0,high_tech_exports
+Sweden,SWE,2018,17178539228.0,high_tech_exports
+Sweden,SWE,2019,17422272463.0,high_tech_exports
+Sweden,SWE,2020,17731149372.0,high_tech_exports
+Sweden,SWE,2021,18973178383.0,high_tech_exports
+Sweden,SWE,2022,23544889099.0,high_tech_exports
+Sweden,SWE,2023,25154571512.0,high_tech_exports
+Sweden,SWE,2024,25089500191.0,high_tech_exports
+Switzerland,CHE,2007,36177850584.0,high_tech_exports
+Switzerland,CHE,2008,43496431152.0,high_tech_exports
+Switzerland,CHE,2009,40398414991.0,high_tech_exports
+Switzerland,CHE,2010,43609994818.0,high_tech_exports
+Switzerland,CHE,2011,51150138128.0,high_tech_exports
+Switzerland,CHE,2012,51281753023.0,high_tech_exports
+Switzerland,CHE,2013,54348472738.0,high_tech_exports
+Switzerland,CHE,2014,57103943094.0,high_tech_exports
+Switzerland,CHE,2015,53797217928.0,high_tech_exports
+Switzerland,CHE,2016,55537838910.0,high_tech_exports
+Switzerland,CHE,2017,29834784801.0,high_tech_exports
+Switzerland,CHE,2018,30116125011.0,high_tech_exports
+Switzerland,CHE,2019,29874364250.0,high_tech_exports
+Switzerland,CHE,2020,29246591977.0,high_tech_exports
+Switzerland,CHE,2021,38186912946.0,high_tech_exports
+Switzerland,CHE,2022,81075544288.0,high_tech_exports
+Switzerland,CHE,2023,84443768583.0,high_tech_exports
+Switzerland,CHE,2024,89522512070.0,high_tech_exports
+Syrian Arab Republic,SYR,2008,86642890.0,high_tech_exports
+Syrian Arab Republic,SYR,2009,47278461.0,high_tech_exports
+Syrian Arab Republic,SYR,2010,38812401.0,high_tech_exports
+Tajikistan,TJK,2016,42447877.0,high_tech_exports
+Tajikistan,TJK,2017,23657211.0,high_tech_exports
+Tajikistan,TJK,2018,7128213.0,high_tech_exports
+Tajikistan,TJK,2019,7874133.0,high_tech_exports
+Tajikistan,TJK,2020,3794093.0,high_tech_exports
+Tajikistan,TJK,2021,734896.0,high_tech_exports
+Tajikistan,TJK,2022,3026694.0,high_tech_exports
+Tajikistan,TJK,2023,34144340.0,high_tech_exports
+Tanzania,TZA,2008,16576002.0,high_tech_exports
+Tanzania,TZA,2009,19092797.0,high_tech_exports
+Tanzania,TZA,2010,28334815.0,high_tech_exports
+Tanzania,TZA,2011,43178785.0,high_tech_exports
+Tanzania,TZA,2012,99499785.0,high_tech_exports
+Tanzania,TZA,2013,50138761.0,high_tech_exports
+Tanzania,TZA,2014,28115055.0,high_tech_exports
+Tanzania,TZA,2015,9429192.0,high_tech_exports
+Tanzania,TZA,2016,17985730.0,high_tech_exports
+Tanzania,TZA,2017,16954704.0,high_tech_exports
+Tanzania,TZA,2018,186259360.0,high_tech_exports
+Tanzania,TZA,2019,9216395.0,high_tech_exports
+Tanzania,TZA,2020,18387069.0,high_tech_exports
+Tanzania,TZA,2021,14675348.0,high_tech_exports
+Tanzania,TZA,2022,17578118.0,high_tech_exports
+Tanzania,TZA,2023,43110701.0,high_tech_exports
+Tanzania,TZA,2024,27426708.0,high_tech_exports
+Thailand,THA,2007,32633216169.0,high_tech_exports
+Thailand,THA,2008,33562601078.0,high_tech_exports
+Thailand,THA,2009,30093421406.0,high_tech_exports
+Thailand,THA,2010,37220309522.0,high_tech_exports
+Thailand,THA,2011,36145343805.0,high_tech_exports
+Thailand,THA,2012,37417929887.0,high_tech_exports
+Thailand,THA,2013,37098695791.0,high_tech_exports
+Thailand,THA,2014,38451617301.0,high_tech_exports
+Thailand,THA,2015,38817555616.0,high_tech_exports
+Thailand,THA,2016,39029549638.0,high_tech_exports
+Thailand,THA,2017,43935559396.0,high_tech_exports
+Thailand,THA,2018,44754206998.0,high_tech_exports
+Thailand,THA,2019,43957436600.0,high_tech_exports
+Thailand,THA,2020,45815361315.0,high_tech_exports
+Thailand,THA,2021,50016560454.0,high_tech_exports
+Thailand,THA,2022,53769309657.0,high_tech_exports
+Thailand,THA,2023,54112421409.0,high_tech_exports
+Thailand,THA,2024,61347380454.0,high_tech_exports
+Timor-Leste,TLS,2020,28.0,high_tech_exports
+Timor-Leste,TLS,2021,39.0,high_tech_exports
+Timor-Leste,TLS,2022,1291171.0,high_tech_exports
+Timor-Leste,TLS,2023,546186.0,high_tech_exports
+Togo,TGO,2008,97773.0,high_tech_exports
+Togo,TGO,2009,255620.0,high_tech_exports
+Togo,TGO,2010,164313.0,high_tech_exports
+Togo,TGO,2011,855900.0,high_tech_exports
+Togo,TGO,2012,681561.0,high_tech_exports
+Togo,TGO,2013,938952.0,high_tech_exports
+Togo,TGO,2014,531884.0,high_tech_exports
+Togo,TGO,2015,3127071.0,high_tech_exports
+Togo,TGO,2016,289271.0,high_tech_exports
+Togo,TGO,2017,3202737.0,high_tech_exports
+Togo,TGO,2018,337247.0,high_tech_exports
+Togo,TGO,2019,198643.0,high_tech_exports
+Togo,TGO,2020,915082.0,high_tech_exports
+Togo,TGO,2021,1274941.0,high_tech_exports
+Togo,TGO,2022,1239758.0,high_tech_exports
+Togo,TGO,2023,2229077.0,high_tech_exports
+Togo,TGO,2024,2861089.0,high_tech_exports
+Tonga,TON,2008,0.0,high_tech_exports
+Tonga,TON,2009,8644.0,high_tech_exports
+Tonga,TON,2010,242.0,high_tech_exports
+Tonga,TON,2011,1439.0,high_tech_exports
+Tonga,TON,2012,152707.0,high_tech_exports
+Tonga,TON,2013,56676.0,high_tech_exports
+Tonga,TON,2014,28003.0,high_tech_exports
+Tonga,TON,2017,1116611.0,high_tech_exports
+Tonga,TON,2018,401484.0,high_tech_exports
+Tonga,TON,2019,319243.0,high_tech_exports
+Tonga,TON,2020,221013.0,high_tech_exports
+Tonga,TON,2021,42956.0,high_tech_exports
+Tonga,TON,2022,61407.0,high_tech_exports
+Tonga,TON,2023,2293328.0,high_tech_exports
+Trinidad and Tobago,TTO,2007,60964395.0,high_tech_exports
+Trinidad and Tobago,TTO,2008,36208243.0,high_tech_exports
+Trinidad and Tobago,TTO,2009,3466997.0,high_tech_exports
+Trinidad and Tobago,TTO,2010,2859229.0,high_tech_exports
+Trinidad and Tobago,TTO,2011,6476135.0,high_tech_exports
+Trinidad and Tobago,TTO,2012,32895103.0,high_tech_exports
+Trinidad and Tobago,TTO,2013,10354187.0,high_tech_exports
+Trinidad and Tobago,TTO,2014,6111216.0,high_tech_exports
+Trinidad and Tobago,TTO,2015,5633308.0,high_tech_exports
+Trinidad and Tobago,TTO,2016,5563408.0,high_tech_exports
+Trinidad and Tobago,TTO,2017,6571219.0,high_tech_exports
+Trinidad and Tobago,TTO,2018,5465716.0,high_tech_exports
+Trinidad and Tobago,TTO,2019,10677515.0,high_tech_exports
+Trinidad and Tobago,TTO,2020,4512408.0,high_tech_exports
+Trinidad and Tobago,TTO,2021,5248961.0,high_tech_exports
+Trinidad and Tobago,TTO,2022,6251561.0,high_tech_exports
+Trinidad and Tobago,TTO,2023,9772010.0,high_tech_exports
+Trinidad and Tobago,TTO,2024,9208619.0,high_tech_exports
+Tunisia,TUN,2008,768243968.0,high_tech_exports
+Tunisia,TUN,2009,744466250.0,high_tech_exports
+Tunisia,TUN,2010,999336267.0,high_tech_exports
+Tunisia,TUN,2011,1085024422.0,high_tech_exports
+Tunisia,TUN,2012,854246053.0,high_tech_exports
+Tunisia,TUN,2013,801060250.0,high_tech_exports
+Tunisia,TUN,2014,871478331.0,high_tech_exports
+Tunisia,TUN,2015,838436577.0,high_tech_exports
+Tunisia,TUN,2016,871067168.0,high_tech_exports
+Tunisia,TUN,2017,850828851.0,high_tech_exports
+Tunisia,TUN,2018,828929551.0,high_tech_exports
+Tunisia,TUN,2019,840506111.0,high_tech_exports
+Tunisia,TUN,2020,832607036.0,high_tech_exports
+Tunisia,TUN,2021,959678980.0,high_tech_exports
+Tunisia,TUN,2022,1041437024.0,high_tech_exports
+Tunisia,TUN,2023,1198528314.0,high_tech_exports
+Turkiye,TUR,2007,1883247744.0,high_tech_exports
+Turkiye,TUR,2008,1963946211.0,high_tech_exports
+Turkiye,TUR,2009,1587951755.0,high_tech_exports
+Turkiye,TUR,2010,1943401874.0,high_tech_exports
+Turkiye,TUR,2011,2202177883.0,high_tech_exports
+Turkiye,TUR,2012,2327323000.0,high_tech_exports
+Turkiye,TUR,2013,3782775017.0,high_tech_exports
+Turkiye,TUR,2014,4293034117.0,high_tech_exports
+Turkiye,TUR,2015,3872189201.0,high_tech_exports
+Turkiye,TUR,2016,3421690692.0,high_tech_exports
+Turkiye,TUR,2017,4069123083.0,high_tech_exports
+Turkiye,TUR,2018,3735743019.0,high_tech_exports
+Turkiye,TUR,2019,4280255330.0,high_tech_exports
+Turkiye,TUR,2020,4172760165.0,high_tech_exports
+Turkiye,TUR,2021,5715371245.0,high_tech_exports
+Turkiye,TUR,2022,6906506415.0,high_tech_exports
+Turkiye,TUR,2023,8461609431.0,high_tech_exports
+Turkiye,TUR,2024,9903861226.0,high_tech_exports
+Turks and Caicos Islands,TCA,2011,142047.0,high_tech_exports
+Turks and Caicos Islands,TCA,2012,208171.0,high_tech_exports
+Uganda,UGA,2008,5462128.0,high_tech_exports
+Uganda,UGA,2009,3640910.0,high_tech_exports
+Uganda,UGA,2010,6764101.0,high_tech_exports
+Uganda,UGA,2011,153400859.0,high_tech_exports
+Uganda,UGA,2012,177482058.0,high_tech_exports
+Uganda,UGA,2013,9213750.0,high_tech_exports
+Uganda,UGA,2014,11575196.0,high_tech_exports
+Uganda,UGA,2015,9706303.0,high_tech_exports
+Uganda,UGA,2016,8458426.0,high_tech_exports
+Uganda,UGA,2017,8123723.0,high_tech_exports
+Uganda,UGA,2018,19620087.0,high_tech_exports
+Uganda,UGA,2019,15782091.0,high_tech_exports
+Uganda,UGA,2020,11773219.0,high_tech_exports
+Uganda,UGA,2021,17816471.0,high_tech_exports
+Uganda,UGA,2022,23040470.0,high_tech_exports
+Uganda,UGA,2023,16912260.0,high_tech_exports
+Uganda,UGA,2024,21995979.0,high_tech_exports
+Ukraine,UKR,2011,1932450185.0,high_tech_exports
+Ukraine,UKR,2012,2647760449.0,high_tech_exports
+Ukraine,UKR,2013,2234806486.0,high_tech_exports
+Ukraine,UKR,2014,1990020494.0,high_tech_exports
+Ukraine,UKR,2015,1494839137.0,high_tech_exports
+Ukraine,UKR,2016,1123013376.0,high_tech_exports
+Ukraine,UKR,2017,1213593921.0,high_tech_exports
+Ukraine,UKR,2018,1213122591.0,high_tech_exports
+Ukraine,UKR,2019,1165833595.0,high_tech_exports
+Ukraine,UKR,2020,1175961260.0,high_tech_exports
+Ukraine,UKR,2021,1283624066.0,high_tech_exports
+Ukraine,UKR,2022,888066464.0,high_tech_exports
+Ukraine,UKR,2023,728946823.0,high_tech_exports
+Ukraine,UKR,2024,810228284.0,high_tech_exports
+United Arab Emirates,ARE,2008,211099091.0,high_tech_exports
+United Arab Emirates,ARE,2012,493096229.0,high_tech_exports
+United Arab Emirates,ARE,2013,401391775.0,high_tech_exports
+United Arab Emirates,ARE,2014,1465986043.0,high_tech_exports
+United Arab Emirates,ARE,2015,903670848.0,high_tech_exports
+United Arab Emirates,ARE,2016,484214896.0,high_tech_exports
+United Arab Emirates,ARE,2017,523668921.0,high_tech_exports
+United Arab Emirates,ARE,2018,643634927.0,high_tech_exports
+United Arab Emirates,ARE,2019,670459816.0,high_tech_exports
+United Arab Emirates,ARE,2020,1202292537.0,high_tech_exports
+United Arab Emirates,ARE,2021,2904973069.0,high_tech_exports
+United Arab Emirates,ARE,2022,3214235330.0,high_tech_exports
+United Arab Emirates,ARE,2023,3183641981.0,high_tech_exports
+United Kingdom,GBR,2007,68910890387.0,high_tech_exports
+United Kingdom,GBR,2008,67549496673.0,high_tech_exports
+United Kingdom,GBR,2009,48685088911.0,high_tech_exports
+United Kingdom,GBR,2010,66763505658.0,high_tech_exports
+United Kingdom,GBR,2011,75837991775.0,high_tech_exports
+United Kingdom,GBR,2012,73189556183.0,high_tech_exports
+United Kingdom,GBR,2013,74738907476.0,high_tech_exports
+United Kingdom,GBR,2014,76056349521.0,high_tech_exports
+United Kingdom,GBR,2015,74614813819.0,high_tech_exports
+United Kingdom,GBR,2016,73847891849.0,high_tech_exports
+United Kingdom,GBR,2017,73731450536.0,high_tech_exports
+United Kingdom,GBR,2018,75625933738.0,high_tech_exports
+United Kingdom,GBR,2019,76930491386.0,high_tech_exports
+United Kingdom,GBR,2020,58169579347.0,high_tech_exports
+United Kingdom,GBR,2021,66732692546.0,high_tech_exports
+United Kingdom,GBR,2022,74407155054.0,high_tech_exports
+United Kingdom,GBR,2023,82372118999.0,high_tech_exports
+United Kingdom,GBR,2024,84767727807.0,high_tech_exports
+United States,USA,2007,240663518341.0,high_tech_exports
+United States,USA,2008,243132032706.0,high_tech_exports
+United States,USA,2009,150978138467.0,high_tech_exports
+United States,USA,2010,166133836217.0,high_tech_exports
+United States,USA,2011,166559643396.0,high_tech_exports
+United States,USA,2012,169157788627.0,high_tech_exports
+United States,USA,2013,169309014696.0,high_tech_exports
+United States,USA,2014,176029439000.0,high_tech_exports
+United States,USA,2015,175321672223.0,high_tech_exports
+United States,USA,2016,173983447240.0,high_tech_exports
+United States,USA,2017,154602417969.0,high_tech_exports
+United States,USA,2018,153893519793.0,high_tech_exports
+United States,USA,2019,154028528002.0,high_tech_exports
+United States,USA,2020,141612133157.0,high_tech_exports
+United States,USA,2021,169281833346.0,high_tech_exports
+United States,USA,2022,191876058536.0,high_tech_exports
+United States,USA,2023,208514376770.0,high_tech_exports
+United States,USA,2024,232906639404.0,high_tech_exports
+Uruguay,URY,2007,49306192.0,high_tech_exports
+Uruguay,URY,2008,82005246.0,high_tech_exports
+Uruguay,URY,2009,81823095.0,high_tech_exports
+Uruguay,URY,2010,116183374.0,high_tech_exports
+Uruguay,URY,2011,136348947.0,high_tech_exports
+Uruguay,URY,2012,198244859.0,high_tech_exports
+Uruguay,URY,2013,193922905.0,high_tech_exports
+Uruguay,URY,2014,178779702.0,high_tech_exports
+Uruguay,URY,2015,273945030.0,high_tech_exports
+Uruguay,URY,2016,153433874.0,high_tech_exports
+Uruguay,URY,2017,129215276.0,high_tech_exports
+Uruguay,URY,2018,120520508.0,high_tech_exports
+Uruguay,URY,2019,115769162.0,high_tech_exports
+Uruguay,URY,2020,113936601.0,high_tech_exports
+Uruguay,URY,2021,132818761.0,high_tech_exports
+Uruguay,URY,2022,185880308.0,high_tech_exports
+Uruguay,URY,2023,188475643.0,high_tech_exports
+Uruguay,URY,2024,190484194.0,high_tech_exports
+Uzbekistan,UZB,2017,39348767.0,high_tech_exports
+Uzbekistan,UZB,2018,12132374.0,high_tech_exports
+Uzbekistan,UZB,2019,20474819.0,high_tech_exports
+Uzbekistan,UZB,2020,42220494.0,high_tech_exports
+Uzbekistan,UZB,2021,15074495.0,high_tech_exports
+Uzbekistan,UZB,2022,83976163.0,high_tech_exports
+Uzbekistan,UZB,2023,200637379.0,high_tech_exports
+Uzbekistan,UZB,2024,96321857.0,high_tech_exports
+Viet Nam,VNM,2008,3016805392.0,high_tech_exports
+Viet Nam,VNM,2009,3533883638.0,high_tech_exports
+Viet Nam,VNM,2010,6069554443.0,high_tech_exports
+Viet Nam,VNM,2011,11709409219.0,high_tech_exports
+Viet Nam,VNM,2012,21346437527.0,high_tech_exports
+Viet Nam,VNM,2013,32759478692.0,high_tech_exports
+Viet Nam,VNM,2014,36376040130.0,high_tech_exports
+Viet Nam,VNM,2015,47524790042.0,high_tech_exports
+Viet Nam,VNM,2016,55216909912.0,high_tech_exports
+Viet Nam,VNM,2017,74114052667.0,high_tech_exports
+Viet Nam,VNM,2018,82611228668.0,high_tech_exports
+Viet Nam,VNM,2019,90430194116.0,high_tech_exports
+Viet Nam,VNM,2020,101534457843.0,high_tech_exports
+Viet Nam,VNM,2021,120466093145.0,high_tech_exports
+Viet Nam,VNM,2022,135907434790.0,high_tech_exports
+Viet Nam,VNM,2023,132776576635.0,high_tech_exports
+West Bank and Gaza,PSE,2007,3416667.0,high_tech_exports
+West Bank and Gaza,PSE,2008,4747147.0,high_tech_exports
+West Bank and Gaza,PSE,2009,6979502.0,high_tech_exports
+West Bank and Gaza,PSE,2010,11226657.0,high_tech_exports
+West Bank and Gaza,PSE,2011,696891.0,high_tech_exports
+West Bank and Gaza,PSE,2012,1128720.0,high_tech_exports
+West Bank and Gaza,PSE,2013,376541.0,high_tech_exports
+West Bank and Gaza,PSE,2014,1101491.0,high_tech_exports
+West Bank and Gaza,PSE,2015,5860647.0,high_tech_exports
+West Bank and Gaza,PSE,2016,4340427.0,high_tech_exports
+West Bank and Gaza,PSE,2017,4292150.0,high_tech_exports
+West Bank and Gaza,PSE,2018,6243919.0,high_tech_exports
+West Bank and Gaza,PSE,2019,6637323.0,high_tech_exports
+West Bank and Gaza,PSE,2020,11992939.0,high_tech_exports
+West Bank and Gaza,PSE,2021,14531924.0,high_tech_exports
+West Bank and Gaza,PSE,2022,12160336.0,high_tech_exports
+West Bank and Gaza,PSE,2023,17759669.0,high_tech_exports
+World,WLD,2011,2150066249210.0,high_tech_exports
+World,WLD,2012,2206044379119.0,high_tech_exports
+World,WLD,2013,2314703682159.0,high_tech_exports
+World,WLD,2014,2363111504189.0,high_tech_exports
+World,WLD,2015,2278313876247.0,high_tech_exports
+World,WLD,2016,2231978518131.0,high_tech_exports
+World,WLD,2017,2666214206463.0,high_tech_exports
+World,WLD,2018,2911325380177.0,high_tech_exports
+World,WLD,2019,2863835450855.0,high_tech_exports
+World,WLD,2020,2860013945158.0,high_tech_exports
+World,WLD,2021,3451354766344.0,high_tech_exports
+World,WLD,2022,3732331336808.0,high_tech_exports
+World,WLD,2023,3575435720236.0,high_tech_exports
+"Yemen, Rep.",YEM,2009,382625.0,high_tech_exports
+"Yemen, Rep.",YEM,2010,398148.0,high_tech_exports
+"Yemen, Rep.",YEM,2011,678968.0,high_tech_exports
+"Yemen, Rep.",YEM,2012,584721.0,high_tech_exports
+"Yemen, Rep.",YEM,2013,2668283.0,high_tech_exports
+"Yemen, Rep.",YEM,2014,1319726.0,high_tech_exports
+"Yemen, Rep.",YEM,2015,3030318.0,high_tech_exports
+Zambia,ZMB,2008,4001399.0,high_tech_exports
+Zambia,ZMB,2009,4979110.0,high_tech_exports
+Zambia,ZMB,2010,2600041.0,high_tech_exports
+Zambia,ZMB,2011,11889970.0,high_tech_exports
+Zambia,ZMB,2012,46122333.0,high_tech_exports
+Zambia,ZMB,2013,16747925.0,high_tech_exports
+Zambia,ZMB,2014,18101351.0,high_tech_exports
+Zambia,ZMB,2015,29388136.0,high_tech_exports
+Zambia,ZMB,2016,182881125.0,high_tech_exports
+Zambia,ZMB,2017,36185168.0,high_tech_exports
+Zambia,ZMB,2018,25103534.0,high_tech_exports
+Zambia,ZMB,2019,21464462.0,high_tech_exports
+Zambia,ZMB,2020,10714229.0,high_tech_exports
+Zambia,ZMB,2021,10218867.0,high_tech_exports
+Zambia,ZMB,2022,8748554.0,high_tech_exports
+Zambia,ZMB,2023,14668136.0,high_tech_exports
+Zambia,ZMB,2024,23417908.0,high_tech_exports
+Zimbabwe,ZWE,2008,58984637.0,high_tech_exports
+Zimbabwe,ZWE,2009,7586439.0,high_tech_exports
+Zimbabwe,ZWE,2010,9504795.0,high_tech_exports
+Zimbabwe,ZWE,2011,8976852.0,high_tech_exports
+Zimbabwe,ZWE,2012,20208296.0,high_tech_exports
+Zimbabwe,ZWE,2013,18935955.0,high_tech_exports
+Zimbabwe,ZWE,2014,12120906.0,high_tech_exports
+Zimbabwe,ZWE,2015,11810010.0,high_tech_exports
+Zimbabwe,ZWE,2016,13725165.0,high_tech_exports
+Zimbabwe,ZWE,2017,11180300.0,high_tech_exports
+Zimbabwe,ZWE,2018,9709358.0,high_tech_exports
+Zimbabwe,ZWE,2019,27782789.0,high_tech_exports
+Zimbabwe,ZWE,2020,8275259.0,high_tech_exports
+Zimbabwe,ZWE,2021,4788223.0,high_tech_exports
+Zimbabwe,ZWE,2022,7822102.0,high_tech_exports
+Zimbabwe,ZWE,2023,10554661.0,high_tech_exports
+Zimbabwe,ZWE,2024,13885912.0,high_tech_exports
