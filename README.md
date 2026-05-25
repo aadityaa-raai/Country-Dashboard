@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-👉 https://your-streamlit-app-url.streamlit.app
+👉 https://country-dashboard-og9u97oeh2uggj72ylmypt.streamlit.app
 
 ---
 
@@ -327,7 +327,7 @@ Country-Dashboard/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/country-dashboard.git
+git clone https://https://github.com/aadityaa-raai/Country-Dashboard
 cd country-dashboard
 ```
 
