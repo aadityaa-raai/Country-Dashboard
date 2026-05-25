@@ -10,7 +10,8 @@ from src.Entity.artifacts import DataProcessingArtifact
 from src.Section_Processing.section_utils import (
     load_section_datasets,
     merge_datasets,
-    save_section_dataset
+    save_section_dataset,
+    add_iso3_code
 )
 
 def process_section(
@@ -36,6 +37,8 @@ def process_section(
         final_df = merge_datasets(
             dataframes
         )
+
+        final_df = add_iso3_code(final_df)
 
         save_section_dataset(
 

@@ -9,6 +9,7 @@ from visualizations.environment import render_environment_dashboard
 from visualizations.industry import render_industry_dashboard
 from visualizations.military import render_military_dashboard
 from visualizations.technology import render_technology_dashboard
+from visualizations.world_map_dashboard import render_world_map_dashboard
 
 
 # ============================================
@@ -94,6 +95,13 @@ data_registry = load_data_registry(DATA_REGISTRY_PATH)
 
 st.sidebar.title("🌍 Country Dashboard")
 
+view_mode = st.sidebar.radio(
+    "Select View",
+    [
+        "Dashboard",
+        "World Map"
+    ]
+)
 
 # --------------------------------------------
 # SECTION SELECTOR
@@ -192,10 +200,12 @@ df = filter_year_range(
     end_year
 )
 
-df = filter_countries(
-    df,
-    compare_countries
-)
+if view_mode == "Dashboard":
+
+    df = filter_countries(
+        df,
+        compare_countries
+    )
 
 
 # ============================================
@@ -254,33 +264,39 @@ with col3:
 st.markdown("---")
 
 # ============================================
-# SECTION VISUALIZATIONS
+# VISUALIZATION ROUTING
 # ============================================
 
-if selected_section == "Economy":
+if view_mode == "World Map":
 
-    render_economy_dashboard(df)
+    render_world_map_dashboard(df)
 
-elif selected_section == "Demographics":
+else:
 
-    render_demographics_dashboard(df)
+    if selected_section == "Economy":
 
-elif selected_section == "Trade":
+        render_economy_dashboard(df)
 
-    render_trade_dashboard(df)
+    elif selected_section == "Demographics":
 
-elif selected_section == "Technology":
+        render_demographics_dashboard(df)
 
-    render_technology_dashboard(df)
+    elif selected_section == "Trade":
 
-elif selected_section == "Environment":
+        render_trade_dashboard(df)
 
-    render_environment_dashboard(df)
+    elif selected_section == "Technology":
 
-elif selected_section == "Industry":
+        render_technology_dashboard(df)
 
-    render_industry_dashboard(df)
+    elif selected_section == "Environment":
 
-elif selected_section == "Military":
+        render_environment_dashboard(df)
 
-    render_military_dashboard(df)
+    elif selected_section == "Industry":
+
+        render_industry_dashboard(df)
+
+    elif selected_section == "Military":
+
+        render_military_dashboard(df)

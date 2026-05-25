@@ -2,6 +2,7 @@ import os
 import sys
 import json
 import pandas as pd
+import pycountry
 
 from src.Entity.config import SectionProcessingConfig
 from src.Entity.artifacts import DataProcessingArtifact
@@ -140,3 +141,55 @@ def save_section_dataset(
 
     except Exception as e:
         raise CustomException(e, sys)
+
+    
+def add_iso3_code(
+    df,
+    country_column="Country"
+):
+    """
+    Adds ISO3 country codes required for world maps.
+    """
+
+    def get_iso3(country_name):
+
+        manual_mapping = {
+
+            "Turkey": "TUR",
+            "Türkiye": "TUR",
+
+            "Czech Republic": "CZE",
+            "Czechia": "CZE",
+
+            "South Korea": "KOR",
+            "North Korea": "PRK",
+
+            "Russia": "RUS",
+
+            "Vietnam": "VNM",
+
+            "Iran": "IRN",
+
+            "Egypt": "EGY"
+        }
+
+        if country_name in manual_mapping:
+
+            return manual_mapping[country_name]
+
+        try:
+
+            return pycountry.countries.lookup(
+                country_name
+            ).alpha_3
+
+        except:
+
+            return None
+
+    df["ISO3"] = df[country_column].apply(
+        get_iso3
+    )
+
+    return df
+

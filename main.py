@@ -79,7 +79,7 @@ if __name__=="__main__":
                 )
 
 
-        print(section_processing_artifact.section_registry)
+        # print(section_processing_artifact.section_registry)
 
 
 
