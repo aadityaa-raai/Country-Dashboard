@@ -1,78 +1,75 @@
+🌍 Country Dashboard — Repository Architecture
 Country-Dashboard/
 │
-├── Artifacts/
-│   ├── raw_data/
-│   │   ├── gdp_raw.csv
-│   │   ├── population_raw.csv
-│   │   ├── inflation_raw.csv
-│   │   └── ...
-│   │
-│   └── processed_data/
-│       ├── kpi_data.csv
-│       ├── gdp_data.csv
-│       ├── population_data.csv
-│       ├── economy_data.csv
-│       ├── trade_data.csv
-│       ├── technology_data.csv
-│       ├── environment_data.csv
-│       └── military_data.csv
+├── 📘 README.md                    # Project overview & setup guide
+├── 📦 requirements.txt             # Python dependencies
+├── 🏗️ architecture.txt             # Repository architecture notes
+├── 🔄 data_pipeline_flow.txt       # Pipeline & workflow explanation
+├── 🚀 main.py                      # Main execution entry point
+├── 🚫 .gitignore                   # Ignored files & folders
 │
-|
-src
-│   ├── Config/
-│   │   ├── __init__.py
-│   │   └── config.yaml
+├── 📂 artifacts/                   # Generated pipeline artifacts
 │   │
-│   ├── Entity/
-│   │   ├── __init__.py
-│   │   ├── config.py
-│   │   └── artifacts.py
+│   ├── 📂 data/
+│   │   └── 📑 data_registry.json   # Central dataset registry
 │   │
-│   ├── Ingestion/
-│   │   ├── __init__.py
-│   │   ├── sources.py
-│   │   └── data_ingestion.py
-│   │
-│   ├── Processing/
-│   │   ├── __init__.py
+│   ├── 📂 data_ingestion/
 │   │   │
-│   │   ├── data_cleaning.py
-│   │   ├── preprocessing_utils.py
-│   │   │
-│   │   ├── kpi_processor.py
-│   │   ├── gdp_processor.py
-│   │   ├── population_processor.py
-│   │   ├── economy_processor.py
-│   │   ├── trade_processor.py
-│   │   ├── technology_processor.py
-│   │   ├── environment_processor.py
-│   │   └── military_processor.py
+│   │   ├── 📂 raw_data/            # Raw downloaded datasets
+│   │   ├── 📂 cache_data/          # Cached API responses
+│   │   └── 📑 metadata.json        # Ingestion metadata
 │   │
-│   ├── Dashboard/
-│   │   ├── __init__.py
-│   │   ├── app.py
-│   │   │
-│   │   ├── components/
-│   │   │   ├── sidebar.py
-│   │   │   ├── filters.py
-│   │   │   └── cards.py
-│   │   │
-│   │   └── sections/
-│   │       ├── kpi_section.py
-│   │       ├── gdp_section.py
-│   │       ├── population_section.py
-│   │       ├── economy_section.py
-│   │       ├── trade_section.py
-│   │       ├── technology_section.py
-│   │       ├── environment_section.py
-│   │       └── military_section.py
-│   │
-│   └── Utils/
-│       ├── __init__.py
-│       ├── logger.py
-│       ├── exception.py
-│       └── common.py
+│   └── 📂 data_processing/
+│       └── 📂 processed_data/      # Cleaned & processed datasets
+│           ├── 💰 economy/
+│           ├── 👥 demographics/
+│           ├── 🌐 trade/
+│           ├── 💻 technology/
+│           ├── 🌱 environment/
+│           ├── 🏭 industry/
+│           └── 🛡️ military/
 │
-├── requirements.txt
-├── README.md
-└── main.py
+├── 📂 src/                         # Core backend pipeline
+│   │
+│   ├── ⚙️ Config/
+│   │   └── 📄 config.yaml          # Global project configuration
+│   │
+│   ├── 🧩 Entity/
+│   │   ├── 📄 artifacts.py         # Artifact path classes
+│   │   └── 📄 config.py            # Config entity classes
+│   │
+│   ├── 📥 Ingestion/
+│   │   ├── 📄 data_ingestion.py    # Dataset ingestion pipeline
+│   │   └── 📄 sources.py           # API & dataset sources
+│   │
+│   ├── 🧹 Processing/
+│   │   ├── 📄 dataset_processor.py     # Generic dataset processor
+│   │   ├── 📄 dataset_registry.py      # Dataset metadata registry
+│   │   └── 📄 preprocessing_utils.py   # Cleaning & preprocessing utils
+│   │
+│   ├── 🏛️ Section_Processing/
+│   │   ├── 📄 section_processor.py     # Section-level aggregation logic
+│   │   └── 📄 section_utils.py         # Shared section utilities
+│   │
+│   └── 🛠️ Utils/
+│       ├── 📄 exception.py         # Custom exception handling
+│       └── 📄 logger.py            # Logging system
+│
+└── 📂 Dashboard/                   # Streamlit dashboard frontend
+    │
+    ├── 🎛️ app.py                   # Dashboard application entry
+    │
+    ├── 📂 components/              # Reusable UI components
+    │   ├── 📈 charts.py            # Reusable chart components
+    │   ├── 📌 kpi_card.py          # KPI card widgets
+    │   └── 🌍 world_map.py         # Interactive world map
+    │
+    └── 📂 visualizations/          # Section-wise dashboards
+        ├── 👥 demographics.py
+        ├── 💰 economy.py
+        ├── 🌱 environment.py
+        ├── 🏭 industry.py
+        ├── 🛡️ military.py
+        ├── 💻 technology.py
+        ├── 🌐 trade.py
+        └── 🗺️ world_map_dashboard.py

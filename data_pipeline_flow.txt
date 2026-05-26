@@ -1,0 +1,27 @@
+⚡ Data Pipeline Flow
+🌍 External APIs / Datasets
+              │
+              ▼
+📥 Data Ingestion Layer
+              │
+              ▼
+🧹 Data Cleaning & Preprocessing
+              │
+              ▼
+🏛️ Section-wise Data Processing
+              │
+              ▼
+📦 Processed CSV Artifact Generation
+              │
+              ▼
+📑 Data Registry Mapping
+              │
+              ▼
+🎛️ Streamlit Dashboard Rendering
+              │
+ ┌────────────┼────────────┐
+ ▼            ▼            ▼
+📈 Charts   📌 KPIs      🌍 World Map
+              │
+              ▼
+🔄 Country Compare Mode
